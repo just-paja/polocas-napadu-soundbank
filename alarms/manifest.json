@@ -1,0 +1,66 @@
+{
+  "name": "alarms",
+  "baseTag": "alarm",
+  "sounds": [
+    {
+      "file": "analog-watch-alarm.mp3",
+      "tags": ["time"]
+    },
+    {
+      "file": "old-fashioned-school-bell.mp3",
+      "tags": ["ringing"]
+    },
+    {
+      "file": "computer-warning-loop.mp3",
+      "tags": ["computer" "warning", "loop"]
+    },
+    {
+      "file": "warning-siren.mp3",
+      "tags": ["warning", "siren"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "alarm",
+      "title": {
+        "en": "Alarms",
+        "cs": "Alarmy"
+      }
+    },
+    {
+      "name": "notification",
+      "title": {
+        "en": "Notifications",
+        "cs": "Notifikace"
+      }
+    },
+    {
+      "name": "ringing",
+      "title": {
+        "en": "Ringing",
+        "cs": "Zvonění"
+      }
+    },
+    {
+      "name": "siren",
+      "title": {
+        "en": "Siren",
+        "cs": "Siréna"
+      }
+    },
+    {
+      "name": "time",
+      "title": {
+        "en": "Time",
+        "cs": "Čas"
+      }
+    },
+    {
+      "name": "warning",
+      "title": {
+        "en": "Warning",
+        "cs": "Varování"
+      }
+    }
+  ]
+}

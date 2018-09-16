@@ -1,0 +1,93 @@
+{
+  "name": "bensound",
+  "sounds": [
+    {
+      "file": "bensound-betterdays.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-betterdays",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "(1).mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-betterdays",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "(2).mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-downtown.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-dubstep.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-enigmatic.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-epic.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-goinghigher.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-india.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-jazzyfrenchy.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-newdawn.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-newdawn",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "(1).mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-ofeliasdream.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-popdance.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-popdance",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "(1).mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-relaxing.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-sexy.mp3",
+      "tags": ["bensound"]
+    },
+    {
+      "file": "bensound-theduel.mp3",
+      "tags": ["bensound"]
+    }
+  ]
+}

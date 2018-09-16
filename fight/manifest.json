@@ -1,0 +1,37 @@
+{
+  "name": "fight",
+  "sounds": [
+    {
+      "file": "body_fall_floor_psef.043.wav",
+      "tags": ["fight"]
+    },
+    {
+      "file": "combat_whoosh_psef.084.wav",
+      "tags": ["fight"]
+    },
+    {
+      "file": "left-hook.mp3",
+      "tags": ["fight"]
+    },
+    {
+      "file": "punch.mp3",
+      "tags": ["fight"]
+    },
+    {
+      "file": "punch2.mp3",
+      "tags": ["fight"]
+    },
+    {
+      "file": "right-hook.mp3",
+      "tags": ["fight"]
+    },
+    {
+      "file": "slap.mp3",
+      "tags": ["fight"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["fight"]
+    }
+  ]
+}

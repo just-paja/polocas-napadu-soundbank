@@ -1,0 +1,13 @@
+{
+  "name": "services",
+  "sounds": [
+    {
+      "file": "front-desk-bells-daniel_simon.mp3",
+      "tags": ["services"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["services"]
+    }
+  ]
+}

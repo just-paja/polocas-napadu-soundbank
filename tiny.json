@@ -1,0 +1,40 @@
+{
+  "name": "studio-polocas",
+  "modules": [
+    "alarms",
+    "aliens",
+    "animal",
+    "genre",
+    "wearable"
+  ],
+  "tags": [
+    {
+      "name": "ambient",
+      "title": {
+        "en": "Ambient",
+        "cs": "Porstředí"
+      }
+    },
+    {
+      "name": "inside",
+      "title": {
+        "en": "Inside",
+        "cs": "Uvnitř"
+      }
+    },
+    {
+      "name": "loop",
+      "title": {
+        "en": "Loop",
+        "cs": "Smyčka"
+      }
+    },
+    {
+      "name": "outside",
+      "title": {
+        "en": "Outside",
+        "cs": "Venku"
+      }
+    }
+  ]
+}

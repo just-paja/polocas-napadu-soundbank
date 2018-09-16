@@ -1,0 +1,48 @@
+{
+  "name": "animal-mammal-cattle",
+  "baseTag": "cattle",
+  "sounds": [
+    {
+      "file": "cow-moos-3x.mp3",
+      "tags": ["cow", "moo"]
+    },
+    {
+      "file": "horse-snorting.mp3",
+      "tags": ["horse", "snort"]
+    },
+    {
+      "file": "pigs-screaming.wav",
+      "tags": ["pig", "scream"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "cattle",
+      "title": {
+        "en": "Cattle",
+        "cs": "Dobytek"
+      }
+    },
+    {
+      "name": "cow",
+      "title": {
+        "en": "Cow",
+        "cs": "Kráva"
+      }
+    },
+    {
+      "name": "pig",
+      "title": {
+        "en": "Pig",
+        "cs": "Prase"
+      }
+    },
+    {
+      "name": "moo",
+      "title": {
+        "en": "Moo",
+        "cs": "Bučení"
+      }
+    }
+  ]
+}

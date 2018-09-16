@@ -1,0 +1,97 @@
+{
+  "name": "weapons",
+  "sounds": [
+    {
+      "file": "ammo-drop.mp3",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "battle_cannon_psef.023.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "bomb_fallin_whistle_psef.045.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "drawing_swords_psef.106.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "firearm_1914_remington_enfield_303_cocking_psef.127.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "gunshot_machine_gun_psef.150.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "gun-smith-wesson-single.mp3",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "gun_toy_dart_pistol_firing_psef.149.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "gun_44_mag_psef.148.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "jaws_of_life_pull_motor_on_run_idle_off_psef.167.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "laser_hit_psef.221.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "laser_sword_movements_psef.191.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "nail_gun_psef.210.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "ninja_star_spin_psef.212.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "rapid-fire.mp3",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "ray_gun_laser_psef.222.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "ricochet_psef.243.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "rocket_launch_psef.247.wav",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "shotgun-reload.mp3",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "shotgun-shot.mp3",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "sniper-rifle-barret.mp3",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["weapons"]
+    },
+    {
+      "file": "winchester12-shot.mp3",
+      "tags": ["weapons"]
+    }
+  ]
+}

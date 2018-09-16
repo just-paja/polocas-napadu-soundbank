@@ -1,0 +1,17 @@
+{
+  "name": "nature",
+  "sounds": [
+    {
+      "file": "geysers_old_faith_psef.137.wav",
+      "tags": ["nature"]
+    },
+    {
+      "file": "geysers_thermal_mud_pool_psef.138.wav",
+      "tags": ["nature"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["nature"]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "explosions",
+  "sounds": [
+    {
+      "file": "c-4explosion_psef.059.wav",
+      "tags": ["explosions"]
+    },
+    {
+      "file": "explosion_debris_psef.119.wav",
+      "tags": ["explosions"]
+    },
+    {
+      "file": "explosion-ultra-bass.mp3",
+      "tags": ["explosions"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["explosions"]
+    }
+  ]
+}

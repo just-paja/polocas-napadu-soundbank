@@ -1,0 +1,73 @@
+{
+  "name": "animals-birds",
+  "baseTag": "bird",
+  "sounds": [
+    {
+      "file": "bird-rooster-morning.wav",
+      "tags": ["rooster", "dawn", "scream"]
+    },
+    {
+      "file": "bird-singing.mp3",
+      "tags": ["singing", "loop", "outside"]
+    },
+    {
+      "file": "bird-seagulls-beach.wav",
+      "tags": ["scream", "beach", "outside"]
+    },
+    {
+      "file": "pigeons-flyaway.wav",
+      "tags": ["pigeon", "flyaway", "outside"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "bird",
+      "title": {
+        "en": "Bird",
+        "cs": "Pták"
+      }
+    },
+    {
+      "name": "beach",
+      "title": {
+        "en": "Beach",
+        "cs": "Pláž"
+      }
+    },
+    {
+      "name": "pigeon",
+      "title": {
+        "en": "Pigeon",
+        "cs": "Holub"
+      }
+    },
+    {
+      "name": "singing",
+      "title": {
+        "en": "Singing",
+        "cs": "Zpěv"
+      }
+    },
+    {
+      "name": "rooster",
+      "title": {
+        "en": "Rooster",
+        "cs": "Kohout"
+      }
+    },
+    {
+      "name": "dawn",
+      "title": {
+        "en": "Dawn",
+        "cs": "Svítání"
+      }
+    },
+    {
+      "name": "flyaway",
+      "title": {
+        "en": "Fly away",
+        "cs": "Odlet"
+      }
+    }
+  ]
+}

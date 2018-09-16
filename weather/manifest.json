@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "sounds": [
+    {
+      "file": "thunder_sound_FX-Grant_Evans-1523270250.mp3",
+      "tags": ["weather"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["weather"]
+    },
+    {
+      "file": "Wind-Mark_DiAngelo-1940285615.mp3",
+      "tags": ["weather"]
+    }
+  ]
+}

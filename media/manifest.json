@@ -1,0 +1,41 @@
+{
+  "name": "media",
+  "sounds": [
+    {
+      "file": "epic_cinematic_hit_psef.082.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "glitch_dist_psef.219.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "news-intro.mp3",
+      "tags": ["media"]
+    },
+    {
+      "file": "scanner_police_psef.255.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "sonar_ping_loop_psef.290.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "telephones_america_dial_psef.309.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "television_static_psef.310.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "test_tone_sine_wave_psef.311.wav",
+      "tags": ["media"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["media"]
+    }
+  ]
+}

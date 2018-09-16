@@ -1,0 +1,32 @@
+{
+  "name": "aliens",
+  "sounds": [
+    {
+      "file": "alien-spaceship.mp3",
+      "tags": ["alien", "ambient", "inside", "loop", "on-board", "spaceship"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "alien",
+      "title": {
+        "en": "Alien",
+        "cs": "Mimozemšťan"
+      }
+    },
+    {
+      "name": "on-board",
+      "title": {
+        "en": "On Board",
+        "cs": "Na Palubě"
+      }
+    },
+    {
+      "name": "spaceship",
+      "title": {
+        "en": "Spaceship",
+        "cs": "Vesmírná loď"
+      }
+    }
+  ]
+}

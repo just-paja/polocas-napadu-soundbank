@@ -1,0 +1,25 @@
+{
+  "name": "religion",
+  "sounds": [
+    {
+      "file": "bells-tibetan.mp3",
+      "tags": ["religion"]
+    },
+    {
+      "file": "church_bells_france_psef.081.wav",
+      "tags": ["religion"]
+    },
+    {
+      "file": "church-chime.mp3",
+      "tags": ["religion"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["religion"]
+    },
+    {
+      "file": "tolling-bell.mp3",
+      "tags": ["religion"]
+    }
+  ]
+}

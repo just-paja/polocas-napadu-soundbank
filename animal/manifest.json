@@ -1,0 +1,52 @@
+{
+  "name": "animals",
+  "baseTag": "animal",
+  "modules": [
+    "animal-bird",
+    "animal-mammal"
+  ],
+  "tags": [
+    {
+      "name": "animal",
+      "title": {
+        "en": "Animal",
+        "cs": "Zvíře"
+      }
+    },
+    {
+      "name": "animal-call",
+      "title": {
+        "en": "Animal Call",
+        "cs": "Zvířecí volání"
+      }
+    },
+    {
+      "name": "big-size",
+      "title": {
+        "en": "Big",
+        "cs": "Velký"
+      }
+    },
+    {
+      "name": "medium-size",
+      "title": {
+        "en": "Medium",
+        "cs": "Středně velký"
+      }
+    },
+    {
+      "name": "small-size",
+      "title": {
+        "en": "Small",
+        "cs": "Malý"
+      }
+    },
+    {
+      "name": "scream",
+      "title": {
+        "en": "Scream",
+        "cs": "Křik"
+      }
+    }
+  ]
+}

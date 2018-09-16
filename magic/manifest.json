@@ -1,0 +1,25 @@
+{
+  "name": "magic",
+  "sounds": [
+    {
+      "file": "fireball_by_psef.128.wav",
+      "tags": ["magic"]
+    },
+    {
+      "file": "magic_light_flash_vocal_psef.263.wav",
+      "tags": ["magic"]
+    },
+    {
+      "file": "magic_light_flash_vocal_psef.264.wav",
+      "tags": ["magic"]
+    },
+    {
+      "file": "magic_spell_evil_voice_psef.199.wav",
+      "tags": ["magic"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["magic"]
+    }
+  ]
+}

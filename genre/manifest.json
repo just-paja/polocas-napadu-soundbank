@@ -1,0 +1,7 @@
+{
+  "name": "genres",
+  "modules": [
+    "genre-scifi",
+    "genre-western"
+  ]
+}

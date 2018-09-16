@@ -1,0 +1,13 @@
+{
+  "name": "chemicals",
+  "sounds": [
+    {
+      "file": "household_acid_fizz_psef.001.wav",
+      "tags": ["chemicals"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["chemicals"]
+    }
+  ]
+}

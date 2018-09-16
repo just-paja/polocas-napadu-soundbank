@@ -1,0 +1,9 @@
+{
+  "name": "buttons",
+  "sounds": [
+    {
+      "file": "buttons_switches_psef.057.wav",
+      "tags": ["buttons"]
+    }
+  ]
+}

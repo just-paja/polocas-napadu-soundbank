@@ -1,0 +1,13 @@
+{
+  "name": "office",
+  "sounds": [
+    {
+      "file": "filing_cabinet_pull_psef.125.wav",
+      "tags": ["office"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["office"]
+    }
+  ]
+}

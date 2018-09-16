@@ -1,0 +1,9 @@
+{
+  "name": "disasters",
+  "sounds": [
+    {
+      "file": "avalanche-daniel_simon.mp3",
+      "tags": ["disasters"]
+    }
+  ]
+}

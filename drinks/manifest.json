@@ -1,0 +1,33 @@
+{
+  "name": "drinks",
+  "sounds": [
+    {
+      "file": "beer-bottles-clank.mp3",
+      "tags": ["drinks"]
+    },
+    {
+      "file": "drink_stir_psef.107.wav",
+      "tags": ["drinks"]
+    },
+    {
+      "file": "glass_shard_smash_psef.141.wav",
+      "tags": ["drinks"]
+    },
+    {
+      "file": "ice-cubes-glass.mp3",
+      "tags": ["drinks"]
+    },
+    {
+      "file": "pop_cork_psef.234.wav",
+      "tags": ["drinks"]
+    },
+    {
+      "file": "pour-full-glass.mp3",
+      "tags": ["drinks"]
+    },
+    {
+      "file": "pour_glugs_psef.235.wav",
+      "tags": ["drinks"]
+    }
+  ]
+}

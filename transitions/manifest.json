@@ -1,0 +1,41 @@
+{
+  "name": "transitions",
+  "sounds": [
+    {
+      "file": "cinematic_mega_horns_psef.279.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "cinematic_mega_horns_psef.280.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "cinematic_mega_horns_psef.281.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "cinematic_risers_psef.282.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "cinematic_risers_psef.283.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "dark_cinematic_transition_psef.083.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "distorter_low_repeat_psef.278.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "swell_dark_shimmer_bell_like_psef.wav",
+      "tags": ["transitions"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["transitions"]
+    }
+  ]
+}

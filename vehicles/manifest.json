@@ -1,0 +1,193 @@
+{
+  "name": "vehicles",
+  "sounds": [
+    {
+      "file": "aircraft_ct4a_idle_taxi_psef.004.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "airplane-fly-by.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "airplane-landing.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "boat_paddle_steamer_1912_loop_psef.041.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "boat_pass_by_psef.042.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "bus_by_psef.056.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "car-door-close.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "car-driveaway-brash.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "car-funky-dixie-horn.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "cars_veteran_pass_psef.066.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "dragsters_at_finish_line_psef.104.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "elevator_operate_psef.117.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "engine_villiers_412_973_operating_psef.118.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "fast_depart_tirescreech_psef.135.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "fire-truck-air-horn.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "fork_lift_run_psef.133.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "formula-pass-by.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "f18_hornet_distant_passby_psef.120.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "harley-davidson-daniel_simon.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "helicopter_pass_by_psef.154.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "horn_1999_camry_psef.158.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "motorcycles_psef.207.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "motor_run_psef.208.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "muscle-car.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "old-car-engine.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "paddle_boat_paddle_psef.216.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "plane_turbulance_hard_psef.229.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "police_siren_psef.233.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "rain_int",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "car_pouring_roof_psef.236.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "rapid_transit_bart_train_int_arrive_depart_psef.237.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "robot_army_march_psef.246.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "ships_ferries_psef.272.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "space_ship_pass_by_psef.291.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "steamtrain_unknown_passing_psef.298.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "steam-train-whistle.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "steam_whistle_psef.299.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "tank_pass_by__psef.306.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "tractor_furguson_1956_startup_psef.315.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "Train_Hits_Guy-Train_Man-2122004195.mp3",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "train_horn_psef.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "train_pass_by_psef.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "truck_air_brakes_psef.322.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "truck_by_psef.323.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "truck_drive_psef.324.wav",
+      "tags": ["vehicles"]
+    },
+    {
+      "file": "submarine-diving-alarm.mp3",
+      "tags": ["alarm", "alert", "submarine"]
+    }
+  ]
+}

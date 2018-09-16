@@ -1,0 +1,16 @@
+{
+  "name": "wearable",
+  "modules": [
+    "wearable-armor",
+    "wearable-clothes"
+  ],
+  "tags": [
+    {
+      "name": "wearables",
+      "title": {
+        "en": "Wearable",
+        "cs": "Nositelné"
+      }
+    }
+  ]
+}

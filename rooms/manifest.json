@@ -1,0 +1,21 @@
+{
+  "name": "rooms",
+  "sounds": [
+    {
+      "file": "fan_household_on_oscillating_psef.121.wav",
+      "tags": ["rooms"]
+    },
+    {
+      "file": "rug_being_pull_out_psef.252.wav",
+      "tags": ["rooms"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["rooms"]
+    },
+    {
+      "file": "toilet-flush.mp3",
+      "tags": ["rooms"]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "materials",
+  "sounds": [
+    {
+      "file": "crash_glass_psef.087.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "crash_rock_psef.088.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "crash_wall_psef.089.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "crockery_crashes_psef.092.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "chopping_wood_loop_psef.080.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "large_wood_cracking_psef.190.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "rock_salt_step_psef.248.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "rope_strain_psef.250.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "rubber_stretch_psef.251.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "sand_light_falling_on_stone_psef.253.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "sand_pour_psef.254.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "sawing-wood.mp3",
+      "tags": ["materials"]
+    },
+    {
+      "file": "scrapes_and_scratches_psef.256.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "spring_rusty_tension_psef.292.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "stab_punch_hack_psef.296.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "stone_sliding_door_psef.300.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "stone_thud_psef.301.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["materials"]
+    },
+    {
+      "file": "wood_logs_movement_major_psef.345.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "wood_panel_thump_psef.346.wav",
+      "tags": ["materials"]
+    },
+    {
+      "file": "wood_scrape_psef.347.wav",
+      "tags": ["materials"]
+    }
+  ]
+}

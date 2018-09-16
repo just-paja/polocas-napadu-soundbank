@@ -1,0 +1,87 @@
+{
+  "name": "studio-polocas",
+  "modules": [
+    "alarms",
+    "aliens",
+    "ambient",
+    "animals",
+    "armor",
+    "bensound",
+    "birds",
+    "buttons",
+    "clock",
+    "clothes",
+    "communication",
+    "computer",
+    "disasters",
+    "door",
+    "drinks",
+    "explosions",
+    "fight",
+    "fireworks",
+    "fish",
+    "food",
+    "footsteps",
+    "furniture",
+    "games",
+    "horror",
+    "human",
+    "chemicals",
+    "insects",
+    "liquids",
+    "luggage",
+    "magic",
+    "machines",
+    "materials",
+    "media",
+    "monsters",
+    "movement",
+    "music",
+    "nature",
+    "office",
+    "os",
+    "religion",
+    "rooms",
+    "sci-fi",
+    "services",
+    "sport",
+    "teleport",
+    "tools",
+    "transitions",
+    "underwater",
+    "vehicles",
+    "weapons",
+    "weather",
+    "western"
+  ],
+  "tags": [
+    {
+      "name": "ambient",
+      "title": {
+        "en": "Ambient",
+        "cs": "Porstředí"
+      }
+    },
+    {
+      "name": "inside",
+      "title": {
+        "en": "Inside",
+        "cs": "Uvnitř"
+      }
+    },
+    {
+      "name": "loop",
+      "title": {
+        "en": "Loop",
+        "cs": "Smyčka"
+      }
+    },
+    {
+      "name": "outside",
+      "title": {
+        "en": "Outside",
+        "cs": "Venku"
+      }
+    }
+  ]
+}

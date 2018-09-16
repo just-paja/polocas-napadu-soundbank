@@ -1,0 +1,29 @@
+{
+  "name": "tools",
+  "sounds": [
+    {
+      "file": "hand_mixer_braun_on_run_off_steady_psef.152.wav",
+      "tags": ["tools"]
+    },
+    {
+      "file": "chain_rattles_psef.076.wav",
+      "tags": ["tools"]
+    },
+    {
+      "file": "pneumatic_drill_psef.232.wav",
+      "tags": ["tools"]
+    },
+    {
+      "file": "ratchet,bindings,tighten_psef.238.wav",
+      "tags": ["tools"]
+    },
+    {
+      "file": "ratchet_wrench_med_psef.239.wav",
+      "tags": ["tools"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["tools"]
+    }
+  ]
+}

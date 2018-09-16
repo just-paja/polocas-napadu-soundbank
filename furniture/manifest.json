@@ -1,0 +1,25 @@
+{
+  "name": "furniture",
+  "sounds": [
+    {
+      "file": "antique_drawer_close_psef.018.wav",
+      "tags": ["furniture"]
+    },
+    {
+      "file": "drawer_utility_large_full_close_psef.105.wav",
+      "tags": ["furniture"]
+    },
+    {
+      "file": "chair_movement_metal_psef.077.wav",
+      "tags": ["furniture"]
+    },
+    {
+      "file": "chair_push_back_psef.078.wav",
+      "tags": ["furniture"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["furniture"]
+    }
+  ]
+}

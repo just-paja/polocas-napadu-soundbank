@@ -1,0 +1,65 @@
+{
+  "name": "horror",
+  "sounds": [
+    {
+      "file": "horror_breaths_psef.030.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_breaths_psef.031.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_breaths_psef.032.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_breaths_psef.033.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_curses_psef.034.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_riser",
+      "tags": ["horror"]
+    },
+    {
+      "file": "layers_psef.035.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_riser",
+      "tags": ["horror"]
+    },
+    {
+      "file": "layers_psef.036.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_riser",
+      "tags": ["horror"]
+    },
+    {
+      "file": "layers_psef.037.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_stingers_psef.038.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "horror_zenith",
+      "tags": ["horror"]
+    },
+    {
+      "file": "stingers_psef.039.wav",
+      "tags": ["horror"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["horror"]
+    }
+  ]
+}

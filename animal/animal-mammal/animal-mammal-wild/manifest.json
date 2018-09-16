@@ -1,0 +1,77 @@
+{
+  "name": "animal-mammal-wild",
+  "baseTag": "animal-wild",
+  "sounds": [
+    {
+      "file": "alpaca-male-mating-call.wav",
+      "tags": ["alpaca", "mating", "animal-call", "medium-size"]
+    },
+    {
+      "file": "gibbon-monkeys.mp3",
+      "tags": ["monkey", "gibbon", "cheering", "small-size"]
+    },
+    {
+      "file": "lion-roars.wav",
+      "tags": ["lion", "roar", "big-size"]
+    },
+    {
+      "file": "seal-call.wav",
+      "tags": ["seal", "animal-call", "big-size"]
+    },
+    {
+      "file": "tasmanian-devil.mp3",
+      "tags": ["tasmanian-devil", "animal-call", "small-size"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "animal-wild",
+      "title": {
+        "en": "Wild Animal",
+        "cs": "Divoké zvíře"
+      }
+    },
+    {
+      "name": "alpaca",
+      "title": {
+        "en": "Alpaca",
+        "cs": "Lama alpaka"
+      }
+    },
+    {
+      "name": "gibbon",
+      "title": {
+        "en": "Gibbon",
+        "cs": "Gibon"
+      }
+    },
+    {
+      "name": "monkey",
+      "title": {
+        "en": "Monkey",
+        "cs": "Opice"
+      }
+    },
+    {
+      "name": "seal",
+      "title": {
+        "en": "Seal",
+        "cs": "Tuleň"
+      }
+    },
+    {
+      "name": "tasmanian-devil",
+      "title": {
+        "en": "Tasmanian Devil",
+        "cs": "Tazmánský čert"
+      }
+    },
+    {
+      "name": "lion",
+      "title": {
+        "en": "Lion",
+        "cs": "Lev"
+      }
+    }
+  ]
+}

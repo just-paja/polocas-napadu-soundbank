@@ -1,0 +1,94 @@
+{
+  "name": "genre-scifi",
+  "baseTag": "scifi",
+  "sounds": [
+    {
+      "file": "drone_deep_psef.wav",
+      "tags": ["humm", "engine", "deep", "ambient", "loop"]
+    },
+    {
+      "file": "drone_energy_psef.wav",
+      "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "ambient", "loop"]
+    },
+    {
+      "file": "drone_feedback_psef.wav",
+      "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "scary", "half-life", "ambient", "loop"]
+    },
+    {
+      "file": "drone_wind_psef.wav",
+      "tags": ["humm", "wind", "scary", "ambient", "loop"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "scifi",
+      "title": {
+        "en": "Sci-Fi",
+        "cs": "Sci-Fi"
+      }
+    },
+    {
+      "name": "humm",
+      "title": {
+        "en": "Humm",
+        "cs": "Hučení"
+      }
+    },
+    {
+      "name": "engine",
+      "title": {
+        "en": "Engine",
+        "cs": "Motor"
+      }
+    },
+    {
+      "name": "deep",
+      "title": {
+        "en": "Deep",
+        "cs": "Hloubka"
+      }
+    },
+    {
+      "name": "bzzz",
+      "title": {
+        "en": "Bzzz",
+        "cs": "Bzučení"
+      }
+    },
+    {
+      "name": "factory",
+      "title": {
+        "en": "Factory",
+        "cs": "Továrna"
+      }
+    },
+    {
+      "name": "reactor",
+      "title": {
+        "en": "Reactor",
+        "cs": "Reaktor"
+      }
+    },
+    {
+      "name": "scary",
+      "title": {
+        "en": "Scary",
+        "cs": "Děsivé"
+      }
+    },
+    {
+      "name": "energy",
+      "title": {
+        "en": "Energy",
+        "cs": "Energie"
+      }
+    },
+    {
+      "name": "wind",
+      "title": {
+        "en": "Wind",
+        "cs": "Vítr"
+      }
+    }
+  ]
+}

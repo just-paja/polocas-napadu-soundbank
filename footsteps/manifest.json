@@ -1,0 +1,33 @@
+{
+  "name": "footsteps",
+  "sounds": [
+    {
+      "file": "closing-footsteps.mp3",
+      "tags": ["footsteps"]
+    },
+    {
+      "file": "footsteps_thongs_flipflops_wooden_deck_psef.132.wav",
+      "tags": ["footsteps"]
+    },
+    {
+      "file": "hard_shoes_1-daniel_simon.mp3",
+      "tags": ["footsteps"]
+    },
+    {
+      "file": "soldiers-marching.mp3",
+      "tags": ["footsteps"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["footsteps"]
+    },
+    {
+      "file": "walking-in-snow.mp3",
+      "tags": ["footsteps"]
+    },
+    {
+      "file": "walking-on-gravel.mp3",
+      "tags": ["footsteps"]
+    }
+  ]
+}

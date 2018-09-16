@@ -1,0 +1,21 @@
+{
+  "name": "machines",
+  "sounds": [
+    {
+      "file": "servo_motor_psef.260.wav",
+      "tags": ["machines"]
+    },
+    {
+      "file": "slot-machine.mp3",
+      "tags": ["machines"]
+    },
+    {
+      "file": "steam_punk_device_psef.297.wav",
+      "tags": ["machines"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["machines"]
+    }
+  ]
+}

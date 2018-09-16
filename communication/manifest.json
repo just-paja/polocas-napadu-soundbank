@@ -1,0 +1,45 @@
+{
+  "name": "communication",
+  "sounds": [
+    {
+      "file": "america-dial-tone.mp3",
+      "tags": ["communication"]
+    },
+    {
+      "file": "applause-light.mp3",
+      "tags": ["communication"]
+    },
+    {
+      "file": "electric-typewriter.mp3",
+      "tags": ["communication"]
+    },
+    {
+      "file": "fast-drawing.mp3",
+      "tags": ["communication"]
+    },
+    {
+      "file": "machine_answer_seq_psef.198.wav",
+      "tags": ["communication"]
+    },
+    {
+      "file": "pencil_scribble_psef.223.wav",
+      "tags": ["communication"]
+    },
+    {
+      "file": "phone_cell_lg_vibrate_buzz_psef.225.wav",
+      "tags": ["communication"]
+    },
+    {
+      "file": "phone-ring-cartoon.mp3",
+      "tags": ["communication"]
+    },
+    {
+      "file": "phone-ringing-earphone.mp3",
+      "tags": ["communication"]
+    },
+    {
+      "file": "phone-ring-80s.wav",
+      "tags": ["communication"]
+    }
+  ]
+}

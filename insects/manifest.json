@@ -1,0 +1,21 @@
+{
+  "name": "insects",
+  "sounds": [
+    {
+      "file": "insect",
+      "tags": ["insects"]
+    },
+    {
+      "file": "eat_attack_chew_bite_crunch_bug_psef.166.wav",
+      "tags": ["insects"]
+    },
+    {
+      "file": "insect_water_bug_buzz_by_psef.165.wav",
+      "tags": ["insects"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["insects"]
+    }
+  ]
+}

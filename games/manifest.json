@@ -1,0 +1,13 @@
+{
+  "name": "games",
+  "sounds": [
+    {
+      "file": "poker-chips.mp3",
+      "tags": ["games"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["games"]
+    }
+  ]
+}

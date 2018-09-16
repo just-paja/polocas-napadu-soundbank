@@ -1,0 +1,13 @@
+{
+  "name": "os",
+  "sounds": [
+    {
+      "file": "tinyfest.json",
+      "tags": ["os"]
+    },
+    {
+      "file": "Windows_95_Startup-Microsoft-2077254053.mp3",
+      "tags": ["os"]
+    }
+  ]
+}

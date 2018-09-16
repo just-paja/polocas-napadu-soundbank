@@ -1,0 +1,68 @@
+{
+  "name": "animal-mammal-domestic",
+  "baseTag": "animal-domestic",
+  "sounds": [
+    {
+      "file": "cat-meow-food-twice.wav",
+      "tags": ["cat", "small-size"]
+    },
+    {
+      "file": "cat-meow-what-once.mp3",
+      "tags": ["cat", "small-size"]
+    },
+    {
+      "file": "dog-bark-doberman-pincher.wav",
+      "tags": ["dog", "bark", "big-size"]
+    },
+    {
+      "file": "dog-bark-chihuahua.mp3",
+      "tags": ["dog", "bark", "small-size"]
+    },
+    {
+      "file": "dog-bark-ratter-continuous.mp3",
+      "tags": ["dog", "bark", "small-size"]
+    },
+    {
+      "file": "dog-panting-breathing-fast.mp3",
+      "tags": ["dog", "breath"]
+    },
+    {
+      "file": "dog-bark-labrador.mp3",
+      "tags": ["dog", "bark", "big-size"]
+    },
+    {
+      "file": "dog-howling-yapping.mp3",
+      "tags": ["dog", "howl"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "animal-domestic",
+      "title": {
+        "en": "Domestic Animal",
+        "cs": "Domácí Zvíře"
+      }
+    },
+    {
+      "name": "cat",
+      "title": {
+        "en": "Cat",
+        "cs": "Kočka"
+      }
+    },
+    {
+      "name": "dog",
+      "title": {
+        "en": "Dog",
+        "cs": "Pes"
+      }
+    },
+    {
+      "name": "howl",
+      "title": {
+        "en": "Howl",
+        "cs": "Vytí"
+      }
+    }
+  ]
+}

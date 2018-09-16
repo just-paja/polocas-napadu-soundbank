@@ -1,0 +1,37 @@
+{
+  "name": "door",
+  "sounds": [
+    {
+      "file": "door_creak_psef.101.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "door_handle_old_apt_mvs_slow_psef.100.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "door_open_psef.102.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "door_open_psef.103.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "fridge_door_slam_hum_psef.134.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "glass_door_close_psef.142.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "household_door_close_psef.160.wav",
+      "tags": ["door"]
+    },
+    {
+      "file": "old-fashioned-door-bell.mp3",
+      "tags": ["door"]
+    }
+  ]
+}

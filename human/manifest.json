@@ -1,0 +1,89 @@
+{
+  "name": "human",
+  "sounds": [
+    {
+      "file": "belch_regular_psef.024.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "click-puke-vomit.mp3",
+      "tags": ["human"]
+    },
+    {
+      "file": "crowd-applause.mp3",
+      "tags": ["human"]
+    },
+    {
+      "file": "crowd_applause_psef.096.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "crowd_streetfest_corner_psef.093.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "crowd_teen_grad_whistles_claps_psef.094.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "crowd_up_leave_church_wood_psef.095.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "dry_fart_psef.113.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "female_whistle_short_psef.123.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "heartbeat_slow_psef.153.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "human-heartbeat.mp3",
+      "tags": ["human"]
+    },
+    {
+      "file": "human_male_coughs_throat_clears_psef.162.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "laughing_group_medium_psef.192.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "manly-burp.mp3",
+      "tags": ["human"]
+    },
+    {
+      "file": "party-crowd.mp3",
+      "tags": ["human"]
+    },
+    {
+      "file": "screamsshouts_human_female_psef.257.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "screamsshouts_human_male_psef.258.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "sneeze_psef.288.wav",
+      "tags": ["human"]
+    },
+    {
+      "file": "tinyfest.json",
+      "tags": ["human"]
+    },
+    {
+      "file": "whistling-at-girl.mp3",
+      "tags": ["human"]
+    },
+    {
+      "file": "woman-crying-daniel_simon.mp3",
+      "tags": ["human"]
+    }
+  ]
+}
