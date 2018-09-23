@@ -18,7 +18,7 @@ jobs:
           - dependencies-
       - run:
           name: Install dependencies
-          command: npm install
+          command: npm install; apt-get install awscli
 
       - save_cache:
           paths:
