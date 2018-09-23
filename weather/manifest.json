@@ -1,17 +1,14 @@
 {
   "name": "weather",
+  "baseTag": "weather",
   "sounds": [
     {
       "file": "thunder_sound_FX-Grant_Evans-1523270250.mp3",
-      "tags": ["weather", "thunder", "lightning", "storm", "ambient", "outside", "loop"]
-    },
-    {
-      "file": "tinyfest.json",
-      "tags": ["weather"]
+      "tags": ["thunder", "lightning", "storm", "ambient", "outside", "loop"]
     },
     {
       "file": "Wind-Mark_DiAngelo-1940285615.mp3",
-      "tags": ["weather"]
+      "tags": ["wind", "howling", "mountains", "wasteland","cold"]
     }
   ],
   "tags": [
@@ -41,6 +38,41 @@
       "title": {
         "en": "Storm",
         "cs": "Bouřka"
+      }
+    },
+    {
+      "name": "wind",
+      "title": {
+        "en": "Wind",
+        "cs": "Vítr"
+      }
+    },
+    {
+      "name": "howling",
+      "title": {
+        "en": "Howling",
+        "cs": "Kvílení"
+      }
+    },
+    {
+      "name": "mountains",
+      "title": {
+        "en": "Mountains",
+        "cs": "Hory"
+      }
+    },
+    {
+      "name": "wasteland",
+      "title": {
+        "en": "Wasteland",
+        "cs": "Pustina"
+      }
+    },
+    {
+      "name": "cold",
+      "title": {
+        "en": "Cold",
+        "cs": "Zima"
       }
     }
   ]
