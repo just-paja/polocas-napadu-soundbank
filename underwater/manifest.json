@@ -1,29 +1,49 @@
 {
   "name": "underwater",
+  "baseTag": "underwater"
   "sounds": [
     {
       "file": "air_release_bubble_stream_psef.302.wav",
-      "tags": ["underwater"]
+      "tags": ["bubbles"]
     },
     {
       "file": "air_release_woosh_psef.303.wav",
-      "tags": ["underwater"]
+      "tags": ["emergence"]
     },
     {
       "file": "air_release_woosh_psef.304.wav",
-      "tags": ["underwater"]
+      "tags": ["emergence"]
     },
     {
       "file": "air_release_woosh_psef.305.wav",
-      "tags": ["underwater"]
+      "tags": ["emergence"]
     },
     {
       "file": "air_whoosh_low_high_comp_psef.074.wav",
-      "tags": ["underwater"]
+      "tags": ["swinging", "stick"]
+    },
+  ],
+  "tags": [
+    {
+      "name": "bubbles",
+      "title": {
+        "en": "Bubbles",
+        "cs": "Bublinky"
+      }
     },
     {
-      "file": "tinyfest.json",
-      "tags": ["underwater"]
+      "name": "emergence",
+      "title": {
+        "en": "Emergence",
+        "cs": "Vynoření"
+      }
+    },
+    {
+      "name": "stick",
+      "title": {
+        "en": "Stick",
+        "cs": "Klacek"
+      }
     }
   ]
 }
