@@ -1,0 +1,23 @@
+{
+  "name": "polocas-napadu-soundbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./validateModules.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-paja/polocas-napadu-soundbank.git"
+  },
+  "author": "Pavel Žák <pavel@zak.global>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/just-paja/polocas-napadu-soundbank/issues"
+  },
+  "homepage": "https://github.com/just-paja/polocas-napadu-soundbank#readme",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "jsonschema": "^1.2.4"
+  }
+}
