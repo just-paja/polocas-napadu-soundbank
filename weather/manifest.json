@@ -3,7 +3,7 @@
   "sounds": [
     {
       "file": "thunder_sound_FX-Grant_Evans-1523270250.mp3",
-      "tags": ["weather"]
+      "tags": ["weather", "thunder", "lightning", "storm", "ambient", "outside", "loop"]
     },
     {
       "file": "tinyfest.json",
@@ -12,6 +12,36 @@
     {
       "file": "Wind-Mark_DiAngelo-1940285615.mp3",
       "tags": ["weather"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "weather",
+      "title": {
+        "en": "Weather",
+        "cs": "Počasí"
+      }
+    },
+    {
+      "name": "thunder",
+      "title": {
+        "en": "Thunder",
+        "cs": "Hrom"
+      }
+    },
+    {
+      "name": "lightning",
+      "title": {
+        "en": "Lightning",
+        "cs": "Blesk"
+      }
+    },
+    {
+      "name": "storm",
+      "title": {
+        "en": "Storm",
+        "cs": "Bouřka"
+      }
     }
   ]
 }
