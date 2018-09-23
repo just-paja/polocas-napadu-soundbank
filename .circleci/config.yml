@@ -18,7 +18,7 @@ jobs:
           - dependencies-
       - run:
           name: Install dependencies
-          command: npm install; sudo apt-get install awscli
+          command: npm install
 
       - save_cache:
           paths:
@@ -62,7 +62,7 @@ jobs:
 
       - run:
           name: Deploy to Hosting
-          command: aws s3 cli sync . s3://${S3_BUCKET_NAME}
+          command: sudo apt-get install awscli; aws s3 cli sync . s3://${S3_BUCKET_NAME}
 
 workflows:
   version: 2
