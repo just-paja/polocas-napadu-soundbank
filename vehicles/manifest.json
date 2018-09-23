@@ -1,193 +1,524 @@
 {
   "name": "vehicles",
+  "baseTag": "transport",
   "sounds": [
     {
       "file": "aircraft_ct4a_idle_taxi_psef.004.wav",
-      "tags": ["vehicles"]
+      "tags": ["airplane", "flying", "flyaway"]
     },
     {
       "file": "airplane-fly-by.mp3",
-      "tags": ["vehicles"]
+      "tags": ["airplane", "flyby", "flying"]
     },
     {
       "file": "airplane-landing.mp3",
-      "tags": ["vehicles"]
+      "tags": ["airplane", "landing"]
     },
     {
       "file": "boat_paddle_steamer_1912_loop_psef.041.wav",
-      "tags": ["vehicles"]
+      "tags": ["loop", "boat", "steamer"]
     },
     {
       "file": "boat_pass_by_psef.042.wav",
-      "tags": ["vehicles"]
+      "tags": ["boat", "fast", "passby"]
     },
     {
       "file": "bus_by_psef.056.wav",
-      "tags": ["vehicles"]
+      "tags": ["bus", "passby"]
     },
     {
       "file": "car-door-close.mp3",
-      "tags": ["vehicles"]
+      "tags": ["car", "door", "close"]
     },
     {
       "file": "car-driveaway-brash.mp3",
-      "tags": ["vehicles"]
+      "tags": ["car", "away", "dirtroad", "outside"]
     },
     {
       "file": "car-funky-dixie-horn.mp3",
-      "tags": ["vehicles"]
+      "tags": ["car", "horn", "funny"]
     },
     {
       "file": "cars_veteran_pass_psef.066.wav",
-      "tags": ["vehicles"]
+      "tags": ["car", "train", "passby", "old"]
     },
     {
       "file": "dragsters_at_finish_line_psef.104.wav",
-      "tags": ["vehicles"]
+      "tags": ["car", "fast", "passby"]
     },
     {
       "file": "elevator_operate_psef.117.wav",
-      "tags": ["vehicles"]
+      "tags": ["elevator", "beep", "door", "close"]
     },
     {
       "file": "engine_villiers_412_973_operating_psef.118.wav",
-      "tags": ["vehicles"]
+      "tags": ["loop", "engine", "starting", "turnoff"]
     },
     {
       "file": "fast_depart_tirescreech_psef.135.wav",
-      "tags": ["vehicles"]
+      "tags": ["car", "away", "fast"]
     },
     {
       "file": "fire-truck-air-horn.mp3",
-      "tags": ["vehicles"]
+      "tags": ["train", "truck", "horn"]
     },
     {
       "file": "fork_lift_run_psef.133.wav",
-      "tags": ["vehicles"]
+      "tags": ["forklift", "uplift", "drop"]
     },
     {
       "file": "formula-pass-by.mp3",
-      "tags": ["vehicles"]
+      "tags": ["formula", "car", "passby"]
     },
     {
       "file": "f18_hornet_distant_passby_psef.120.wav",
-      "tags": ["vehicles"]
+      "tags": ["jet", "distant", "passby"]
     },
     {
       "file": "harley-davidson-daniel_simon.mp3",
-      "tags": ["vehicles"]
+      "tags": ["motobike", "chopper", "starting", "away"]
     },
     {
       "file": "helicopter_pass_by_psef.154.wav",
-      "tags": ["vehicles"]
+      "tags": ["helicopter", "passby"]
     },
     {
       "file": "horn_1999_camry_psef.158.wav",
-      "tags": ["vehicles"]
+      "tags": ["car", "horn"]
     },
     {
       "file": "motorcycles_psef.207.wav",
-      "tags": ["vehicles"]
+      "tags": ["motobike", "loop", "starting", "turnoff"]
     },
     {
       "file": "motor_run_psef.208.wav",
-      "tags": ["vehicles"]
+      "tags": ["engine", "submarine", "loop"]
     },
     {
       "file": "muscle-car.mp3",
-      "tags": ["vehicles"]
+      "tags": ["car", "starting", "turnoff"]
     },
     {
       "file": "old-car-engine.mp3",
-      "tags": ["vehicles"]
+      "tags": ["car", "old", "starting", "failure"]
     },
     {
       "file": "paddle_boat_paddle_psef.216.wav",
-      "tags": ["vehicles"]
+      "tags": ["boat", "steamer", "loop"]
     },
     {
       "file": "plane_turbulance_hard_psef.229.wav",
-      "tags": ["vehicles"]
+      "tags": ["airplane", "train", "disturbances"]
     },
     {
       "file": "police_siren_psef.233.wav",
-      "tags": ["vehicles"]
+      "tags": ["police", "siren", "loop"]
     },
     {
-      "file": "rain_int",
-      "tags": ["vehicles"]
-    },
-    {
-      "file": "car_pouring_roof_psef.236.wav",
-      "tags": ["vehicles"]
+      "file": "rain_int_car_pouring_roof_psef.236.wav",
+      "tags": ["car", "rain", "loop"]
     },
     {
       "file": "rapid_transit_bart_train_int_arrive_depart_psef.237.wav",
-      "tags": ["vehicles"]
+      "tags": ["train", "station", "arrival", "away"]
     },
     {
       "file": "robot_army_march_psef.246.wav",
-      "tags": ["vehicles"]
+      "tags": ["army", "march", "robot", "loop"]
     },
     {
       "file": "ships_ferries_psef.272.wav",
-      "tags": ["vehicles"]
+      "tags": ["hum", "loop"]
     },
     {
       "file": "space_ship_pass_by_psef.291.wav",
-      "tags": ["vehicles"]
+      "tags": ["passby", "spaceship"]
     },
     {
       "file": "steamtrain_unknown_passing_psef.298.wav",
-      "tags": ["vehicles"]
+      "tags": ["train", "old"]
     },
     {
       "file": "steam-train-whistle.mp3",
-      "tags": ["vehicles"]
+      "tags": ["train", "horn", "old"]
     },
     {
       "file": "steam_whistle_psef.299.wav",
-      "tags": ["vehicles"]
+      "tags": ["train", "old", "whistle"]
     },
     {
       "file": "tank_pass_by__psef.306.wav",
-      "tags": ["vehicles"]
-    },
-    {
-      "file": "tinyfest.json",
-      "tags": ["vehicles"]
+      "tags": ["tank", "passby"]
     },
     {
       "file": "tractor_furguson_1956_startup_psef.315.wav",
-      "tags": ["vehicles"]
+      "tags": ["tractor", "starting"]
     },
     {
       "file": "Train_Hits_Guy-Train_Man-2122004195.mp3",
-      "tags": ["vehicles"]
+      "tags": ["train", "scream", "death"]
     },
     {
       "file": "train_horn_psef.wav",
-      "tags": ["vehicles"]
+      "tags": ["train", "horn"]
     },
     {
       "file": "train_pass_by_psef.wav",
-      "tags": ["vehicles"]
+      "tags": ["train", "passby"]
     },
     {
       "file": "truck_air_brakes_psef.322.wav",
-      "tags": ["vehicles"]
+      "tags": ["truck", "hydraulics"]
     },
     {
       "file": "truck_by_psef.323.wav",
-      "tags": ["vehicles"]
+      "tags": ["truck", "bus", "passby"]
     },
     {
       "file": "truck_drive_psef.324.wav",
-      "tags": ["vehicles"]
+      "tags": ["truck", "inside"]
     },
     {
       "file": "submarine-diving-alarm.mp3",
       "tags": ["alarm", "alert", "submarine"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "vehicle",
+      "title": {
+        "en": "Vehicle",
+        "cs": "Vozidlo"
+      }
+    },
+    {
+      "name": "airplane",
+      "title": {
+        "en": "Airplane",
+        "cs": "Letadlo"
+      }
+    },
+    {
+      "name": "flyaway",
+      "title": {
+        "en": "Flyaway",
+        "cs": "Odlétající"
+      }
+    },
+    {
+      "name": "flyby",
+      "title": {
+        "en": "Flyby",
+        "cs": "Prolétající"
+      }
+    },
+    {
+      "name": "landing",
+      "title": {
+        "en": "Landing",
+        "cs": "Přistání"
+      }
+    },
+    {
+      "name": "boat",
+      "title": {
+        "en": "Boat",
+        "cs": "Loď"
+      }
+    },
+    {
+      "name": "steamer",
+      "title": {
+        "en": "Steamer",
+        "cs": "Parník"
+      }
+    },
+    {
+      "name": "fast",
+      "title": {
+        "en": "Fast",
+        "cs": "Rychlý"
+      }
+    },
+    {
+      "name": "passby",
+      "title": {
+        "en": "Passby",
+        "cs": "Projíždějící"
+      }
+    },
+    {
+      "name": "bus",
+      "title": {
+        "en": "Bus",
+        "cs": "Autobus"
+      }
+    },
+    {
+      "name": "car",
+      "title": {
+        "en": "Car",
+        "cs": "Auto"
+      }
+    },
+    {
+      "name": "door",
+      "title": {
+        "en": "Door",
+        "cs": "Dveře"
+      }
+    },
+    {
+      "name": "close",
+      "title": {
+        "en": "Close",
+        "cs": "Zavřít"
+      }
+    },
+    {
+      "name": "away",
+      "title": {
+        "en": "Away",
+        "cs": "Pryč"
+      }
+    },
+    {
+      "name": "dirtroad",
+      "title": {
+        "en": "Dirtroad",
+        "cs": "Prašná cesta"
+      }
+    },
+    {
+      "name": "horn",
+      "title": {
+        "en": "Horn",
+        "cs": "Klakson"
+      }
+    },
+    {
+      "name": "funny",
+      "title": {
+        "en": "Funny",
+        "cs": "Zábavný"
+      }
+    },
+    {
+      "name": "train",
+      "title": {
+        "en": "Train",
+        "cs": "Vlak"
+      }
+    },
+    {
+      "name": "old",
+      "title": {
+        "en": "Old",
+        "cs": "Starý"
+      }
+    },
+    {
+      "name": "elevator",
+      "title": {
+        "en": "Elevator",
+        "cs": "Výtah"
+      }
+    },
+    {
+      "name": "beep",
+      "title": {
+        "en": "Beep",
+        "cs": "Píp"
+      }
+    },
+    {
+      "name": "turnoff",
+      "title": {
+        "en": "Turnoff",
+        "cs": "Vypnutí"
+      }
+    },
+    {
+      "name": "truck",
+      "title": {
+        "en": "Truck",
+        "cs": "Náklaďák"
+      }
+    },
+    {
+      "name": "forklift",
+      "title": {
+        "en": "Forklift",
+        "cs": "Ještěrka - vozík"
+      }
+    },
+    {
+      "name": "uplift",
+      "title": {
+        "en": "Uplift",
+        "cs": "Zvednutí"
+      }
+    },
+    {
+      "name": "drop",
+      "title": {
+        "en": "Drop",
+        "cs": "Upuštění, snížení"
+      }
+    },
+    {
+      "name": "formula",
+      "title": {
+        "en": "Formula",
+        "cs": "Formule"
+      }
+    },
+    {
+      "name": "jet",
+      "title": {
+        "en": "Jet",
+        "cs": "Stíhačka"
+      }
+    },
+    {
+      "name": "motobike",
+      "title": {
+        "en": "Motobike",
+        "cs": "Motorka"
+      }
+    },
+    {
+      "name": "helicopter",
+      "title": {
+        "en": "Helicopter",
+        "cs": "Vrtulník"
+      }
+    },
+    {
+      "name": "submarine",
+      "title": {
+        "en": "Submarine",
+        "cs": "Ponorka"
+      }
+    },
+    {
+      "name": "disturbances",
+      "title": {
+        "en": "Disturbances",
+        "cs": "Otřesy"
+      }
+    },
+    {
+      "name": "chopper",
+      "title": {
+        "en": "Chopper",
+        "cs": "Chopper"
+      }
+    },
+    {
+      "name": "police",
+      "title": {
+        "en": "Police",
+        "cs": "Policie"
+      }
+    },
+    {
+      "name": "station",
+      "title": {
+        "en": "Station",
+        "cs": "Stanice"
+      }
+    },
+    {
+      "name": "arrival",
+      "title": {
+        "en": "Arrival",
+        "cs": "Příjezd"
+      }
+    },
+    {
+      "name": "rain",
+      "title": {
+        "en": "Rain",
+        "cs": "Déšť"
+      }
+    },
+    {
+      "name": "army",
+      "title": {
+        "en": "Army",
+        "cs": "Armáda"
+      }
+    },
+    {
+      "name": "robot",
+      "title": {
+        "en": "Robot",
+        "cs": "Robot"
+      }
+    },
+    {
+      "name": "march",
+      "title": {
+        "en": "March",
+        "cs": "Pochod"
+      }
+    },
+    {
+      "name": "hum",
+      "title": {
+        "en": "Hum",
+        "cs": "Šum"
+      }
+    },
+    {
+      "name": "spaceship",
+      "title": {
+        "en": "Spaceship",
+        "cs": "Vesmírná loď"
+      }
+    },
+    {
+      "name": "tank",
+      "title": {
+        "en": "Tank",
+        "cs": "Tank"
+      }
+    },
+    {
+      "name": "tractor",
+      "title": {
+        "en": "Tractor",
+        "cs": "Traktor"
+      }
+    },
+    {
+      "name": "scream",
+      "title": {
+        "en": "Scream",
+        "cs": "Křik"
+      }
+    },
+    {
+      "name": "death",
+      "title": {
+        "en": "Death",
+        "cs": "Smrt"
+      }
+    },
+    {
+      "name": "hydraulics",
+      "title": {
+        "en": "Hydraulics",
+        "cs": "Hydraulika"
+      }
+    },
+    {
+      "name": "inside",
+      "title": {
+        "en": "Inside",
+        "cs": "Uvnitř"
+      }
     }
   ]
 }
