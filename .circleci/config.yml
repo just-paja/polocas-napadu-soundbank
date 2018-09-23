@@ -62,7 +62,7 @@ jobs:
 
       - run:
           name: Deploy to Hosting
-          command: sudo apt-get install awscli; aws s3 cli sync . s3://${S3_BUCKET_NAME}
+          command: sudo apt-get install awscli; aws s3 sync . s3://${S3_BUCKET_NAME}
 
 workflows:
   version: 2
