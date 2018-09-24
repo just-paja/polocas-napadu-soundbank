@@ -3,15 +3,55 @@
   "sounds": [
     {
       "file": "geysers_old_faith_psef.137.wav",
-      "tags": ["nature"]
+      "tags": ["outside", "sea", "waves", "loop"]
     },
     {
       "file": "geysers_thermal_mud_pool_psef.138.wav",
-      "tags": ["nature"]
+      "tags": ["bubles", "cooking", "boiling", "chemistry"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "sea",
+      "title": {
+        "en": "Sea",
+        "cs": "Moře"
+      }
     },
     {
-      "file": "tinyfest.json",
-      "tags": ["nature"]
+      "name": "waves",
+      "title": {
+        "en": "Waves",
+        "cs": "Vlny"
+      }
+    },
+    {
+      "name": "bubles",
+      "title": {
+        "en": "Bubles",
+        "cs": "Bubliny"
+      }
+    },
+    {
+      "name": "cooking",
+      "title": {
+        "en": "Cooking",
+        "cs": "Vaření"
+      }
+    },
+    {
+      "name": "boiling",
+      "title": {
+        "en": "Boiling",
+        "cs": "Vroucí"
+      }
+    },
+    {
+      "name": "chemistry",
+      "title": {
+        "en": "Chemistry",
+        "cs": "Chemie"
+      }
     }
   ]
 }

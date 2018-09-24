@@ -3,19 +3,59 @@
   "sounds": [
     {
       "file": "fan_household_on_oscillating_psef.121.wav",
-      "tags": ["rooms"]
+      "tags": ["loop", "fan"]
     },
     {
       "file": "rug_being_pull_out_psef.252.wav",
-      "tags": ["rooms"]
-    },
-    {
-      "file": "tinyfest.json",
-      "tags": ["rooms"]
+      "tags": ["open", "drawer"]
     },
     {
       "file": "toilet-flush.mp3",
-      "tags": ["rooms"]
+      "tags": ["toilet", "flush", "shit"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "fan",
+      "title": {
+        "en": "Fan",
+        "cs": "Větrák"
+      }
+    },
+    {
+      "name": "open",
+      "title": {
+        "en": "Open",
+        "cs": "Otevřít"
+      }
+    },
+    {
+      "name": "drawer",
+      "title": {
+        "en": "Drawer",
+        "cs": "Šuplík"
+      }
+    },
+    {
+      "name": "toilet",
+      "title": {
+        "en": "Toilet",
+        "cs": "Záchod"
+      }
+    },
+    {
+      "name": "flush",
+      "title": {
+        "en": "Flush",
+        "cs": "Splachovadlo"
+      }
+    },
+    {
+      "name": "shit",
+      "title": {
+        "en": "Shit",
+        "cs": "Hovno"
+      }
     }
   ]
 }

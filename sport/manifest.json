@@ -3,11 +3,7 @@
   "sounds": [
     {
       "file": "hockey_goal_horn_psef.156.wav",
-      "tags": ["sport"]
-    },
-    {
-      "file": "tinyfest.json",
-      "tags": ["sport"]
+      "tags": ["truck", "boat", "train", "horn"]
     }
   ]
 }

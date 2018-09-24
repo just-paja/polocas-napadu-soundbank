@@ -1,29 +1,98 @@
 {
   "name": "tools",
+  "baseTag": "tools",
   "sounds": [
     {
       "file": "hand_mixer_braun_on_run_off_steady_psef.152.wav",
-      "tags": ["tools"]
+      "tags": ["drill", "dentist", "loop"]
     },
     {
       "file": "chain_rattles_psef.076.wav",
-      "tags": ["tools"]
+      "tags": ["chains", "rattling"]
     },
     {
       "file": "pneumatic_drill_psef.232.wav",
-      "tags": ["tools"]
+      "tags": ["pneumatic_drill", "gunfire", "loop"]
     },
     {
       "file": "ratchet,bindings,tighten_psef.238.wav",
-      "tags": ["tools"]
+      "tags": ["clicking", "ticking", "scratching"]
     },
     {
       "file": "ratchet_wrench_med_psef.239.wav",
-      "tags": ["tools"]
+      "tags": ["timer"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "tools",
+      "title": {
+        "en": "Tools",
+        "cs": "Nářadí"
+      }
     },
     {
-      "file": "tinyfest.json",
-      "tags": ["tools"]
+      "name": "drill",
+      "title": {
+        "en": "Drill",
+        "cs": "Vrtačka"
+      }
+    },
+    {
+      "name": "pneumatic_drill",
+      "title": {
+        "en": "Pneumatic_drill",
+        "cs": "Zbíječka"
+      }
+    },
+    {
+      "name": "dentist",
+      "title": {
+        "en": "Dentist",
+        "cs": "Zubař"
+      }
+    },
+    {
+      "name": "chains",
+      "title": {
+        "en": "Chains",
+        "cs": "Řetězy"
+      }
+    },
+    {
+      "name": "rattling",
+      "title": {
+        "en": "Rattling",
+        "cs": "Chřestění"
+      }
+    },
+    {
+      "name": "clicking",
+      "title": {
+        "en": "Clicking",
+        "cs": "Cvakání"
+      }
+    },
+    {
+      "name": "ticking",
+      "title": {
+        "en": "Ticking",
+        "cs": "Tikání"
+      }
+    },
+    {
+      "name": "scrathing",
+      "title": {
+        "en": "Scratching",
+        "cs": "Škrábání"
+      }
+    },
+    {
+      "name": "timer",
+      "title": {
+        "en": "Timer",
+        "cs": "Časovač"
+      }
     }
   ]
 }
