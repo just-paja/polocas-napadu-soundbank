@@ -3,19 +3,52 @@
   "sounds": [
     {
       "file": "Accordion-SoundBible.com-74362576.mp3",
-      "tags": ["music"]
+      "tags": ["loop", "accordion", "harmonica", "funny"]
     },
     {
       "file": "male_singing_bad_psef.201.wav",
-      "tags": ["music"]
+      "tags": ["singing", "false"]
     },
     {
       "file": "shofar_trumpet_randy_psef.273.wav",
-      "tags": ["music"]
+      "tags": ["trumpet", "false", "loop"]
+    },
+  ],
+  "tags": [
+    {
+      "name": "accordion",
+      "title": {
+        "en": "Accordion",
+        "cs": "Akordeón"
+      }
     },
     {
-      "file": "tinyfest.json",
-      "tags": ["music"]
+      "name": "harmonica",
+      "title": {
+        "en": "Harmonica",
+        "cs": "Harmonika"
+      }
+    },
+    {
+      "name": "singing",
+      "title": {
+        "en": "Singing",
+        "cs": "Zpívání"
+      }
+    },
+    {
+      "name": "false",
+      "title": {
+        "en": "False",
+        "cs": "Falešně"
+      }
+    },
+    {
+      "name": "trumpet",
+      "title": {
+        "en": "Trumpet",
+        "cs": "Trumpeta"
+      }
     }
   ]
 }

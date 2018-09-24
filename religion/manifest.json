@@ -3,23 +3,77 @@
   "sounds": [
     {
       "file": "bells-tibetan.mp3",
-      "tags": ["religion"]
+      "tags": ["bells", "calm"]
     },
     {
       "file": "church_bells_france_psef.081.wav",
-      "tags": ["religion"]
+      "tags": ["church", "bell", "loop", "countdown"]
     },
     {
       "file": "church-chime.mp3",
-      "tags": ["religion"]
-    },
-    {
-      "file": "tinyfest.json",
-      "tags": ["religion"]
+      "tags": ["church", "bells", "wedding", "coronation", "celebration", "loop"]
     },
     {
       "file": "tolling-bell.mp3",
-      "tags": ["religion"]
+      "tags": ["bell", "countdown", "evil"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "calm",
+      "title": {
+        "en": "calm",
+        "cs": "Klidný"
+      }
+    },
+    {
+      "name": "bells",
+      "title": {
+        "en": "Bells",
+        "cs": "Zvony"
+      }
+    },
+    {
+      "name": "countdown",
+      "title": {
+        "en": "Countdown",
+        "cs": "Odpočet"
+      }
+    },
+    {
+      "name": "church",
+      "title": {
+        "en": "Church",
+        "cs": "Kostel"
+      }
+    },
+    {
+      "name": "wedding",
+      "title": {
+        "en": "Wedding",
+        "cs": "Svatba"
+      }
+    },
+    {
+      "name": "coronation",
+      "title": {
+        "en": "Coronation",
+        "cs": "Korunovace"
+      }
+    },
+    {
+      "name": "celebration",
+      "title": {
+        "en": "Celebration",
+        "cs": "Oslava"
+      }
+    },
+    {
+      "name": "evil",
+      "title": {
+        "en": "Evil",
+        "cs": "zlo"
+      }
     }
   ]
 }

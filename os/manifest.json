@@ -2,12 +2,24 @@
   "name": "os",
   "sounds": [
     {
-      "file": "tinyfest.json",
-      "tags": ["os"]
+      "file": "Windows_95_Startup-Microsoft-2077254053.mp3",
+      "tags": ["starting", "PC", "old", "windows95"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "PC",
+      "title": {
+        "en": "PC",
+        "cs": "Počítač"
+      }
     },
     {
-      "file": "Windows_95_Startup-Microsoft-2077254053.mp3",
-      "tags": ["os"]
+      "name": "windows95",
+      "title": {
+        "en": "Windows95",
+        "cs": "Windows95"
+      }
     }
   ]
 }

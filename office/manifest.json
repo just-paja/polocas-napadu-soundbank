@@ -3,11 +3,16 @@
   "sounds": [
     {
       "file": "filing_cabinet_pull_psef.125.wav",
-      "tags": ["office"]
-    },
+      "tags": ["open", "drawer", "metal"]
+    }
+  ],
+  "tags": [
     {
-      "file": "tinyfest.json",
-      "tags": ["office"]
+      "name": "metal",
+      "title": {
+        "en": "Metal",
+        "cs": "Kovový"
+      }
     }
   ]
 }

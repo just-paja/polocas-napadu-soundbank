@@ -3,11 +3,30 @@
   "sounds": [
     {
       "file": "front-desk-bells-daniel_simon.mp3",
-      "tags": ["services"]
+      "tags": ["hotel", "bell", "reception"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "hotel",
+      "title": {
+        "en": "Hotel",
+        "cs": "Hotel"
+      }
     },
     {
-      "file": "tinyfest.json",
-      "tags": ["services"]
+      "name": "bell",
+      "title": {
+        "en": "Bell",
+        "cs": "Zvonek"
+      }
+    },
+    {
+      "name": "reception",
+      "title": {
+        "en": "Reception",
+        "cs": "Recepce"
+      }
     }
   ]
 }
