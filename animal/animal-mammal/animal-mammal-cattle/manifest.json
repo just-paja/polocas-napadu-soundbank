@@ -43,6 +43,13 @@
         "en": "Moo",
         "cs": "Bučení"
       }
+    },
+    {
+      "name": "horse",
+      "title": {
+        "en": "Horse",
+        "cs": "Kůň"
+      }
     }
   ]
 }

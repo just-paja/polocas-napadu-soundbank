@@ -1,33 +1,43 @@
 {
   "name": "drinks",
+  "baseTag": "drink",
   "sounds": [
     {
       "file": "beer-bottles-clank.mp3",
-      "tags": ["drinks"]
+      "tags": []
     },
     {
       "file": "drink_stir_psef.107.wav",
-      "tags": ["drinks"]
+      "tags": []
     },
     {
       "file": "glass_shard_smash_psef.141.wav",
-      "tags": ["drinks"]
+      "tags": []
     },
     {
       "file": "ice-cubes-glass.mp3",
-      "tags": ["drinks"]
+      "tags": []
     },
     {
       "file": "pop_cork_psef.234.wav",
-      "tags": ["drinks"]
+      "tags": []
     },
     {
       "file": "pour-full-glass.mp3",
-      "tags": ["drinks"]
+      "tags": []
     },
     {
       "file": "pour_glugs_psef.235.wav",
-      "tags": ["drinks"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "drink",
+      "title": {
+        "en": "Drink",
+        "cs": "Pití"
+      }
     }
   ]
 }

@@ -58,6 +58,13 @@
       }
     },
     {
+      "name": "bark",
+      "title": {
+        "en": "Bark",
+        "cs": "Štěkání"
+      }
+    },
+    {
       "name": "howl",
       "title": {
         "en": "Howl",

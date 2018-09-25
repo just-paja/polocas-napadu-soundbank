@@ -12,7 +12,7 @@
     },
     {
       "file": "drone_feedback_psef.wav",
-      "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "scary", "half-life", "ambient", "loop"]
+      "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "scary", "halfLife", "ambient", "loop"]
     },
     {
       "file": "drone_wind_psef.wav",
@@ -81,6 +81,13 @@
       "title": {
         "en": "Energy",
         "cs": "Energie"
+      }
+    },
+    {
+      "name": "halfLife",
+      "title": {
+        "en": "Half-Life",
+        "cs": "Half-Life"
       }
     },
     {

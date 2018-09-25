@@ -68,6 +68,20 @@
       }
     },
     {
+      "name": "beeping",
+      "title": {
+        "en": "Beeping",
+        "cs": "Pípání"
+      }
+    },
+    {
+      "name": "radio",
+      "title": {
+        "en": "Radio",
+        "cs": "Rádio"
+      }
+    },
+    {
       "name": "alien",
       "title": {
         "en": "Alien",

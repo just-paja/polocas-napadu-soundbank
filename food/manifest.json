@@ -1,9 +1,19 @@
 {
   "name": "food",
+  "baseTag": "food",
   "sounds": [
     {
       "file": "meat_cuts_mvs_knife_tear_like_psef.203.wav",
-      "tags": ["food"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "food",
+      "title": {
+        "en": "Food",
+        "cs": "Jídlo"
+      }
     }
   ]
 }

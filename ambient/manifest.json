@@ -8,7 +8,7 @@
     },
     {
       "file": "casino_slot_machines_psef.wav",
-      "tags": ["casino", "cash", "slot-machine", "ambient", "loop"]
+      "tags": ["casino", "cash", "slotMachine", "ambient", "loop"]
     },
     {
       "file": "city_traffic_psef.wav",
@@ -24,7 +24,7 @@
     },
     {
       "file": "elevated_train_interior_psef.wav",
-      "tags": ["inside", "train", "departure", "public-transport", "metro", "ride", "ambient", "loop"]
+      "tags": ["inside", "train", "departure", "publicTransport", "metro", "ride", "ambient", "loop"]
     },
     {
       "file": "factory_heavy_activity_psef.wav",
@@ -44,15 +44,15 @@
     },
     {
       "file": "lawn_mower_pass_by_multiple_psef.wav",
-      "tags": ["outside", "grass", "lawn", "lawn-mover", "mover", "pass-by", "ambient", "loop"]
+      "tags": ["outside", "grass", "lawn", "lawnMover", "passBy", "ambient", "loop"]
     },
     {
       "file": "mangrove_atmosphere_psef.wav",
-      "tags": ["outside", "mangrove", "evening", "birds", "ambient", "loop"]
+      "tags": ["outside", "mangrove", "evening", "bird", "ambient", "loop"]
     },
     {
       "file": "marina_birds_distant_boats_psef.wav",
-      "tags": ["outside", "marina", "sea", "ocean", "birds", "ambient", "loop"]
+      "tags": ["outside", "marina", "sea", "ocean", "bird", "ambient", "loop"]
     },
     {
       "file": "museum_crowd_walla_france_psef.wav",
@@ -80,7 +80,7 @@
     },
     {
       "file": "traffic_suburb_bys_psef.wav",
-      "tags": ["outside", "traffic", "idle", "pass-by", "ambient", "loop"]
+      "tags": ["outside", "traffic", "idle", "passBy", "ambient", "loop"]
     },
     {
       "file": "train_european_stop_amb_loop_psef.wav",
@@ -88,7 +88,7 @@
     },
     {
       "file": "tropical_bird_ambience_loop_psef.wav",
-      "tags": ["outside", "bird", "tropical", "jungle", "animals", "ambient", "loop"]
+      "tags": ["outside", "bird", "tropical", "jungle", "animal", "ambient", "loop"]
     },
     {
       "file": "tropical_bird_psef.wav",
@@ -96,15 +96,15 @@
     },
     {
       "file": "two_frogs_close_up_psef.wav",
-      "tags": ["outside", "night", "frogs", "birds", "by-lake", "ambient", "loop"]
+      "tags": ["outside", "night", "frog", "bird", "byLake", "ambient", "loop"]
     },
     {
       "file": "waterfall_loop_psef.wav",
-      "tags": ["outside", "waterfall", "water", "by-river", "ambient", "loop"]
+      "tags": ["outside", "waterfall", "water", "byRiver", "ambient", "loop"]
     },
     {
       "file": "water_spray_garden_hose_cone_psef.wav",
-      "tags": ["outside", "hose", "garden", "water", "by-river", "ambient", "loop"]
+      "tags": ["outside", "hose", "garden", "water", "byRiver", "ambient", "loop"]
     },
     {
       "file": "water-drops.mp3",
@@ -113,6 +113,442 @@
     {
       "file": "wind_whistle_design_psef.wav",
       "tags": ["outside", "wind", "whistle", "air", "wailing", "scary", "ambient", "loop"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "park",
+      "title": {
+        "en": "Park",
+        "cs": "Park"
+      }
+    },
+    {
+      "name": "casino",
+      "title": {
+        "en": "Casino",
+        "cs": "Casino"
+      }
+    },
+    {
+      "name": "cash",
+      "title": {
+        "en": "Cash",
+        "cs": "Hotovost"
+      }
+    },
+    {
+      "name": "slotMachine",
+      "title": {
+        "en": "Slot Machine",
+        "cs": "Výherní automats"
+      }
+    },
+    {
+      "name": "city",
+      "title": {
+        "en": "City",
+        "cs": "Město"
+      }
+    },
+    {
+      "name": "traffic",
+      "title": {
+        "en": "Traffic",
+        "cs": "Doprava"
+      }
+    },
+    {
+      "name": "road",
+      "title": {
+        "en": "Road",
+        "cs": "Cesta"
+      }
+    },
+    {
+      "name": "room",
+      "title": {
+        "en": "Room",
+        "cs": "Místnost"
+      }
+    },
+    {
+      "name": "cooling",
+      "title": {
+        "en": "Cooling",
+        "cs": "Chlazení"
+      }
+    },
+    {
+      "name": "earthquake",
+      "title": {
+        "en": "Earthquake",
+        "cs": "Zemětřesení"
+      }
+    },
+    {
+      "name": "departure",
+      "title": {
+        "en": "Departure",
+        "cs": "Odjezd"
+      }
+    },
+    {
+      "name": "publicTransport",
+      "title": {
+        "en": "Public Transport",
+        "cs": "Hromadná doprava"
+      }
+    },
+    {
+      "name": "metro",
+      "title": {
+        "en": "Subway",
+        "cs": "Metro"
+      }
+    },
+    {
+      "name": "ride",
+      "title": {
+        "en": "Ride",
+        "cs": "Jízda"
+      }
+    },
+    {
+      "name": "work",
+      "title": {
+        "en": "Work",
+        "cs": "Práce"
+      }
+    },
+    {
+      "name": "machinery",
+      "title": {
+        "en": "Machinery",
+        "cs": "Strojovna"
+      }
+    },
+    {
+      "name": "ship",
+      "title": {
+        "en": "Ship",
+        "cs": "Loď"
+      }
+    },
+    {
+      "name": "ocean",
+      "title": {
+        "en": "Ocean",
+        "cs": "Oceán"
+      }
+    },
+    {
+      "name": "water",
+      "title": {
+        "en": "Water",
+        "cs": "Voda"
+      }
+    },
+    {
+      "name": "fire",
+      "title": {
+        "en": "Fire",
+        "cs": "Oheň"
+      }
+    },
+    {
+      "name": "wailing",
+      "title": {
+        "en": "Wailing",
+        "cs": "Kvílení"
+      }
+    },
+    {
+      "name": "air",
+      "title": {
+        "en": "Air",
+        "cs": "Vzduch"
+      }
+    },
+    {
+      "name": "drops",
+      "title": {
+        "en": "Drops",
+        "cs": "Kapky"
+      }
+    },
+    {
+      "name": "cave",
+      "title": {
+        "en": "Cave",
+        "cs": "Jeskyně"
+      }
+    },
+    {
+      "name": "byRiver",
+      "title": {
+        "en": "By River",
+        "cs": "U Řeky"
+      }
+    },
+    {
+      "name": "garden",
+      "title": {
+        "en": "Garden",
+        "cs": "Zahrada"
+      }
+    },
+    {
+      "name": "hose",
+      "title": {
+        "en": "Hose",
+        "cs": "Hadice"
+      }
+    },
+    {
+      "name": "waterfall",
+      "title": {
+        "en": "Waterfall",
+        "cs": "Vodopád"
+      }
+    },
+    {
+      "name": "byLake",
+      "title": {
+        "en": "By Lake",
+        "cs": "U jezera"
+      }
+    },
+    {
+      "name": "bird",
+      "title": {
+        "en": "Bird",
+        "cs": "Pták"
+      }
+    },
+    {
+      "name": "frog",
+      "title": {
+        "en": "Frog",
+        "cs": "Žába"
+      }
+    },
+    {
+      "name": "night",
+      "title": {
+        "en": "Night",
+        "cs": "Noc"
+      }
+    },
+    {
+      "name": "jungle",
+      "title": {
+        "en": "Jungle",
+        "cs": "Jungle"
+      }
+    },
+    {
+      "name": "tropical",
+      "title": {
+        "en": "Tropical",
+        "cs": "Tropický"
+      }
+    },
+    {
+      "name": "animal",
+      "title": {
+        "en": "Animal",
+        "cs": "Zvíře"
+      }
+    },
+    {
+      "name": "travel",
+      "title": {
+        "en": "Travel",
+        "cs": "Cestování"
+      }
+    },
+    {
+      "name": "tram",
+      "title": {
+        "en": "Tram",
+        "cs": "Tramvaj"
+      }
+    },
+    {
+      "name": "idle",
+      "title": {
+        "en": "Idle",
+        "cs": "Klidný"
+      }
+    },
+    {
+      "name": "passBy",
+      "title": {
+        "en": "Pass By",
+        "cs": "Projetí kolem"
+      }
+    },
+    {
+      "name": "stream",
+      "title": {
+        "en": "Stream",
+        "cs": "Proud"
+      }
+    },
+    {
+      "name": "river",
+      "title": {
+        "en": "River",
+        "cs": "Řeka"
+      }
+    },
+    {
+      "name": "busy",
+      "title": {
+        "en": "Busy",
+        "cs": "Rušné"
+      }
+    },
+    {
+      "name": "pizzeria",
+      "title": {
+        "en": "Pizzeria",
+        "cs": "Pizzerie"
+      }
+    },
+    {
+      "name": "restaurant",
+      "title": {
+        "en": "Restaurant",
+        "cs": "Restaurace"
+      }
+    },
+    {
+      "name": "writer",
+      "title": {
+        "en": "Writer",
+        "cs": "Spisovatel"
+      }
+    },
+    {
+      "name": "typewriter",
+      "title": {
+        "en": "Typewriter",
+        "cs": "Psací stroj"
+      }
+    },
+    {
+      "name": "indistinct",
+      "title": {
+        "en": "Indistinct",
+        "cs": "Nerozlišitelné"
+      }
+    },
+    {
+      "name": "crowd",
+      "title": {
+        "en": "Crowd",
+        "cs": "Dav"
+      }
+    },
+    {
+      "name": "museum",
+      "title": {
+        "en": "Museum",
+        "cs": "Muzeum"
+      }
+    },
+    {
+      "name": "marina",
+      "title": {
+        "en": "Marina",
+        "cs": "Přístav"
+      }
+    },
+    {
+      "name": "evening",
+      "title": {
+        "en": "Evening",
+        "cs": "Večer"
+      }
+    },
+    {
+      "name": "mangrove",
+      "title": {
+        "en": "Mangrove",
+        "cs": "Křoví"
+      }
+    },
+    {
+      "name": "lawnMover",
+      "title": {
+        "en": "Lawn mover",
+        "cs": "Sekačka na trávu"
+      }
+    },
+    {
+      "name": "lawn",
+      "title": {
+        "en": "Lawn",
+        "cs": "Trávník"
+      }
+    },
+    {
+      "name": "grass",
+      "title": {
+        "en": "Grass",
+        "cs": "Tráva"
+      }
+    },
+    {
+      "name": "playing",
+      "title": {
+        "en": "Playing",
+        "cs": "Hrající"
+      }
+    },
+    {
+      "name": "screaming",
+      "title": {
+        "en": "Screaming",
+        "cs": "Křik"
+      }
+    },
+    {
+      "name": "shouting",
+      "title": {
+        "en": "Shouting",
+        "cs": "Řev"
+      }
+    },
+    {
+      "name": "schoolyard",
+      "title": {
+        "en": "School Yard",
+        "cs": "Školní hřiště"
+      }
+    },
+    {
+      "name": "author",
+      "title": {
+        "en": "Author",
+        "cs": "Autor"
+      }
+    },
+    {
+      "name": "book",
+      "title": {
+        "en": "Book",
+        "cs": "Kniha"
+      }
+    },
+    {
+      "name": "children",
+      "title": {
+        "en": "Children",
+        "cs": "Děti"
+      }
     }
   ]
 }

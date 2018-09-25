@@ -72,6 +72,27 @@
         "en": "Lion",
         "cs": "Lev"
       }
+    },
+    {
+      "name": "cheering",
+      "title": {
+        "en": "Cheering",
+        "cs": "Juchání"
+      }
+    },
+    {
+      "name": "roar",
+      "title": {
+        "en": "Roar",
+        "cs": "Řev"
+      }
+    },
+    {
+      "name": "mating",
+      "title": {
+        "en": "Mating",
+        "cs": "Páření"
+      }
     }
   ]
 }

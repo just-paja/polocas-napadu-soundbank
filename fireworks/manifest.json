@@ -1,9 +1,19 @@
 {
   "name": "fireworks",
+  "baseTag": "fireworks",
   "sounds": [
     {
       "file": "fireworks_display_psef.129.wav",
-      "tags": ["fireworks"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "fireworks",
+      "title": {
+        "en": "Fireworks",
+        "cs": "Ohňostroj"
+      }
     }
   ]
 }

@@ -61,6 +61,13 @@
         "en": "Warning",
         "cs": "Varování"
       }
+    },
+    {
+      "name": "computer",
+      "title": {
+        "en": "Computer",
+        "cs": "Počítač"
+      }
     }
   ]
 }

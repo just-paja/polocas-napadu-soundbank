@@ -1,37 +1,47 @@
 {
   "name": "media",
+  "baseTag": "media",
   "sounds": [
     {
       "file": "epic_cinematic_hit_psef.082.wav",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "glitch_dist_psef.219.wav",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "news-intro.mp3",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "scanner_police_psef.255.wav",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "sonar_ping_loop_psef.290.wav",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "telephones_america_dial_psef.309.wav",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "television_static_psef.310.wav",
-      "tags": ["media"]
+      "tags": []
     },
     {
       "file": "test_tone_sine_wave_psef.311.wav",
-      "tags": ["media"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "media",
+      "title": {
+        "en": "Media",
+        "cs": "Média"
+      }
     }
   ]
 }

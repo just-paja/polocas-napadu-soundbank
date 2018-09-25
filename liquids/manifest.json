@@ -1,9 +1,19 @@
 {
   "name": "liquids",
+  "baseTag": "liquid",
   "sounds": [
     {
       "file": "drip_spill_splash_psef.108.wav",
-      "tags": ["liquids"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "liquid",
+      "title": {
+        "en": "Liquid",
+        "cs": "Tekutina"
+      }
     }
   ]
 }

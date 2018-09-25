@@ -1,29 +1,39 @@
 {
   "name": "footsteps",
+  "baseTag": "footsteps",
   "sounds": [
     {
       "file": "closing-footsteps.mp3",
-      "tags": ["footsteps"]
+      "tags": []
     },
     {
       "file": "footsteps_thongs_flipflops_wooden_deck_psef.132.wav",
-      "tags": ["footsteps"]
+      "tags": []
     },
     {
       "file": "hard_shoes_1-daniel_simon.mp3",
-      "tags": ["footsteps"]
+      "tags": []
     },
     {
       "file": "soldiers-marching.mp3",
-      "tags": ["footsteps"]
+      "tags": []
     },
     {
       "file": "walking-in-snow.mp3",
-      "tags": ["footsteps"]
+      "tags": []
     },
     {
       "file": "walking-on-gravel.mp3",
-      "tags": ["footsteps"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "footsteps",
+      "title": {
+        "en": "Footsteps",
+        "cs": "Kroky"
+      }
     }
   ]
 }

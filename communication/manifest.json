@@ -1,45 +1,55 @@
 {
   "name": "communication",
+  "baseTag": "communication",
   "sounds": [
     {
       "file": "america-dial-tone.mp3",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "applause-light.mp3",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "electric-typewriter.mp3",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "fast-drawing.mp3",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "machine_answer_seq_psef.198.wav",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "pencil_scribble_psef.223.wav",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "phone_cell_lg_vibrate_buzz_psef.225.wav",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "phone-ring-cartoon.mp3",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "phone-ringing-earphone.mp3",
-      "tags": ["communication"]
+      "tags": []
     },
     {
       "file": "phone-ring-80s.wav",
-      "tags": ["communication"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "communication",
+      "title": {
+        "en": "Communication",
+        "cs": "Komunikace"
+      }
     }
   ]
 }

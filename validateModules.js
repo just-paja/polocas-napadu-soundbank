@@ -46,6 +46,6 @@ glob('./**/*.json', (err, files) => {
     }
   });
   if (errors) {
-    throw new Error('Failed to validate');
+    throw new Error(`Failed to validate. Found ${errors} errors.`);
   }
 });

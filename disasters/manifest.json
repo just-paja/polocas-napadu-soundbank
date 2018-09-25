@@ -1,9 +1,19 @@
 {
   "name": "disasters",
+  "baseTag": "disaster",
   "sounds": [
     {
       "file": "avalanche-daniel_simon.mp3",
-      "tags": ["disasters"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "disaster",
+      "title": {
+        "en": "Disaster",
+        "cs": "Katastrofa"
+      }
     }
   ]
 }

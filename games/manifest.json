@@ -1,9 +1,19 @@
 {
   "name": "games",
+  "baseTag": "game",
   "sounds": [
     {
       "file": "poker-chips.mp3",
-      "tags": ["games"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "game",
+      "title": {
+        "en": "Game",
+        "cs": "Hra"
+      }
     }
   ]
 }

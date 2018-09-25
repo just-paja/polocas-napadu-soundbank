@@ -1,17 +1,34 @@
 {
   "name": "machines",
+  "baseTag": "machine",
   "sounds": [
     {
       "file": "servo_motor_psef.260.wav",
-      "tags": ["machines"]
+      "tags": ["servo"]
     },
     {
       "file": "slot-machine.mp3",
-      "tags": ["machines"]
+      "tags": []
     },
     {
       "file": "steam_punk_device_psef.297.wav",
-      "tags": ["machines"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "machine",
+      "title": {
+        "en": "Machine",
+        "cs": "Stroj"
+      }
+    },
+    {
+      "name": "servo",
+      "title": {
+        "en": "Servo",
+        "cs": "Servomotor"
+      }
     }
   ]
 }

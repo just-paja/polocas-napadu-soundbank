@@ -1,9 +1,19 @@
 {
   "name": "monsters",
+  "baseTag": "monster",
   "sounds": [
     {
       "file": "large_creature_growl_psef.189.wav",
-      "tags": ["monsters"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "monster",
+      "title": {
+        "en": "Monster",
+        "cs": "Příšera"
+      }
     }
   ]
 }

@@ -444,6 +444,13 @@
       }
     },
     {
+      "name": "alert",
+      "title": {
+        "en": "Alert",
+        "cs": "Poplach"
+      }
+    },
+    {
       "name": "army",
       "title": {
         "en": "Army",

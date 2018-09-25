@@ -1,33 +1,43 @@
 {
   "name": "fight",
+  "baseTag": "fight",
   "sounds": [
     {
       "file": "body_fall_floor_psef.043.wav",
-      "tags": ["fight"]
+      "tags": []
     },
     {
       "file": "combat_whoosh_psef.084.wav",
-      "tags": ["fight"]
+      "tags": []
     },
     {
       "file": "left-hook.mp3",
-      "tags": ["fight"]
+      "tags": []
     },
     {
       "file": "punch.mp3",
-      "tags": ["fight"]
+      "tags": []
     },
     {
       "file": "punch2.mp3",
-      "tags": ["fight"]
+      "tags": []
     },
     {
       "file": "right-hook.mp3",
-      "tags": ["fight"]
+      "tags": []
     },
     {
       "file": "slap.mp3",
-      "tags": ["fight"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "fight",
+      "title": {
+        "en": "Fight",
+        "cs": "Souboj"
+      }
     }
   ]
 }

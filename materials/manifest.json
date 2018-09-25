@@ -1,85 +1,95 @@
 {
   "name": "materials",
+  "baseTag": "material",
   "sounds": [
     {
       "file": "crash_glass_psef.087.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "crash_rock_psef.088.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "crash_wall_psef.089.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "crockery_crashes_psef.092.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "chopping_wood_loop_psef.080.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "large_wood_cracking_psef.190.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "rock_salt_step_psef.248.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "rope_strain_psef.250.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "rubber_stretch_psef.251.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "sand_light_falling_on_stone_psef.253.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "sand_pour_psef.254.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "sawing-wood.mp3",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "scrapes_and_scratches_psef.256.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "spring_rusty_tension_psef.292.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "stab_punch_hack_psef.296.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "stone_sliding_door_psef.300.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "stone_thud_psef.301.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "wood_logs_movement_major_psef.345.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "wood_panel_thump_psef.346.wav",
-      "tags": ["materials"]
+      "tags": []
     },
     {
       "file": "wood_scrape_psef.347.wav",
-      "tags": ["materials"]
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "material",
+      "title": {
+        "en": "Materiál",
+        "cs": "Materiál"
+      }
     }
   ]
 }
