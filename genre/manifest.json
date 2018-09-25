@@ -1,6 +1,7 @@
 {
   "name": "genres",
   "modules": [
+    "genre-horor",
     "genre-scifi",
     "genre-western"
   ]
