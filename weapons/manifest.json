@@ -1,6 +1,6 @@
 {
   "name": "weapons",
-  "baseTag": "weapons",
+  "baseTag": "weapon",
   "sounds": [
     {
       "file": "ammo-drop.mp3",
@@ -88,6 +88,13 @@
     }
   ],
   "tags": [
+    {
+      "name": "weapon",
+      "title": {
+        "en": "Weapon",
+        "cs": "Zbraň"
+      }
+    },
     {
       "name": "ammo",
       "title": {
