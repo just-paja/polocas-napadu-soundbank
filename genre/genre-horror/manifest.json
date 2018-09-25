@@ -1,5 +1,6 @@
 {
   "name": "horror",
+  "baseTag": "horror",
   "sounds": [
     {
       "file": "horror_breaths_psef.030.wav",
