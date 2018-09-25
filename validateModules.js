@@ -2,7 +2,7 @@ const glob = require('glob');
 
 const { validateModule } = require('./schema');
 
-glob('./*.json', (err, files) => {
+glob('./**/*.json', (err, files) => {
   let errors = 0;
   if (err) {
     throw new Error(err);
