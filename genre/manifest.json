@@ -1,8 +1,18 @@
 {
   "name": "genres",
+  "baseTag": "genre",
   "modules": [
     "genre-horor",
     "genre-scifi",
     "genre-western"
+  ],
+  "tags": [
+    {
+      "name": "genre",
+      "title": {
+        "en": "Genre",
+        "cs": "Žánr"
+      }
+    }
   ]
 }
