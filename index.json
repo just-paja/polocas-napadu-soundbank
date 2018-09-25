@@ -4,15 +4,11 @@
     "alarms",
     "aliens",
     "ambient",
-    "animals",
-    "armor",
+    "animal",
     "bensound",
-    "birds",
     "buttons",
     "clock",
-    "clothes",
     "communication",
-    "computer",
     "disasters",
     "door",
     "drinks",
@@ -24,7 +20,7 @@
     "footsteps",
     "furniture",
     "games",
-    "horror",
+    "genre",
     "human",
     "chemicals",
     "insects",
@@ -42,7 +38,6 @@
     "os",
     "religion",
     "rooms",
-    "sci-fi",
     "services",
     "sport",
     "teleport",
@@ -51,8 +46,7 @@
     "underwater",
     "vehicles",
     "weapons",
-    "weather",
-    "western"
+    "weather"
   ],
   "tags": [
     {
