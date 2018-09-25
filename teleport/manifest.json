@@ -1,6 +1,6 @@
 {
   "name": "teleport",
-  "baseTag": "teleport" "sci-fi",
+  "baseTag": "teleport",
   "sounds": [
     {
       "file": "sub_sonic_bass_drops_psef.284.wav",
@@ -16,11 +16,11 @@
     },
     {
       "file": "transitions_creepy_psef.168.wav",
-      "tags": ["mysterious", "transitions"]
+      "tags": ["mysterious", "transition"]
     },
     {
       "file": "transitions_scifi_psef.169.wav",
-      "tags": ["transitions"]
+      "tags": ["transition"]
     },
     {
       "file": "transitions_scifi_psef.170.wav",
@@ -32,7 +32,7 @@
     },
     {
       "file": "transitions_scifi_psef.172.wav",
-      "tags": ["transitions"]
+      "tags": ["transition"]
     },
     {
       "file": "transitions_scifi_psef.173.wav",
@@ -40,15 +40,15 @@
     },
     {
       "file": "transitions_scifi_psef.174.wav",
-      "tags": ["transitions"]
+      "tags": ["transition"]
     },
     {
       "file": "transitions_scifi_psef.175.wav",
-      "tags": ["transitions"]
+      "tags": ["transition"]
     },
     {
       "file": "transitions_scifi_psef.176.wav",
-      "tags": ["transitions"]
+      "tags": ["transition"]
     },
     {
       "file": "transitions_scifi_psef.177.wav",
@@ -60,6 +60,13 @@
     }
   ],
   "tags": [
+    {
+      "name": "teleport",
+      "title": {
+        "en": "Teleport",
+        "cs": "Teleport"
+      }
+    },
     {
       "name": "alien",
       "title": {

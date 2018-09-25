@@ -1,6 +1,6 @@
 {
   "name": "underwater",
-  "baseTag": "underwater"
+  "baseTag": "underwater",
   "sounds": [
     {
       "file": "air_release_bubble_stream_psef.302.wav",
@@ -24,6 +24,13 @@
     },
   ],
   "tags": [
+    {
+      "name": "underwater",
+      "title": {
+        "en": "Under Water",
+        "cs": "Pod Vodou"
+      }
+    },
     {
       "name": "bubbles",
       "title": {

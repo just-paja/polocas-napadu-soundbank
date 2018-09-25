@@ -1,6 +1,6 @@
 {
   "name": "vehicles",
-  "baseTag": "transport",
+  "baseTag": "vehicle",
   "sounds": [
     {
       "file": "aircraft_ct4a_idle_taxi_psef.004.wav",

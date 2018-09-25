@@ -1,6 +1,6 @@
 {
   "name": "transitions",
-  "baseTag": "transitions",
+  "baseTag": "transition",
   "sounds": [
     {
       "file": "cinematic_mega_horns_psef.279.wav",
@@ -36,6 +36,13 @@
     }
   ],
   "tags": [
+    {
+      "name": "transition",
+      "title": {
+        "en": "Transition",
+        "cs": "Přechod"
+      }
+    },
     {
       "name": "fantasy",
       "title": {

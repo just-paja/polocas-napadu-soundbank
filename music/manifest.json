@@ -1,5 +1,6 @@
 {
   "name": "music",
+  "baseTag": "music",
   "sounds": [
     {
       "file": "Accordion-SoundBible.com-74362576.mp3",
@@ -15,6 +16,13 @@
     },
   ],
   "tags": [
+    {
+      "name": "music",
+      "title": {
+        "en": "Music",
+        "cs": "Hudba"
+      }
+    },
     {
       "name": "accordion",
       "title": {

@@ -18,10 +18,6 @@
       "tags": ["movement"]
     },
     {
-      "file": "tinyfest.json",
-      "tags": ["movement"]
-    },
-    {
       "file": "underwater_slosh_psef.326.wav",
       "tags": ["movement"]
     },
@@ -96,6 +92,15 @@
     {
       "file": "whoosh_zip_super_fast_psef.343.wav",
       "tags": ["movement"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "movement",
+      "title": {
+        "en": "Movement",
+        "cs": "Pohyb"
+      }
     }
   ]
 }

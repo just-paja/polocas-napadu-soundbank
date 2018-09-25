@@ -3,12 +3,12 @@
   "sounds": [
     {
       "file": "Windows_95_Startup-Microsoft-2077254053.mp3",
-      "tags": ["starting", "PC", "old", "windows95"]
+      "tags": ["starting", "pc", "old", "windows95"]
     }
   ],
   "tags": [
     {
-      "name": "PC",
+      "name": "pc",
       "title": {
         "en": "PC",
         "cs": "Počítač"
