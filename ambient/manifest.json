@@ -549,6 +549,13 @@
         "en": "Children",
         "cs": "Děti"
       }
+    },
+    {
+      "name": "computer",
+      "title": {
+        "en": "Computer",
+        "cs": "Počítač"
+      }
     }
   ]
 }
