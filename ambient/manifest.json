@@ -15,6 +15,10 @@
       "tags": ["city", "traffic", "road", "ambient", "loop"]
     },
     {
+      "file": "crickets_night_psef.wav",
+      "tags": ["nature", "night", "outside", "awkward", "ambient", "loop"]
+    },
+    {
       "file": "computer_room_psef.wav",
       "tags": ["inside", "room", "computer", "cooling", "machine", "ambient", "loop"]
     },
@@ -555,6 +559,20 @@
       "title": {
         "en": "Computer",
         "cs": "Počítač"
+      }
+    },
+    {
+      "name": "nature",
+      "title": {
+        "en": "Nature",
+        "cs": "Příroda"
+      }
+    },
+    {
+      "name": "awkward",
+      "title": {
+        "en": "Awkward",
+        "cs": "Trapnost"
       }
     }
   ]

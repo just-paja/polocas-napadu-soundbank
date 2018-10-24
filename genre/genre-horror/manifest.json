@@ -3,60 +3,111 @@
   "baseTag": "horror",
   "sounds": [
     {
-      "file": "horror_breaths_psef.030.wav",
+      "file": "breaths_psef.030.wav",
       "tags": ["horror"]
     },
     {
-      "file": "horror_breaths_psef.031.wav",
+      "file": "breaths_psef.031.wav",
       "tags": ["horror"]
     },
     {
-      "file": "horror_breaths_psef.032.wav",
+      "file": "breaths_psef.032.wav",
       "tags": ["horror"]
     },
     {
-      "file": "horror_breaths_psef.033.wav",
+      "file": "breaths_psef.033.wav",
       "tags": ["horror"]
     },
     {
-      "file": "horror_curses_psef.034.wav",
+      "file": "curses_psef.034.wav",
       "tags": ["horror"]
     },
     {
-      "file": "horror_riser",
+      "file": "riser_layers_psef.035.wav",
       "tags": ["horror"]
     },
     {
-      "file": "layers_psef.035.wav",
+      "file": "riser_layers_psef.036.wav",
       "tags": ["horror"]
     },
     {
-      "file": "horror_riser",
+      "file": "riser_layers_psef.037.wav",
       "tags": ["horror"]
     },
     {
-      "file": "layers_psef.036.wav",
-      "tags": ["horror"]
-    },
-    {
-      "file": "horror_riser",
-      "tags": ["horror"]
-    },
-    {
-      "file": "layers_psef.037.wav",
-      "tags": ["horror"]
-    },
-    {
-      "file": "horror_stingers_psef.038.wav",
-      "tags": ["horror"]
-    },
-    {
-      "file": "horror_zenith",
+      "file": "stingers_psef.038.wav",
       "tags": ["horror"]
     },
     {
       "file": "stingers_psef.039.wav",
       "tags": ["horror"]
+    },
+    {
+      "file": "drone_deep_psef.wav",
+      "tags": ["ambient", "scary", "loop", "humm"]
+    },
+    {
+      "file": "drone_energy_psef.wav",
+      "tags": ["ambient", "scary", "loop", "bzzz", "generator"]
+    },
+    {
+      "file": "drone_feedback_psef.wav",
+      "tags": ["ambient", "loop", "energy", "generator"]
+    },
+    {
+      "file": "drone_wind_psef.wav",
+      "tags": ["ambient", "scary", "loop", "hallway", "cave", "wind"]
+    }
+  ],
+  "tags": [
+    {
+      "name": "scary",
+      "title": {
+        "en": "Scary",
+        "cs": "Děsivé"
+      }
+    },
+    {
+      "name": "bzzz",
+      "title": {
+        "en": "Bzzzt",
+        "cs": "Bzučení"
+      }
+    },
+    {
+      "name": "generator",
+      "title": {
+        "en": "Generator",
+        "cs": "Generátor"
+      }
+    },
+    {
+      "name": "energy",
+      "title": {
+        "en": "Energy",
+        "cs": "Energie"
+      }
+    },
+    {
+      "name": "hallway",
+      "title": {
+        "en": "Hallway",
+        "cs": "Chodba"
+      }
+    },
+    {
+      "name": "cave",
+      "title": {
+        "en": "Cave",
+        "cs": "Jeskyně"
+      }
+    },
+    {
+      "name": "wind",
+      "title": {
+        "en": "Wind",
+        "cs": "Vítr"
+      }
     }
   ]
 }

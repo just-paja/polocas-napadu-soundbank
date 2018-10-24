@@ -85,6 +85,10 @@
     {
       "file": "winchester12-shot.mp3",
       "tags": ["winchester", "gunshot", "reload"]
+    },
+    {
+      "file": "remington-cocking.wav",
+      "tags": ["remington", "reload"]
     }
   ],
   "tags": [
@@ -310,6 +314,13 @@
       "title": {
         "en": "Winchester",
         "cs": "Winchestrovka"
+      }
+    },
+    {
+      "name": "remington",
+      "title": {
+        "en": "Remington",
+        "cs": "Remington"
       }
     }
   ]

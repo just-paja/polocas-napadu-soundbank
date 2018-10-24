@@ -3,19 +3,19 @@
   "baseTag": "animal-domestic",
   "sounds": [
     {
-      "file": "cat-meow-food-twice.wav",
+      "file": "cat-meow-food-twice.mp3",
       "tags": ["cat", "small-size"]
     },
     {
-      "file": "cat-meow-what-once.mp3",
+      "file": "cat-meow-what-once.wav",
       "tags": ["cat", "small-size"]
     },
     {
-      "file": "dog-bark-doberman-pincher.wav",
+      "file": "dog-bark-doberman-pincher.mp3",
       "tags": ["dog", "bark", "big-size"]
     },
     {
-      "file": "dog-bark-chihuahua.mp3",
+      "file": "dog-bark-chihuahua.wav",
       "tags": ["dog", "bark", "small-size"]
     },
     {

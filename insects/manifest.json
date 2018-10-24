@@ -3,16 +3,12 @@
   "baseTag": "insect",
   "sounds": [
     {
-      "file": "insect",
-      "tags": []
-    },
-    {
-      "file": "eat_attack_chew_bite_crunch_bug_psef.166.wav",
-      "tags": []
+      "file": "insect_eat_attack_chew_bite_crunch_bug_psef.166.wav",
+      "tags": ["crunch", "food", "creepy"]
     },
     {
       "file": "insect_water_bug_buzz_by_psef.165.wav",
-      "tags": []
+      "tags": ["flight", "wings", "creepy"]
     }
   ],
   "tags": [
@@ -21,6 +17,43 @@
       "title": {
         "en": "Insect",
         "cs": "Hmyz"
+      }
+    }
+  ],
+  "tags": [
+    {
+      "name": "insect",
+      "title": {
+        "en": "Insect",
+        "cs": "Hmyz"
+      }
+    },
+    {
+      "name": "creepy",
+      "title": {
+        "en": "Creepy",
+        "cs": "Odpudivé"
+      }
+    },
+    {
+      "name": "crunch",
+      "title": {
+        "en": "Crunching",
+        "cs": "Chroustání"
+      }
+    },
+    {
+      "name": "flight",
+      "title": {
+        "en": "Flight",
+        "cs": "Létání"
+      }
+    },
+    {
+      "name": "wings",
+      "title": {
+        "en": "Wings",
+        "cs": "Křídla"
       }
     }
   ]
