@@ -3,7 +3,7 @@
   "baseTag": "animal-wild",
   "sounds": [
     {
-      "file": "alpaca-male-mating-call.wav",
+      "file": "alpaca-male-mating-call.mp3",
       "tags": ["alpaca", "mating", "animal-call", "medium-size"]
     },
     {
@@ -11,11 +11,11 @@
       "tags": ["monkey", "gibbon", "cheering", "small-size"]
     },
     {
-      "file": "lion-roars.wav",
+      "file": "lion-roars.mp3",
       "tags": ["lion", "roar", "big-size"]
     },
     {
-      "file": "seal-call.wav",
+      "file": "seal-call.mp3",
       "tags": ["seal", "animal-call", "big-size"]
     },
     {

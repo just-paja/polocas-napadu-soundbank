@@ -44,11 +44,11 @@ https://github.com/just-paja/polocas-napadu-soundbank/blob/master/machines/manif
 2. Zkopírujte si název souboru zvuku
 
 ```
-Vybírám si ten první: "servo_motor_psef.260.wav"
+Vybírám si ten první: "servo_motor_psef.260.mp3"
 ```
 
 3. Napište do prohlížeče URL podle schématu `http://soundbank.polocas-napadu.cz/{cesta-k-modulu}/{zvukovy-soubor}`
 
 ```
-Píšu http://soundbank.polocas-napadu.cz/machines/servo_motor_psef.260.wav
+Píšu http://soundbank.polocas-napadu.cz/machines/servo_motor_psef.260.mp3
 ```

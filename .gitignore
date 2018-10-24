@@ -3,5 +3,5 @@ node_modules
 # Don't include the actual sounds in the definition repository
 
 *.mp3
-*.wav
+*.mp3
 *.ogg

@@ -3,7 +3,7 @@
   "baseTag": "clothes",
   "sounds": [
     {
-      "file": "zipper-close.wav",
+      "file": "zipper-close.mp3",
       "tags": ["zip"]
     }
   ],

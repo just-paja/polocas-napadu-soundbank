@@ -3,11 +3,11 @@
   "baseTag": "fight",
   "sounds": [
     {
-      "file": "body_fall_floor_psef.043.wav",
+      "file": "body_fall_floor_psef.043.mp3",
       "tags": []
     },
     {
-      "file": "combat_whoosh_psef.084.wav",
+      "file": "combat_whoosh_psef.084.mp3",
       "tags": []
     },
     {

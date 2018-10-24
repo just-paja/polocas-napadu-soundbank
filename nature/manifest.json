@@ -2,11 +2,11 @@
   "name": "nature",
   "sounds": [
     {
-      "file": "geysers_old_faith_psef.137.wav",
-      "tags": ["outside", "sea", "waves", "loop"]
+      "file": "geysers_old_faith_psef.137.mp3",
+      "tags": ["outside", "sea", "mp3es", "loop"]
     },
     {
-      "file": "geysers_thermal_mud_pool_psef.138.wav",
+      "file": "geysers_thermal_mud_pool_psef.138.mp3",
       "tags": ["bubles", "cooking", "boiling", "chemistry"]
     }
   ],
@@ -19,9 +19,9 @@
       }
     },
     {
-      "name": "waves",
+      "name": "mp3es",
       "title": {
-        "en": "Waves",
+        "en": "mp3es",
         "cs": "Vlny"
       }
     },

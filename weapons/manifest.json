@@ -7,19 +7,19 @@
       "tags": ["ammo", "falling"]
     },
     {
-      "file": "battle_cannon_psef.023.wav",
+      "file": "battle_cannon_psef.023.mp3",
       "tags": ["bombing", "battle", "loop", "distant", "explosion"]
     },
     {
-      "file": "bomb_fallin_whistle_psef.045.wav",
+      "file": "bomb_fallin_whistle_psef.045.mp3",
       "tags": ["whistle", "falling"]
     },
     {
-      "file": "drawing_swords_psef.106.wav",
+      "file": "drawing_swords_psef.106.mp3",
       "tags": ["sword", "unsheathe"]
     },
     {
-      "file": "gunshot_machine_gun_psef.150.wav",
+      "file": "gunshot_machine_gun_psef.150.mp3",
       "tags": ["loop", "gunfire"]
     },
     {
@@ -27,31 +27,31 @@
       "tags": ["gunshot"]
     },
     {
-      "file": "gun_toy_dart_pistol_firing_psef.149.wav",
+      "file": "gun_toy_dart_pistol_firing_psef.149.mp3",
       "tags": ["gunfail", "gunshot"]
     },
     {
-      "file": "gun_44_mag_psef.148.wav",
+      "file": "gun_44_mag_psef.148.mp3",
       "tags": ["gunshot", "magnum"]
     },
     {
-      "file": "jaws_of_life_pull_motor_on_run_idle_off_psef.167.wav",
+      "file": "jaws_of_life_pull_motor_on_run_idle_off_psef.167.mp3",
       "tags": ["engine", "failure", "starting"]
     },
     {
-      "file": "laser_hit_psef.221.wav",
+      "file": "laser_hit_psef.221.mp3",
       "tags": ["laser", "shot"]
     },
     {
-      "file": "laser_sword_movements_psef.191.wav",
+      "file": "laser_sword_movements_psef.191.mp3",
       "tags": ["laser", "sword", "swinging"]
     },
     {
-      "file": "nail_gun_psef.210.wav",
+      "file": "nail_gun_psef.210.mp3",
       "tags": ["gunshot"]
     },
     {
-      "file": "ninja_star_spin_psef.212.wav",
+      "file": "ninja_star_spin_psef.212.mp3",
       "tags": ["flying", "knife"]
     },
     {
@@ -59,15 +59,15 @@
       "tags": ["loop", "gunfire", "western", "shootout"]
     },
     {
-      "file": "ray_gun_laser_psef.222.wav",
+      "file": "ray_gun_laser_psef.222.mp3",
       "tags": ["laser", "shot"]
     },
     {
-      "file": "ricochet_psef.243.wav",
+      "file": "ricochet_psef.243.mp3",
       "tags": ["gunshot", "revolver"]
     },
     {
-      "file": "rocket_launch_psef.247.wav",
+      "file": "rocket_launch_psef.247.mp3",
       "tags": ["rocket", "launch", "fireworks"]
     },
     {
@@ -87,7 +87,7 @@
       "tags": ["winchester", "gunshot", "reload"]
     },
     {
-      "file": "remington-cocking.wav",
+      "file": "remington-cocking.mp3",
       "tags": ["remington", "reload"]
     }
   ],

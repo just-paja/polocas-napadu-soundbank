@@ -3,11 +3,11 @@
   "baseTag": "media",
   "sounds": [
     {
-      "file": "epic_cinematic_hit_psef.082.wav",
+      "file": "epic_cinematic_hit_psef.082.mp3",
       "tags": []
     },
     {
-      "file": "glitch_dist_psef.219.wav",
+      "file": "glitch_dist_psef.219.mp3",
       "tags": []
     },
     {
@@ -15,23 +15,23 @@
       "tags": []
     },
     {
-      "file": "scanner_police_psef.255.wav",
+      "file": "scanner_police_psef.255.mp3",
       "tags": []
     },
     {
-      "file": "sonar_ping_loop_psef.290.wav",
+      "file": "sonar_ping_loop_psef.290.mp3",
       "tags": []
     },
     {
-      "file": "telephones_america_dial_psef.309.wav",
+      "file": "telephones_america_dial_psef.309.mp3",
       "tags": []
     },
     {
-      "file": "television_static_psef.310.wav",
+      "file": "television_static_psef.310.mp3",
       "tags": []
     },
     {
-      "file": "test_tone_sine_wave_psef.311.wav",
+      "file": "test_tone_sine.mp3",
       "tags": []
     }
   ],

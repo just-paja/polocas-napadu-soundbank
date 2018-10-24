@@ -3,111 +3,111 @@
   "baseTag": "ambient",
   "sounds": [
     {
-      "file": "birds_park_ambience_loop_psef.wav",
+      "file": "birds_park_ambience_loop_psef.mp3",
       "tags": ["park", "ambient", "loop"]
     },
     {
-      "file": "casino_slot_machines_psef.wav",
+      "file": "casino_slot_machines_psef.mp3",
       "tags": ["casino", "cash", "slotMachine", "ambient", "loop"]
     },
     {
-      "file": "city_traffic_psef.wav",
+      "file": "city_traffic_psef.mp3",
       "tags": ["city", "traffic", "road", "ambient", "loop"]
     },
     {
-      "file": "crickets_night_psef.wav",
+      "file": "crickets_night_psef.mp3",
       "tags": ["nature", "night", "outside", "awkward", "ambient", "loop"]
     },
     {
-      "file": "computer_room_psef.wav",
+      "file": "computer_room_psef.mp3",
       "tags": ["inside", "room", "computer", "cooling", "machine", "ambient", "loop"]
     },
     {
-      "file": "earthquake_rumble_psef.wav",
+      "file": "earthquake_rumble_psef.mp3",
       "tags": ["earthquake", "scary", "ambient", "loop"]
     },
     {
-      "file": "elevated_train_interior_psef.wav",
+      "file": "elevated_train_interior_psef.mp3",
       "tags": ["inside", "train", "departure", "publicTransport", "metro", "ride", "ambient", "loop"]
     },
     {
-      "file": "factory_heavy_activity_psef.wav",
+      "file": "factory_heavy_activity_psef.mp3",
       "tags": ["inside", "factory", "work", "machinery", "engine", "ambient", "loop"]
     },
     {
-      "file": "ferry_sea_wash_psef.wav",
+      "file": "ferry_sea_wash_psef.mp3",
       "tags": ["outside", "ship", "sea", "ocean", "water", "ambient", "loop"]
     },
     {
-      "file": "fire_furnace_loop_psef.wav",
+      "file": "fire_furnace_loop_psef.mp3",
       "tags": ["fire", "humm", "ambient", "loop"]
     },
     {
-      "file": "children_schoolyard_psef.wav",
+      "file": "children_schoolyard_psef.mp3",
       "tags": ["outside", "children", "schoolyard", "shouting", "screaming", "playing", "ambient"]
     },
     {
-      "file": "lawn_mower_pass_by_multiple_psef.wav",
+      "file": "lawn_mower_pass_by_multiple_psef.mp3",
       "tags": ["outside", "grass", "lawn", "lawnMover", "passBy", "ambient", "loop"]
     },
     {
-      "file": "mangrove_atmosphere_psef.wav",
+      "file": "mangrove_atmosphere_psef.mp3",
       "tags": ["outside", "mangrove", "evening", "bird", "ambient", "loop"]
     },
     {
-      "file": "marina_birds_distant_boats_psef.wav",
+      "file": "marina_birds_distant_boats_psef.mp3",
       "tags": ["outside", "marina", "sea", "ocean", "bird", "ambient", "loop"]
     },
     {
-      "file": "museum_crowd_walla_france_psef.wav",
+      "file": "museum_crowd_walla_france_psef.mp3",
       "tags": ["inside", "museum", "crowd", "indistinct", "ambient", "loop"]
     },
     {
-      "file": "office_typewriter_psef.wav",
+      "file": "office_typewriter_psef.mp3",
       "tags": ["inside", "typewriter", "writer", "book", "author", "ambient", "loop"]
     },
     {
-      "file": "restaurant_pizza_parlor_walla_psef.wav",
+      "file": "restaurant_pizza_parlor_walla_psef.mp3",
       "tags": ["inside", "restaurant", "pizzeria", "busy", "ambient", "loop"]
     },
     {
-      "file": "river_small_psef.wav",
+      "file": "river_small_psef.mp3",
       "tags": ["outside", "river", "stream", "water", "ambient", "loop"]
     },
     {
-      "file": "seawash_tide_psef.wav",
+      "file": "seawash_tide_psef.mp3",
       "tags": ["outside", "sea", "ocean", "water", "ambient", "loop"]
     },
     {
-      "file": "thunder_rain_psef.wav",
+      "file": "thunder_rain_psef.mp3",
       "tags": ["outside", "thunder", "storm", "rain", "lightning", "ambient", "loop"]
     },
     {
-      "file": "traffic_suburb_bys_psef.wav",
+      "file": "traffic_suburb_bys_psef.mp3",
       "tags": ["outside", "traffic", "idle", "passBy", "ambient", "loop"]
     },
     {
-      "file": "train_european_stop_amb_loop_psef.wav",
+      "file": "train_european_stop_amb_loop_psef.mp3",
       "tags": ["inside", "traffic", "train", "tram", "travel", "ambient"]
     },
     {
-      "file": "tropical_bird_ambience_loop_psef.wav",
+      "file": "tropical_bird_ambience_loop_psef.mp3",
       "tags": ["outside", "bird", "tropical", "jungle", "animal", "ambient", "loop"]
     },
     {
-      "file": "tropical_bird_psef.wav",
+      "file": "tropical_bird_psef.mp3",
       "tags": ["outside", "bird", "tropical", "jungle", "ambient", "loop"]
     },
     {
-      "file": "two_frogs_close_up_psef.wav",
+      "file": "two_frogs_close_up_psef.mp3",
       "tags": ["outside", "night", "frog", "bird", "byLake", "ambient", "loop"]
     },
     {
-      "file": "waterfall_loop_psef.wav",
+      "file": "waterfall_loop_psef.mp3",
       "tags": ["outside", "waterfall", "water", "byRiver", "ambient", "loop"]
     },
     {
-      "file": "water_spray_garden_hose_cone_psef.wav",
+      "file": "water_spray_garden_hose_cone_psef.mp3",
       "tags": ["outside", "hose", "garden", "water", "byRiver", "ambient", "loop"]
     },
     {
@@ -115,7 +115,7 @@
       "tags": ["inside", "cave", "water", "drops", "ambient", "loop"]
     },
     {
-      "file": "wind_whistle_design_psef.wav",
+      "file": "wind_whistle_design_psef.mp3",
       "tags": ["outside", "wind", "whistle", "air", "wailing", "scary", "ambient", "loop"]
     }
   ],

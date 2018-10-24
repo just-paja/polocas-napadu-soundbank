@@ -3,11 +3,11 @@
   "baseTag": "insect",
   "sounds": [
     {
-      "file": "insect_eat_attack_chew_bite_crunch_bug_psef.166.wav",
+      "file": "insect_eat_attack_chew_bite_crunch_bug_psef.166.mp3",
       "tags": ["crunch", "food", "creepy"]
     },
     {
-      "file": "insect_water_bug_buzz_by_psef.165.wav",
+      "file": "insect_water_bug_buzz_by_psef.165.mp3",
       "tags": ["flight", "wings", "creepy"]
     }
   ],

@@ -3,23 +3,23 @@
   "baseTag": "tools",
   "sounds": [
     {
-      "file": "hand_mixer_braun_on_run_off_steady_psef.152.wav",
+      "file": "hand_mixer_braun_on_run_off_steady_psef.152.mp3",
       "tags": ["drill", "dentist", "loop"]
     },
     {
-      "file": "chain_rattles_psef.076.wav",
+      "file": "chain_rattles_psef.076.mp3",
       "tags": ["chains", "rattling"]
     },
     {
-      "file": "pneumatic_drill_psef.232.wav",
+      "file": "pneumatic_drill_psef.232.mp3",
       "tags": ["pneumatic_drill", "gunfire", "loop"]
     },
     {
-      "file": "ratchet,bindings,tighten_psef.238.wav",
+      "file": "ratchet,bindings,tighten_psef.238.mp3",
       "tags": ["clicking", "ticking", "scratching"]
     },
     {
-      "file": "ratchet_wrench_med_psef.239.wav",
+      "file": "ratchet_wrench_med_psef.239.mp3",
       "tags": ["timer"]
     }
   ],

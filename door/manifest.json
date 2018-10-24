@@ -3,31 +3,31 @@
   "baseTag": "door",
   "sounds": [
     {
-      "file": "door_creak_psef.101.wav",
+      "file": "door_creak_psef.101.mp3",
       "tags": []
     },
     {
-      "file": "door_handle_old_apt_mvs_slow_psef.100.wav",
+      "file": "door_handle_old_apt_mvs_slow_psef.100.mp3",
       "tags": []
     },
     {
-      "file": "door_open_psef.102.wav",
+      "file": "door_open_psef.102.mp3",
       "tags": []
     },
     {
-      "file": "door_open_psef.103.wav",
+      "file": "door_open_psef.103.mp3",
       "tags": []
     },
     {
-      "file": "fridge_door_slam_hum_psef.134.wav",
+      "file": "fridge_door_slam_hum_psef.134.mp3",
       "tags": []
     },
     {
-      "file": "glass_door_close_psef.142.wav",
+      "file": "glass_door_close_psef.142.mp3",
       "tags": []
     },
     {
-      "file": "household_door_close_psef.160.wav",
+      "file": "household_door_close_psef.160.mp3",
       "tags": []
     },
     {

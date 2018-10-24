@@ -7,11 +7,11 @@
       "tags": ["cow", "moo"]
     },
     {
-      "file": "horse-snorting.wav",
+      "file": "horse-snorting.mp3",
       "tags": ["horse", "snort"]
     },
     {
-      "file": "pigs-screaming.wav",
+      "file": "pigs-screaming.mp3",
       "tags": ["pig", "scream"]
     }
   ],

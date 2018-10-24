@@ -3,7 +3,7 @@
   "baseTag": "human",
   "sounds": [
     {
-      "file": "belch_regular_psef.024.wav",
+      "file": "belch_regular_psef.024.mp3",
       "tags": []
     },
     {
@@ -15,31 +15,31 @@
       "tags": []
     },
     {
-      "file": "crowd_applause_psef.096.wav",
+      "file": "crowd_applause_psef.096.mp3",
       "tags": []
     },
     {
-      "file": "crowd_streetfest_corner_psef.093.wav",
+      "file": "crowd_streetfest_corner_psef.093.mp3",
       "tags": []
     },
     {
-      "file": "crowd_teen_grad_whistles_claps_psef.094.wav",
+      "file": "crowd_teen_grad_whistles_claps_psef.094.mp3",
       "tags": []
     },
     {
-      "file": "crowd_up_leave_church_wood_psef.095.wav",
+      "file": "crowd_up_leave_church_wood_psef.095.mp3",
       "tags": []
     },
     {
-      "file": "dry_fart_psef.113.wav",
+      "file": "dry_fart_psef.113.mp3",
       "tags": []
     },
     {
-      "file": "female_whistle_short_psef.123.wav",
+      "file": "female_whistle_short_psef.123.mp3",
       "tags": []
     },
     {
-      "file": "heartbeat_slow_psef.153.wav",
+      "file": "heartbeat_slow_psef.153.mp3",
       "tags": []
     },
     {
@@ -47,11 +47,11 @@
       "tags": []
     },
     {
-      "file": "human_male_coughs_throat_clears_psef.162.wav",
+      "file": "human_male_coughs_throat_clears_psef.162.mp3",
       "tags": []
     },
     {
-      "file": "laughing_group_medium_psef.192.wav",
+      "file": "laughing_group_medium_psef.192.mp3",
       "tags": []
     },
     {
@@ -63,15 +63,15 @@
       "tags": []
     },
     {
-      "file": "screamsshouts_human_female_psef.257.wav",
+      "file": "screamsshouts_human_female_psef.257.mp3",
       "tags": []
     },
     {
-      "file": "screamsshouts_human_male_psef.258.wav",
+      "file": "screamsshouts_human_male_psef.258.mp3",
       "tags": []
     },
     {
-      "file": "sneeze_psef.288.wav",
+      "file": "sneeze_psef.288.mp3",
       "tags": []
     },
     {

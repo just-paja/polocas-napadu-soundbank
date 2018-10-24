@@ -3,20 +3,12 @@
   "baseTag": "scifi",
   "sounds": [
     {
-      "file": "drone_deep_psef.wav",
-      "tags": ["humm", "engine", "deep", "ambient", "loop"]
-    },
-    {
-      "file": "drone_energy_psef.wav",
+      "file": "drone_energy_psef.mp3",
       "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "ambient", "loop"]
     },
     {
-      "file": "drone_feedback_psef.wav",
+      "file": "drone_feedback_psef.mp3",
       "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "scary", "halfLife", "ambient", "loop"]
-    },
-    {
-      "file": "drone_wind_psef.wav",
-      "tags": ["humm", "wind", "scary", "ambient", "loop"]
     }
   ],
   "tags": [

@@ -3,7 +3,7 @@
   "baseTag": "machine",
   "sounds": [
     {
-      "file": "servo_motor_psef.260.wav",
+      "file": "servo_motor_psef.260.mp3",
       "tags": ["servo"]
     },
     {
@@ -11,7 +11,7 @@
       "tags": []
     },
     {
-      "file": "steam_punk_device_psef.297.wav",
+      "file": "steam_punk_device_psef.297.mp3",
       "tags": []
     }
   ],

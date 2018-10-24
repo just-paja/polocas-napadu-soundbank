@@ -3,7 +3,7 @@
   "baseTag": "bird",
   "sounds": [
     {
-      "file": "bird-rooster-morning.wav",
+      "file": "bird-rooster-morning.mp3",
       "tags": ["rooster", "dawn", "scream"]
     },
     {
@@ -11,11 +11,11 @@
       "tags": ["singing", "loop", "outside"]
     },
     {
-      "file": "bird-seagulls-beach.wav",
+      "file": "bird-seagulls-beach.mp3",
       "tags": ["scream", "beach", "outside"]
     },
     {
-      "file": "pigeons-flyaway.wav",
+      "file": "pigeons-flyaway.mp3",
       "tags": ["pigeon", "flyaway", "outside"]
     }
   ],

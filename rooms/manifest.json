@@ -2,11 +2,11 @@
   "name": "rooms",
   "sounds": [
     {
-      "file": "fan_household_on_oscillating_psef.121.wav",
+      "file": "fan_household_on_oscillating_psef.121.mp3",
       "tags": ["loop", "fan"]
     },
     {
-      "file": "rug_being_pull_out_psef.252.wav",
+      "file": "rug_being_pull_out_psef.252.mp3",
       "tags": ["open", "drawer"]
     },
     {

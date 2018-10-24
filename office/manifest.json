@@ -2,7 +2,7 @@
   "name": "office",
   "sounds": [
     {
-      "file": "filing_cabinet_pull_psef.125.wav",
+      "file": "filing_cabinet_pull_psef.125.mp3",
       "tags": ["open", "drawer", "metal"]
     }
   ],

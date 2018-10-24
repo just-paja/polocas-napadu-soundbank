@@ -3,11 +3,11 @@
   "baseTag": "explosion",
   "sounds": [
     {
-      "file": "c-4explosion_psef.059.wav",
+      "file": "c-4explosion_psef.059.mp3",
       "tags": []
     },
     {
-      "file": "explosion_debris_psef.119.wav",
+      "file": "explosion_debris_psef.119.mp3",
       "tags": []
     },
     {
