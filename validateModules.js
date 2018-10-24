@@ -4,6 +4,8 @@ const path = require('path');
 
 const { validateModule } = require('./schema');
 
+const skipFileCheck = process.argv.indexOf('--fileCheck') === -1;
+
 let errors = 0;
 
 glob('./**/*.json', (err, files) => {
@@ -47,20 +49,22 @@ glob('./**/*.json', (err, files) => {
               errors += 1;
             }
           });
-          const filePath = path.join(path.dirname(file), sound.file);
-          try {
-            const stats = fs.statSync(filePath)
-            if (stats.size === 0) {
-              console.error(`${filePath} is zero size.`);
+          if (!skipFileCheck) {
+            const filePath = path.join(path.dirname(file), sound.file);
+            try {
+              const stats = fs.statSync(filePath)
+              if (stats.size === 0) {
+                console.error(`${filePath} is zero size.`);
+                errors += 1;
+              }
+            } catch (e) {
+              console.error(e.message);
               errors += 1;
             }
-          } catch (e) {
-            console.error(e.message);
-            errors += 1;
           }
         }
       });
-      if (sounds.length) {
+      if (sounds.length && !skipFileCheck) {
         const soundFiles = glob.sync(path.join(path.dirname(file), '*'));
         soundFiles
           .filter(soundFile => soundFile.indexOf('json') === -1)
