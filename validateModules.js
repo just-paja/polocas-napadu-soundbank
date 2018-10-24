@@ -1,13 +1,17 @@
+const fs = require('fs');
 const glob = require('glob');
+const path = require('path');
 
 const { validateModule } = require('./schema');
 
+let errors = 0;
+
 glob('./**/*.json', (err, files) => {
-  let errors = 0;
   let tags = [];
   if (err) {
     throw new Error(err);
   }
+  // validate schema
   files.forEach((file) => {
     const fileContent = require(file);
     const validationResult = validateModule(fileContent);
@@ -24,11 +28,13 @@ glob('./**/*.json', (err, files) => {
       }
     }
   });
+
+  // validate module contents
   files.forEach((file) => {
     const { baseTag, sounds } = require(file);
     if (baseTag) {
       if (!tags.find(tag => tag.name === baseTag)) {
-        console.error(`Missing baseTag definition for ${tagName} in module ${file}`);
+        console.error(`Missing baseTag definition for ${baseTag} in module ${file}`);
         errors += 1;
       }
     }
@@ -41,11 +47,35 @@ glob('./**/*.json', (err, files) => {
               errors += 1;
             }
           });
+          const filePath = path.join(path.dirname(file), sound.file);
+          try {
+            const stats = fs.statSync(filePath)
+            if (stats.size === 0) {
+              console.error(`${filePath} is zero size.`);
+              errors += 1;
+            }
+          } catch (e) {
+            console.error(e.message);
+            errors += 1;
+          }
         }
       });
+      if (sounds.length) {
+        const soundFiles = glob.sync(path.join(path.dirname(file), '*'));
+        soundFiles
+          .filter(soundFile => soundFile.indexOf('json') === -1)
+          .forEach((soundFile) => {
+            if (!sounds.find(sound => sound.file === path.basename(soundFile))) {
+              console.error(`File ${soundFile} is unreferenced`);
+              errors += 1;
+            }
+          });
+      }
     }
   });
+
   if (errors) {
-    throw new Error(`Failed to validate. Found ${errors} errors.`);
+    console.error(`Failed to validate. Found ${errors} errors.`);
+    process.exit(1);
   }
 });
