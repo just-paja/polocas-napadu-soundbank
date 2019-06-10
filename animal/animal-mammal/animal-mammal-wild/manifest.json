@@ -24,7 +24,7 @@
     },
     {
       "file": "fisher-cat.mp3",
-      "tags": ["cat", "fisher", "medium-size"]
+      "tags": ["cat", "medium-size"]
     },
     {
       "file": "gorilla.mp3",
@@ -40,7 +40,7 @@
     },
     {
       "file": "monkeys-monkeying.mp3",
-      "tags": ["monkeys", "medium-size"]
+      "tags": ["monkey", "medium-size"]
     },
     {
       "file": "pig-snort-heavy.mp3",
@@ -121,6 +121,41 @@
       "title": {
         "en": "Roar",
         "cs": "Řev"
+      }
+    },
+    {
+      "name": "ape",
+      "title": {
+        "en": "Ape",
+        "cs": "Op"
+      }
+    },
+    {
+      "name": "gorilla",
+      "title": {
+        "en": "Gorilla",
+        "cs": "Gorila"
+      }
+    },
+    {
+      "name": "chimp",
+      "title": {
+        "en": "Chimpanzee",
+        "cs": "Šimpanz"
+      }
+    },
+    {
+      "name": "monkey",
+      "title": {
+        "en": "Monkey",
+        "cs": "monkey"
+      }
+    },
+    {
+      "name": "heavy",
+      "title": {
+        "en": "Heavy",
+        "cs": "Těžký"
       }
     },
     {

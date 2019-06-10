@@ -13,6 +13,7 @@ glob('./**/*.json', (err, files) => {
   if (err) {
     throw new Error(err);
   }
+  files = files.filter(file => !file.match(/node_modules/));
   // validate schema
   files.forEach((file) => {
     const fileContent = require(file);

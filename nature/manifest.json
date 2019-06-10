@@ -55,6 +55,13 @@
       }
     },
     {
+      "name": "wetlands",
+      "title": {
+        "en": "Wetlands",
+        "cs": "Mokřady"
+      }
+    },
+    {
       "name": "chemistry",
       "title": {
         "en": "Chemistry",

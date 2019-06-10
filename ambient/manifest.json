@@ -586,6 +586,13 @@
         "en": "Awkward",
         "cs": "Trapnost"
       }
+    },
+    {
+      "name": "waves",
+      "title": {
+        "en": "Waves",
+        "cs": "Vlny"
+      }
     }
   ]
 }

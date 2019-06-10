@@ -8,7 +8,7 @@
     },
     {
       "file": "bird-seagulls-beach.mp3",
-      "tags": ["seagul", "beach", "scream"]
+      "tags": ["seagull", "beach", "scream"]
     },
     {
       "file": "bird-tern.mp3",
@@ -16,7 +16,7 @@
     },
     {
       "file": "fulmar-bird-call.mp3",
-      "tags": ["fulmar", "scream"]
+      "tags": ["scream"]
     },
     {
       "file": "seagull.mp3",
@@ -24,7 +24,7 @@
     },
     {
       "file": "osprey-call.mp3",
-      "tags": ["osprey", "scream"]
+      "tags": ["scream"]
     },
     {
       "file": "bird-singing.mp3",
@@ -80,6 +80,27 @@
       "title": {
         "en": "Dawn",
         "cs": "Svítání"
+      }
+    },
+    {
+      "name": "seagull",
+      "title": {
+        "en": "Seagull",
+        "cs": "Racek"
+      }
+    },
+    {
+      "name": "tern",
+      "title": {
+        "en": "Tern",
+        "cs": "Rybák"
+      }
+    },
+    {
+      "name": "call",
+      "title": {
+        "en": "Call",
+        "cs": "Volání"
       }
     },
     {

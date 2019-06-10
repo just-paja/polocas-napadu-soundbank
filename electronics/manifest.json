@@ -5,5 +5,14 @@
       "file": "frying-circuits.mp3",
       "tags": ["electronics"]
     }
+  ],
+  "tags": [
+    {
+      "name": "electronics",
+      "title": {
+        "en": "Electronics",
+        "cs": "Elektronika"
+      }
+    }
   ]
 }

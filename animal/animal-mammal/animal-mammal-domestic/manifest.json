@@ -32,7 +32,7 @@
     },
     {
       "file": "guinea-pig-squeak.mp3",
-      "tags": ["guinea", "pig", "squeak"]
+      "tags": ["guinea-pig", "squeak"]
     },
     {
       "file": "dog-howling-yapping.mp3",
@@ -66,6 +66,20 @@
       "title": {
         "en": "Bark",
         "cs": "Štěkání"
+      }
+    },
+    {
+      "name": "guinea-pig",
+      "title": {
+        "en": "Guinea pig",
+        "cs": "Morče"
+      }
+    },
+    {
+      "name": "squeak",
+      "title": {
+        "en": "Squeak",
+        "cs": "Pištění"
       }
     },
     {
