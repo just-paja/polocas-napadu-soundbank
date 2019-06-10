@@ -31,6 +31,10 @@
       "tags": ["dog", "bark", "big-size"]
     },
     {
+      "file": "guinea-pig-squeak.mp3",
+      "tags": ["guinea", "pig", "squeak"]
+    },
+    {
       "file": "dog-howling-yapping.mp3",
       "tags": ["dog", "howl"]
     }

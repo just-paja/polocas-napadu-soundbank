@@ -19,6 +19,42 @@
       "tags": ["seal", "animal-call", "big-size"]
     },
     {
+      "file": "ape.mp3",
+      "tags": ["ape", "monkey", "big-size"]
+    },
+    {
+      "file": "fisher-cat.mp3",
+      "tags": ["cat", "fisher", "medium-size"]
+    },
+    {
+      "file": "gorilla.mp3",
+      "tags": ["gorilla", "ape", "monkey", "big-size"]
+    },
+    {
+      "file": "chimpanzee.mp3",
+      "tags": ["chimp", "monkey", "medium-size"]
+    },
+    {
+      "file": "monkey-howls.mp3",
+      "tags": ["monkey", "medium-size"]
+    },
+    {
+      "file": "monkeys-monkeying.mp3",
+      "tags": ["monkeys", "medium-size"]
+    },
+    {
+      "file": "pig-snort-heavy.mp3",
+      "tags": ["pig", "snort", "heavy", "big-size"]
+    },
+    {
+      "file": "pig-snorting-long.mp3",
+      "tags": ["pig", "snort", "big-size"]
+    },
+    {
+      "file": "pig-snort-once.mp3",
+      "tags": ["pig", "snort",  "big-size"]
+    },
+    {
       "file": "tasmanian-devil.mp3",
       "tags": ["tasmanian-devil", "animal-call", "small-size"]
     }

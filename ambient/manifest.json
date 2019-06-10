@@ -3,6 +3,18 @@
   "baseTag": "ambient",
   "sounds": [
     {
+      "file": "ambi-nature-park.mp3",
+      "tags": ["park", "ambient", "loop"]
+    },
+    {
+      "file": "ambi-nature-tropical-sandpiper.mp3",
+      "tags": ["tropical", "ambient", "loop"]
+    },
+    {
+      "file": "sea-waves.mp3",
+      "tags": ["sea", "waves", "ambient", "loop"]
+    },
+    {
       "file": "birds_park_ambience_loop_psef.mp3",
       "tags": ["park", "ambient", "loop"]
     },

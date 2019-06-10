@@ -7,6 +7,26 @@
       "tags": ["rooster", "dawn", "scream"]
     },
     {
+      "file": "bird-seagulls-beach.mp3",
+      "tags": ["seagul", "beach", "scream"]
+    },
+    {
+      "file": "bird-tern.mp3",
+      "tags": ["tern", "scream"]
+    },
+    {
+      "file": "fulmar-bird-call.mp3",
+      "tags": ["fulmar", "scream"]
+    },
+    {
+      "file": "seagull.mp3",
+      "tags": ["seagull", "call"]
+    },
+    {
+      "file": "osprey-call.mp3",
+      "tags": ["osprey", "scream"]
+    },
+    {
       "file": "bird-singing.mp3",
       "tags": ["singing", "loop", "outside"]
     },

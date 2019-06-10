@@ -2,6 +2,14 @@
   "name": "nature",
   "sounds": [
     {
+      "file": "beach-waves.mp3",
+      "tags": ["outside", "sea", "loop"]
+    },
+    {
+      "file": "wetlands-ambi.mp3",
+      "tags": ["outside", "wetlands", "loop"]
+    },
+    {
       "file": "geysers_old_faith_psef.137.mp3",
       "tags": ["outside", "sea", "mp3es", "loop"]
     },
