@@ -1,0 +1,83 @@
+{
+  "name": "Czechoslovakia",
+  "baseTag": "czechoslovakia",
+  "sounds": [
+    {
+      "file": "01-Beer-Hall-Prague-Noisy-Rough-A.mp3",
+      "tags": []
+    },
+    {
+      "file": "02-Restaurant-Prague-Fairly-Busy.mp3",
+      "tags": []
+    },
+    {
+      "file": "03-Self-Service-Cafe-Bratislava-So.mp3",
+      "tags": []
+    },
+    {
+      "file": "04-Café-Presov.mp3",
+      "tags": []
+    },
+    {
+      "file": "05-_Stara-Sladovna_-Restaurant-Very.mp3",
+      "tags": []
+    },
+    {
+      "file": "06-Open-Air-Restaurant-Bratslava.mp3",
+      "tags": []
+    },
+    {
+      "file": "07-Pedestrian-Precinct-Prague-Foot.mp3",
+      "tags": []
+    },
+    {
+      "file": "08-Street-Bratislava-Traffic.mp3",
+      "tags": []
+    },
+    {
+      "file": "09-Pedestrian-Street-Bratislava.mp3",
+      "tags": []
+    },
+    {
+      "file": "10-Market-Bratislava-Speech.mp3",
+      "tags": []
+    },
+    {
+      "file": "11-Kotna-Department-Store-Prague.mp3",
+      "tags": []
+    },
+    {
+      "file": "12-Courtyard-Prague-Castle-Echoey.mp3",
+      "tags": []
+    },
+    {
+      "file": "13-Funicular-Railway-External-Prag.mp3",
+      "tags": []
+    },
+    {
+      "file": "14-Funicular-Railway-Internal-Ride.mp3",
+      "tags": []
+    },
+    {
+      "file": "15-Streetcar-Prague-Internal-Star.mp3",
+      "tags": []
+    },
+    {
+      "file": "16-Streetcar-Passes-Right-To-Left.mp3",
+      "tags": []
+    },
+    {
+      "file": "17-Hlavni-Main-Line-Station-Prague.mp3",
+      "tags": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "czechoslovakia",
+      "title": {
+        "en": "Czechoslovakia",
+        "cs": "Československo"
+      }
+    }
+  ]
+}
