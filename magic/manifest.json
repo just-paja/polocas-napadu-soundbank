@@ -15,6 +15,14 @@
       "tags": ["flash"]
     },
     {
+      "file": "fireball-small.mp3",
+      "tags": []
+    },
+    {
+      "file": "fireball-large.mp3",
+      "tags": []
+    },
+    {
       "file": "magic_spell_evil_voice_psef.199.mp3",
       "tags": ["evil"]
     }

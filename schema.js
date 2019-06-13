@@ -1,82 +1,82 @@
-const { Validator } = require('jsonschema');
+const { Validator } = require('jsonschema')
 
 const ObjectTitle = {
-  "id": "/ObjectTitle",
-  "type": "object",
-  "patternProperties": {
-    "^[a-z]{2}(-[a-z]{2})?$": {
-      "type": "string"
+  'id': '/ObjectTitle',
+  'type': 'object',
+  'patternProperties': {
+    '^[a-z]{2}(-[a-z]{2})?$': {
+      'type': 'string'
     }
   }
-};
+}
 
 const Sound = {
-  "id": "/Sound",
-  "type": "object",
-  "properties": {
-    "file": {
-      "type": "string"
+  'id': '/Sound',
+  'type': 'object',
+  'properties': {
+    'file': {
+      'type': 'string'
     },
-    "title": {
-      "$ref": "/ObjectTitle"
+    'title': {
+      '$ref': '/ObjectTitle'
     },
-    "tags": {
-      "type": "array",
-      "items": {
-        "type": "string"
+    'tags': {
+      'type': 'array',
+      'items': {
+        'type': 'string'
       }
     }
   },
-  "required": ["file"],
-};
+  'required': ['file']
+}
 
 const SoundTag = {
-  "id": "/SoundTag",
-  "type": "object",
-  "properties": {
-    "name": {
-      "type": "string"
+  'id': '/SoundTag',
+  'type': 'object',
+  'properties': {
+    'name': {
+      'type': 'string'
     },
-    "title": {
-      "$ref": "/ObjectTitle"
+    'title': {
+      '$ref': '/ObjectTitle'
     }
   }
-};
+}
 
 const SoundModule = {
-  "id": "/SoundModule",
-  "type": "object",
-  "properties": {
-    "name": {
-      "type": "string"
+  'id': '/SoundModule',
+  'type': 'object',
+  'properties': {
+    'name': {
+      'type': 'string'
     },
-    "title": {
-      "$ref": "/ObjectTitle"
+    'title': {
+      '$ref': '/ObjectTitle'
     },
-    "baseTag": {
-      "type": "string"
+    'baseTag': {
+      'type': 'string'
     },
-    "modules": {
-      "type": "array",
-      "items": {
-        "type": "string"
+    'modules': {
+      'type': 'array',
+      'items': {
+        'type': 'string'
       }
     },
-    "sounds": {
-      "type": "array",
-      "items": {
-        "$ref": "/Sound",
+    'sounds': {
+      'type': 'array',
+      'items': {
+        '$ref': '/Sound'
       }
     },
-    "tags": {
-      "type": "array",
-      "items": {
-        "$ref": "/SoundTag"
+    'tags': {
+      'type': 'array',
+      'items': {
+        '$ref': '/SoundTag'
       }
     }
   },
-  "required": ["name"]
-};
+  'required': ['name']
+}
 
 const validateModule = (module) => {
   const validator = new Validator();
@@ -92,5 +92,5 @@ module.exports = {
   Sound,
   SoundTag,
   SoundModule,
-  validateModule,
-};
+  validateModule
+}

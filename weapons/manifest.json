@@ -87,6 +87,18 @@
       "tags": ["winchester", "gunshot", "reload"]
     },
     {
+      "file": "matchstick-strike.mp3",
+      "tags": []
+    },
+    {
+      "file": "matchstick-lighting.mp3",
+      "tags": []
+    },
+    {
+      "file": "sonar-ping.mp3",
+      "tags": []
+    },
+    {
       "file": "remington-cocking.mp3",
       "tags": ["remington", "reload"]
     }

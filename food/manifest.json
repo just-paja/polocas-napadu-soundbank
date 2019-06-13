@@ -3,6 +3,10 @@
   "baseTag": "food",
   "sounds": [
     {
+      "file": "frying-chicken.mp3",
+      "tags": []
+    },
+    {
       "file": "meat_cuts_mvs_knife_tear_like_psef.203.mp3",
       "tags": []
     }

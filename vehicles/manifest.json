@@ -147,6 +147,14 @@
       "tags": ["train", "old", "whistle"]
     },
     {
+      "file": "boat-row-ambi.mp3",
+      "tags": []
+    },
+    {
+      "file": "helicopter-pass.mp3",
+      "tags": []
+    },
+    {
       "file": "tank_pass_by__psef.306.mp3",
       "tags": ["tank", "passby"]
     },

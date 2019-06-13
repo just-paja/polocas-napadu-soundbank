@@ -123,6 +123,22 @@
       "tags": ["outside", "hose", "garden", "water", "byRiver", "ambient", "loop"]
     },
     {
+      "file": "tidal-wave.mp3",
+      "tags": []
+    },
+    {
+      "file": "fireplace.mp3",
+      "tags": []
+    },
+    {
+      "file": "dock.mp3",
+      "tags": []
+    },
+    {
+      "file": "monsoon.mp3",
+      "tags": []
+    },
+    {
       "file": "water-drops.mp3",
       "tags": ["inside", "cave", "water", "drops", "ambient", "loop"]
     },
