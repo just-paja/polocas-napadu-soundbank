@@ -2,7 +2,7 @@
   "name": "religion",
   "sounds": [
     "bells-tibetan.mp3",
-    "church_bells_france_psef.081.mp3",
+    "church-bells-france-psef.081.mp3",
     "church-chime.mp3",
     "tolling-bell.mp3"
   ],
@@ -63,5 +63,6 @@
         "cs": "zlo"
       }
     }
-  ]
+  ],
+  "modules": []
 }

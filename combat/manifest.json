@@ -1,0 +1,12 @@
+{
+  "name": "combat",
+  "modules": [
+    "armor",
+    "desctruction",
+    "explosions",
+    "marshall-arts",
+    "melee",
+    "weapons"
+  ],
+  "sounds": []
+}

@@ -1,0 +1,8 @@
+{
+  "name": "places/factory",
+  "modules": [],
+  "sounds": [
+    "computer-room-psef.mp3",
+    "factory-heavy-activity-psef.mp3"
+  ]
+}

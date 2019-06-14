@@ -1,0 +1,33 @@
+{
+  "name": "animals-mammals",
+  "baseTag": "mammal",
+  "modules": [
+    "cattle",
+    "domestic",
+    "wild"
+  ],
+  "tags": [
+    {
+      "name": "breath",
+      "title": {
+        "en": "Breath",
+        "cs": "Dech"
+      }
+    },
+    {
+      "name": "mammal",
+      "title": {
+        "en": "Mammal",
+        "cs": "Savec"
+      }
+    },
+    {
+      "name": "snort",
+      "title": {
+        "en": "Snort",
+        "cs": "Frknutí"
+      }
+    }
+  ],
+  "sounds": []
+}

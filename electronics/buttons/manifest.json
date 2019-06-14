@@ -1,0 +1,17 @@
+{
+  "name": "buttons",
+  "baseTag": "button",
+  "sounds": [
+    "buttons-switches-psef.057.mp3"
+  ],
+  "tags": [
+    {
+      "name": "button",
+      "title": {
+        "en": "Button",
+        "cs": "Tlačítko"
+      }
+    }
+  ],
+  "modules": []
+}

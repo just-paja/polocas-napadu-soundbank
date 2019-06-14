@@ -1,0 +1,8 @@
+{
+  "name": "vehicles/vehicles-cars/vehicles-cars-racing",
+  "modules": [],
+  "sounds": [
+    "dragsters-at-finish-line-psef.104.mp3",
+    "formula-pass-by.mp3"
+  ]
+}

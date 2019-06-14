@@ -1,0 +1,12 @@
+{
+  "name": "house",
+  "modules": [
+    "door",
+    "furniture"
+  ],
+  "sounds": [
+    "elevator-operate-psef.117.mp3",
+    "fan-household-on-oscillating-psef.121.mp3",
+    "rug-being-pull-out-psef.252.mp3"
+  ]
+}

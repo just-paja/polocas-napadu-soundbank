@@ -3,7 +3,7 @@
   "baseTag": "food",
   "sounds": [
     "frying-chicken.mp3",
-    "meat_cuts_mvs_knife_tear_like_psef.203.mp3"
+    "meat-cuts-mvs-knife-tear-like-psef.203.mp3"
   ],
   "tags": [
     {
@@ -13,5 +13,6 @@
         "cs": "Jídlo"
       }
     }
-  ]
+  ],
+  "modules": []
 }

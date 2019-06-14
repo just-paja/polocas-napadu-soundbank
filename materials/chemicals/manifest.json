@@ -1,0 +1,17 @@
+{
+  "name": "chemicals",
+  "baseTag": "chemical",
+  "sounds": [
+    "household-acid-fizz-psef.001.mp3"
+  ],
+  "tags": [
+    {
+      "name": "chemical",
+      "title": {
+        "en": "Chemical",
+        "cs": "Chemikálie"
+      }
+    }
+  ],
+  "modules": []
+}

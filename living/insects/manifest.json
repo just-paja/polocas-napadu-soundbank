@@ -1,0 +1,46 @@
+{
+  "name": "insects",
+  "baseTag": "insect",
+  "sounds": [
+    "insect-eat-attack-chew-bite-crunch-bug-psef.166.mp3",
+    "insect-water-bug-buzz-by-psef.165.mp3"
+  ],
+  "tags": [
+    {
+      "name": "insect",
+      "title": {
+        "en": "Insect",
+        "cs": "Hmyz"
+      }
+    },
+    {
+      "name": "creepy",
+      "title": {
+        "en": "Creepy",
+        "cs": "Odpudivé"
+      }
+    },
+    {
+      "name": "crunch",
+      "title": {
+        "en": "Crunching",
+        "cs": "Chroustání"
+      }
+    },
+    {
+      "name": "flight",
+      "title": {
+        "en": "Flight",
+        "cs": "Létání"
+      }
+    },
+    {
+      "name": "wings",
+      "title": {
+        "en": "Wings",
+        "cs": "Křídla"
+      }
+    }
+  ],
+  "modules": []
+}

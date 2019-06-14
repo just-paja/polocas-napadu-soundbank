@@ -2,7 +2,7 @@
   "name": "fireworks",
   "baseTag": "fireworks",
   "sounds": [
-    "fireworks_display_psef.129.mp3"
+    "fireworks-display-psef.129.mp3"
   ],
   "tags": [
     {
@@ -12,5 +12,6 @@
         "cs": "Ohňostroj"
       }
     }
-  ]
+  ],
+  "modules": []
 }

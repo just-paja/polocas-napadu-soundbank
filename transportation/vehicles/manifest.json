@@ -1,0 +1,365 @@
+{
+  "name": "vehicles",
+  "baseTag": "vehicle",
+  "sounds": [],
+  "tags": [
+    {
+      "name": "vehicle",
+      "title": {
+        "en": "Vehicle",
+        "cs": "Vozidlo"
+      }
+    },
+    {
+      "name": "airplane",
+      "title": {
+        "en": "Airplane",
+        "cs": "Letadlo"
+      }
+    },
+    {
+      "name": "flyaway",
+      "title": {
+        "en": "Flyaway",
+        "cs": "Odlétající"
+      }
+    },
+    {
+      "name": "flyby",
+      "title": {
+        "en": "Flyby",
+        "cs": "Prolétající"
+      }
+    },
+    {
+      "name": "landing",
+      "title": {
+        "en": "Landing",
+        "cs": "Přistání"
+      }
+    },
+    {
+      "name": "boat",
+      "title": {
+        "en": "Boat",
+        "cs": "Loď"
+      }
+    },
+    {
+      "name": "steamer",
+      "title": {
+        "en": "Steamer",
+        "cs": "Parník"
+      }
+    },
+    {
+      "name": "fast",
+      "title": {
+        "en": "Fast",
+        "cs": "Rychlý"
+      }
+    },
+    {
+      "name": "passby",
+      "title": {
+        "en": "Passby",
+        "cs": "Projíždějící"
+      }
+    },
+    {
+      "name": "bus",
+      "title": {
+        "en": "Bus",
+        "cs": "Autobus"
+      }
+    },
+    {
+      "name": "car",
+      "title": {
+        "en": "Car",
+        "cs": "Auto"
+      }
+    },
+    {
+      "name": "door",
+      "title": {
+        "en": "Door",
+        "cs": "Dveře"
+      }
+    },
+    {
+      "name": "close",
+      "title": {
+        "en": "Close",
+        "cs": "Zavřít"
+      }
+    },
+    {
+      "name": "away",
+      "title": {
+        "en": "Away",
+        "cs": "Pryč"
+      }
+    },
+    {
+      "name": "dirtroad",
+      "title": {
+        "en": "Dirtroad",
+        "cs": "Prašná cesta"
+      }
+    },
+    {
+      "name": "horn",
+      "title": {
+        "en": "Horn",
+        "cs": "Klakson"
+      }
+    },
+    {
+      "name": "funny",
+      "title": {
+        "en": "Funny",
+        "cs": "Zábavný"
+      }
+    },
+    {
+      "name": "train",
+      "title": {
+        "en": "Train",
+        "cs": "Vlak"
+      }
+    },
+    {
+      "name": "old",
+      "title": {
+        "en": "Old",
+        "cs": "Starý"
+      }
+    },
+    {
+      "name": "elevator",
+      "title": {
+        "en": "Elevator",
+        "cs": "Výtah"
+      }
+    },
+    {
+      "name": "beep",
+      "title": {
+        "en": "Beep",
+        "cs": "Píp"
+      }
+    },
+    {
+      "name": "turnoff",
+      "title": {
+        "en": "Turnoff",
+        "cs": "Vypnutí"
+      }
+    },
+    {
+      "name": "truck",
+      "title": {
+        "en": "Truck",
+        "cs": "Náklaďák"
+      }
+    },
+    {
+      "name": "forklift",
+      "title": {
+        "en": "Forklift",
+        "cs": "Ještěrka - vozík"
+      }
+    },
+    {
+      "name": "uplift",
+      "title": {
+        "en": "Uplift",
+        "cs": "Zvednutí"
+      }
+    },
+    {
+      "name": "drop",
+      "title": {
+        "en": "Drop",
+        "cs": "Upuštění, snížení"
+      }
+    },
+    {
+      "name": "formula",
+      "title": {
+        "en": "Formula",
+        "cs": "Formule"
+      }
+    },
+    {
+      "name": "jet",
+      "title": {
+        "en": "Jet",
+        "cs": "Stíhačka"
+      }
+    },
+    {
+      "name": "motobike",
+      "title": {
+        "en": "Motobike",
+        "cs": "Motorka"
+      }
+    },
+    {
+      "name": "helicopter",
+      "title": {
+        "en": "Helicopter",
+        "cs": "Vrtulník"
+      }
+    },
+    {
+      "name": "submarine",
+      "title": {
+        "en": "Submarine",
+        "cs": "Ponorka"
+      }
+    },
+    {
+      "name": "disturbances",
+      "title": {
+        "en": "Disturbances",
+        "cs": "Otřesy"
+      }
+    },
+    {
+      "name": "chopper",
+      "title": {
+        "en": "Chopper",
+        "cs": "Chopper"
+      }
+    },
+    {
+      "name": "police",
+      "title": {
+        "en": "Police",
+        "cs": "Policie"
+      }
+    },
+    {
+      "name": "station",
+      "title": {
+        "en": "Station",
+        "cs": "Stanice"
+      }
+    },
+    {
+      "name": "arrival",
+      "title": {
+        "en": "Arrival",
+        "cs": "Příjezd"
+      }
+    },
+    {
+      "name": "rain",
+      "title": {
+        "en": "Rain",
+        "cs": "Déšť"
+      }
+    },
+    {
+      "name": "alert",
+      "title": {
+        "en": "Alert",
+        "cs": "Poplach"
+      }
+    },
+    {
+      "name": "army",
+      "title": {
+        "en": "Army",
+        "cs": "Armáda"
+      }
+    },
+    {
+      "name": "robot",
+      "title": {
+        "en": "Robot",
+        "cs": "Robot"
+      }
+    },
+    {
+      "name": "march",
+      "title": {
+        "en": "March",
+        "cs": "Pochod"
+      }
+    },
+    {
+      "name": "hum",
+      "title": {
+        "en": "Hum",
+        "cs": "Šum"
+      }
+    },
+    {
+      "name": "spaceship",
+      "title": {
+        "en": "Spaceship",
+        "cs": "Vesmírná loď"
+      }
+    },
+    {
+      "name": "tank",
+      "title": {
+        "en": "Tank",
+        "cs": "Tank"
+      }
+    },
+    {
+      "name": "tractor",
+      "title": {
+        "en": "Tractor",
+        "cs": "Traktor"
+      }
+    },
+    {
+      "name": "scream",
+      "title": {
+        "en": "Scream",
+        "cs": "Křik"
+      }
+    },
+    {
+      "name": "death",
+      "title": {
+        "en": "Death",
+        "cs": "Smrt"
+      }
+    },
+    {
+      "name": "hydraulics",
+      "title": {
+        "en": "Hydraulics",
+        "cs": "Hydraulika"
+      }
+    },
+    {
+      "name": "inside",
+      "title": {
+        "en": "Inside",
+        "cs": "Uvnitř"
+      }
+    }
+  ],
+  "modules": [
+    "agriculture",
+    "airplanes",
+    "army",
+    "bicycles",
+    "boats",
+    "buses",
+    "cars",
+    "funiculars",
+    "helicopters",
+    "motorcycles",
+    "scifi",
+    "trains",
+    "trucks"
+  ]
+}

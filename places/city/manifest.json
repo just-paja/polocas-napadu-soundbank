@@ -1,0 +1,21 @@
+{
+  "name": "city",
+  "modules": [],
+  "sounds": [
+    "05-city-skyline.mp3",
+    "05-town-traffic-on-a-wet-road-in-a.mp3",
+    "06-high-street-in-a-small-town-with.mp3",
+    "06-high-street-with-traffic.mp3",
+    "08-city-traffic.mp3",
+    "09-city-skyline.mp3",
+    "bratislava-pedestrian-underpath.mp3",
+    "bratislava-street-pedestrians.mp3",
+    "city-traffic-psef.mp3",
+    "department-store-kotna-prague.mp3",
+    "elevated-train-interior-psef.mp3",
+    "prague-castle-courtyard.mp3",
+    "prague-street-pedestrians.mp3",
+    "rapid-transit-bart-train-int-arrive-depart-psef.237.mp3",
+    "traffic-suburb-bys-psef.mp3"
+  ]
+}

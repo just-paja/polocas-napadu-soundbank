@@ -21,5 +21,8 @@
     "glob": "^7.1.3",
     "jsonschema": "^1.2.4"
   },
-  "sounds": []
+  "sounds": [],
+  "devDependencies": {
+    "deep-equal": "^1.0.1"
+  }
 }

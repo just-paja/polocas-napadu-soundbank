@@ -1,0 +1,11 @@
+{
+  "name": "vehicles/vehicles-motorcycles",
+  "modules": [],
+  "sounds": [
+    "08-motor-cycle-approach-on-gravel.mp3",
+    "09-motor-cycle-departing-on-gravel.mp3",
+    "engine-villiers-412-973-operating-psef.118.mp3",
+    "harley-davidson-daniel-simon.mp3",
+    "motorcycles-psef.207.mp3"
+  ]
+}

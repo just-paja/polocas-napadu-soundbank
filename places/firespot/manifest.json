@@ -1,0 +1,7 @@
+{
+  "name": "places/firespot",
+  "modules": [],
+  "sounds": [
+    "fireplace.mp3"
+  ]
+}

@@ -2,12 +2,21 @@
   "name": "magic",
   "baseTag": "magic",
   "sounds": [
-    "fireball_by_psef.128.mp3",
+    "fireball-by-psef.128.mp3",
     "fireball-large.mp3",
     "fireball-small.mp3",
-    "magic_light_flash_vocal_psef.263.mp3",
-    "magic_light_flash_vocal_psef.264.mp3",
-    "magic_spell_evil_voice_psef.199.mp3"
+    "magic-light-flash-vocal-psef.263.mp3",
+    "magic-light-flash-vocal-psef.264.mp3",
+    "magic-spell-evil-voice-psef.199.mp3",
+    "whoosh-pass-by-psef.179.mp3",
+    "whoosh-pass-by-psef.180.mp3",
+    "whoosh-pass-by-psef.181.mp3",
+    "whoosh-pass-by-psef.182.mp3",
+    "whoosh-pass-by-psef.184.mp3",
+    "whoosh-pass-by-psef.185.mp3",
+    "whoosh-pass-by-psef.186.mp3",
+    "whoosh-pass-by-psef.187.mp3",
+    "whoosh-pass-by-psef.188.mp3"
   ],
   "tags": [
     {
@@ -38,5 +47,6 @@
         "cs": "Zlo"
       }
     }
-  ]
+  ],
+  "modules": []
 }

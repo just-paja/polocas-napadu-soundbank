@@ -1,0 +1,13 @@
+{
+  "name": "places/jungle",
+  "modules": [],
+  "sounds": [
+    "44-tropical-dawn-chorus-sri-lanka.mp3",
+    "45-red-throated-diver.mp3",
+    "46-iberian-marsh-frog-adult-male.mp3",
+    "48-ring-tailed-lemur-with-insects.mp3",
+    "ambi-nature-tropical-sandpiper.mp3",
+    "tropical-bird-ambience-loop-psef.mp3",
+    "tropical-bird-psef.mp3"
+  ]
+}

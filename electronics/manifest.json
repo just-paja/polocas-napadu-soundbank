@@ -11,5 +11,9 @@
         "cs": "Elektronika"
       }
     }
+  ],
+  "modules": [
+    "buttons",
+    "computers"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "name": "luggage",
+  "baseTag": "luggage",
+  "sounds": [
+    "shoulder-bag-drop-psef.277.mp3"
+  ],
+  "tags": [
+    {
+      "name": "luggage",
+      "title": {
+        "en": "Luggage",
+        "cs": "Zavazadlo"
+      }
+    }
+  ],
+  "modules": []
+}

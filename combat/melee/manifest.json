@@ -1,0 +1,25 @@
+{
+  "name": "melee",
+  "baseTag": "melee",
+  "sounds": [
+    "body-fall-floor-psef.043.mp3",
+    "combat-whoosh-psef.084.mp3",
+    "left-hook.mp3",
+    "punch.mp3",
+    "punch2.mp3",
+    "right-hook.mp3",
+    "slap.mp3",
+    "whoosh-arrow-fast-short-many-psef.340.mp3",
+    "whoosh-stick-wood-fast-psef.341.mp3"
+  ],
+  "tags": [
+    {
+      "name": "melee",
+      "title": {
+        "en": "Melee",
+        "cs": "Souboj na blízko"
+      }
+    }
+  ],
+  "modules": []
+}

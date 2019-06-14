@@ -1,0 +1,64 @@
+{
+  "name": "nature",
+  "sounds": [
+    "02-mountain-stream.mp3",
+    "crickets-night-psef.mp3",
+    "geysers-old-faith-psef.137.mp3",
+    "geysers-thermal-mud-pool-psef.138.mp3",
+    "mangrove-atmosphere-psef.mp3",
+    "two-frogs-close-up-psef.mp3",
+    "wetlands-ambi.mp3"
+  ],
+  "tags": [
+    {
+      "name": "sea",
+      "title": {
+        "en": "Sea",
+        "cs": "Moře"
+      }
+    },
+    {
+      "name": "mp3es",
+      "title": {
+        "en": "mp3es",
+        "cs": "Vlny"
+      }
+    },
+    {
+      "name": "bubles",
+      "title": {
+        "en": "Bubles",
+        "cs": "Bubliny"
+      }
+    },
+    {
+      "name": "cooking",
+      "title": {
+        "en": "Cooking",
+        "cs": "Vaření"
+      }
+    },
+    {
+      "name": "boiling",
+      "title": {
+        "en": "Boiling",
+        "cs": "Vroucí"
+      }
+    },
+    {
+      "name": "wetlands",
+      "title": {
+        "en": "Wetlands",
+        "cs": "Mokřady"
+      }
+    },
+    {
+      "name": "chemistry",
+      "title": {
+        "en": "Chemistry",
+        "cs": "Chemie"
+      }
+    }
+  ],
+  "modules": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "furniture",
+  "baseTag": "furniture",
+  "sounds": [
+    "01-domestic-chiming-clock-quarter-h.mp3",
+    "02-domestic-chiming-clock-half-hour.mp3",
+    "03-domestic-chiming-clock-three-qua.mp3",
+    "04-domestic-chiming-clock-12-o'cloc.mp3",
+    "05-domestic-chiming-clock-1-o'clock.mp3",
+    "06-domestic-chiming-clock-3-o'clock.mp3",
+    "07-domestic-chiming-clock-6-o'clock.mp3",
+    "08-domestic-chiming-clock-ticking.mp3",
+    "09-alarm-clock-ticking.mp3",
+    "antique-drawer-close-psef.018.mp3",
+    "chair-movement-metal-psef.077.mp3",
+    "chair-push-back-psef.078.mp3",
+    "drawer-utility-large-full-close-psef.105.mp3",
+    "grandpa-antique-tick-far-psef.145.mp3"
+  ],
+  "tags": [
+    {
+      "name": "furniture",
+      "title": {
+        "en": "Furniture",
+        "cs": "Nábytek"
+      }
+    }
+  ],
+  "modules": []
+}

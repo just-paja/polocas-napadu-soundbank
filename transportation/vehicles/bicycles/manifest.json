@@ -1,0 +1,15 @@
+{
+  "name": "transportation/vehicles/bicycles",
+  "modules": [],
+  "sounds": [
+    "10-bicycles-slow-continuous-run-on.mp3",
+    "11-bicycles-fast-continuous-run-on.mp3",
+    "12-bicycles-continuous-run-on-grave.mp3",
+    "13-bicycles-pass-from-left-to-right.mp3",
+    "14-bicycles-pass-from-right-to-left.mp3",
+    "15-bicycles-pass-with-bell-from-lef.mp3",
+    "16-bicycles-pass-with-bell-from-rig.mp3",
+    "17-bicycles-approach-and-skid.mp3",
+    "18-bicycles-crashing-into-fence.mp3"
+  ]
+}

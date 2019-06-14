@@ -2,14 +2,14 @@
   "name": "transitions",
   "baseTag": "transition",
   "sounds": [
-    "cinematic_mega_horns_psef.279.mp3",
-    "cinematic_mega_horns_psef.280.mp3",
-    "cinematic_mega_horns_psef.281.mp3",
-    "cinematic_risers_psef.282.mp3",
-    "cinematic_risers_psef.283.mp3",
-    "dark_cinematic_transition_psef.083.mp3",
-    "distorter_low_repeat_psef.278.mp3",
-    "swell_dark_shimmer_bell_like_psef.mp3"
+    "cinematic-mega-horns-psef.279.mp3",
+    "cinematic-mega-horns-psef.280.mp3",
+    "cinematic-mega-horns-psef.281.mp3",
+    "cinematic-risers-psef.282.mp3",
+    "cinematic-risers-psef.283.mp3",
+    "dark-cinematic-transition-psef.083.mp3",
+    "distorter-low-repeat-psef.278.mp3",
+    "swell-dark-shimmer-bell-like-psef.mp3"
   ],
   "tags": [
     {
@@ -61,5 +61,6 @@
         "cs": "Záhadný"
       }
     }
-  ]
+  ],
+  "modules": []
 }

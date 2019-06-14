@@ -1,8 +1,7 @@
 {
   "name": "wearable",
   "modules": [
-    "wearable-armor",
-    "wearable-clothes"
+    "clothes"
   ],
   "tags": [
     {

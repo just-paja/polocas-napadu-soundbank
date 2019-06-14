@@ -1,0 +1,13 @@
+{
+  "name": "transportation",
+  "modules": [
+    "footsteps",
+    "luggage",
+    "teleport",
+    "vehicles"
+  ],
+  "sounds": [
+    "underwater-slosh-psef.326.mp3",
+    "water-churning.mp3"
+  ]
+}

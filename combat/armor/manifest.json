@@ -1,0 +1,44 @@
+{
+  "name": "wearable-armor",
+  "sounds": [
+    "gas-mask-breathe.mp3"
+  ],
+  "tags": [
+    {
+      "name": "armor",
+      "title": {
+        "en": "Armor",
+        "cs": "Brnění"
+      }
+    },
+    {
+      "name": "breath",
+      "title": {
+        "en": "Breath",
+        "cs": "Dech"
+      }
+    },
+    {
+      "name": "gas",
+      "title": {
+        "en": "Gas",
+        "cs": "Plyn"
+      }
+    },
+    {
+      "name": "protection",
+      "title": {
+        "en": "Protection",
+        "cs": "Ochrana"
+      }
+    },
+    {
+      "name": "war",
+      "title": {
+        "en": "War",
+        "cs": "Válka"
+      }
+    }
+  ],
+  "modules": []
+}

@@ -2,7 +2,7 @@
   "name": "genres",
   "baseTag": "genre",
   "modules": [
-    "genre-horor",
+    "genre-horror",
     "genre-scifi",
     "genre-western"
   ],

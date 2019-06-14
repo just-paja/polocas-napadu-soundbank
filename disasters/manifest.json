@@ -2,7 +2,8 @@
   "name": "disasters",
   "baseTag": "disaster",
   "sounds": [
-    "avalanche-daniel_simon.mp3"
+    "avalanche-daniel-simon.mp3",
+    "earthquake-rumble-psef.mp3"
   ],
   "tags": [
     {
@@ -12,5 +13,6 @@
         "cs": "Katastrofa"
       }
     }
-  ]
+  ],
+  "modules": []
 }

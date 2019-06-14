@@ -1,0 +1,42 @@
+{
+  "name": "human",
+  "baseTag": "human",
+  "sounds": [
+    "19-baby-crying.mp3",
+    "20-baby-sneezing.mp3",
+    "21-baby-happy-sound.mp3",
+    "belch-regular-psef.024.mp3",
+    "click-puke-vomit.mp3",
+    "crowd-applause-psef.096.mp3",
+    "crowd-applause.mp3",
+    "crowd-streetfest-corner-psef.093.mp3",
+    "crowd-teen-grad-whistles-claps-psef.094.mp3",
+    "crowd-up-leave-church-wood-psef.095.mp3",
+    "dry-fart-psef.113.mp3",
+    "female-whistle-short-psef.123.mp3",
+    "heartbeat-slow-psef.153.mp3",
+    "human-heartbeat.mp3",
+    "human-male-coughs-throat-clears-psef.162.mp3",
+    "laughing-group-medium-psef.192.mp3",
+    "manly-burp.mp3",
+    "nose-blowing.mp3",
+    "party-crowd.mp3",
+    "screamsshouts-human-female-psef.257.mp3",
+    "screamsshouts-human-male-psef.258.mp3",
+    "sneeze-psef.288.mp3",
+    "stomach-growling.mp3",
+    "whistling-at-girl.mp3",
+    "woman-crying-daniel-simon.mp3",
+    "yahoo.mp3"
+  ],
+  "tags": [
+    {
+      "name": "human",
+      "title": {
+        "en": "Human",
+        "cs": "Člověk"
+      }
+    }
+  ],
+  "modules": []
+}

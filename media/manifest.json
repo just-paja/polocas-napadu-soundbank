@@ -2,14 +2,13 @@
   "name": "media",
   "baseTag": "media",
   "sounds": [
-    "epic_cinematic_hit_psef.082.mp3",
-    "glitch_dist_psef.219.mp3",
+    "epic-cinematic-hit-psef.082.mp3",
+    "glitch-dist-psef.219.mp3",
     "news-intro.mp3",
-    "scanner_police_psef.255.mp3",
-    "sonar_ping_loop_psef.290.mp3",
-    "telephones_america_dial_psef.309.mp3",
-    "television_static_psef.310.mp3",
-    "test_tone_sine.mp3"
+    "scanner-police-psef.255.mp3",
+    "telephones-america-dial-psef.309.mp3",
+    "television-static-psef.310.mp3",
+    "test-tone-sine.mp3"
   ],
   "tags": [
     {
@@ -19,5 +18,6 @@
         "cs": "Média"
       }
     }
-  ]
+  ],
+  "modules": []
 }

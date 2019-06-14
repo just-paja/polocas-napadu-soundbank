@@ -1,0 +1,8 @@
+{
+  "name": "places/train-station",
+  "modules": [],
+  "sounds": [
+    "10-main-railway-station-with-indisce.mp3",
+    "main-station-prague-foyer.mp3"
+  ]
+}

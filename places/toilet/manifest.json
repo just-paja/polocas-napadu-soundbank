@@ -1,0 +1,7 @@
+{
+  "name": "places/toilet",
+  "modules": [],
+  "sounds": [
+    "toilet-flush.mp3"
+  ]
+}

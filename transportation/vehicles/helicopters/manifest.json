@@ -1,0 +1,8 @@
+{
+  "name": "vehicles/vehicles-helicopters",
+  "modules": [],
+  "sounds": [
+    "helicopter-pass-by-psef.154.mp3",
+    "helicopter-pass.mp3"
+  ]
+}

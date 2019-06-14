@@ -1,0 +1,63 @@
+{
+  "name": "animal-mammal-cattle",
+  "baseTag": "cattle",
+  "sounds": [
+    "11-cattle-restless-in-shed.mp3",
+    "12-sheep-restless.mp3",
+    "13-three-rams-bleating.mp3",
+    "14-pigs-in-shed-with-distant-birds.mp3",
+    "15-pigs-in-field.mp3",
+    "20-horse-walks-away.mp3",
+    "21-horse-passes-on-gravel.mp3",
+    "22-horse-approaches-and-stops.mp3",
+    "23-horse-walks-on-cobble.mp3",
+    "24-horse-canters-past-on-mdduy-fores.mp3",
+    "25-horse-walks-on-muddy-gravel-track.mp3",
+    "26-horse-approaches-snorting.mp3",
+    "27-donkeys-in-shed.mp3",
+    "28-thirty-donkeys-passing.mp3",
+    "29-amidst-a-herd-of-donkeys.mp3",
+    "30-donkey-braying.mp3",
+    "cow-moos-3x.mp3",
+    "horse-snorting.mp3",
+    "pigs-screaming.mp3"
+  ],
+  "tags": [
+    {
+      "name": "cattle",
+      "title": {
+        "en": "Cattle",
+        "cs": "Dobytek"
+      }
+    },
+    {
+      "name": "cow",
+      "title": {
+        "en": "Cow",
+        "cs": "Kráva"
+      }
+    },
+    {
+      "name": "pig",
+      "title": {
+        "en": "Pig",
+        "cs": "Prase"
+      }
+    },
+    {
+      "name": "moo",
+      "title": {
+        "en": "Moo",
+        "cs": "Bučení"
+      }
+    },
+    {
+      "name": "horse",
+      "title": {
+        "en": "Horse",
+        "cs": "Kůň"
+      }
+    }
+  ],
+  "modules": []
+}

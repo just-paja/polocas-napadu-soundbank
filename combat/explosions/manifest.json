@@ -1,0 +1,19 @@
+{
+  "name": "explosions",
+  "baseTag": "explosion",
+  "sounds": [
+    "c-4explosion-psef.059.mp3",
+    "explosion-debris-psef.119.mp3",
+    "explosion-ultra-bass.mp3"
+  ],
+  "tags": [
+    {
+      "name": "explosion",
+      "title": {
+        "en": "Explosion",
+        "cs": "Exploze"
+      }
+    }
+  ],
+  "modules": []
+}

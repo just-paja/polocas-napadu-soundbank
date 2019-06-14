@@ -1,0 +1,43 @@
+{
+  "name": "underwater",
+  "baseTag": "underwater",
+  "sounds": [
+    "air-release-bubble-stream-psef.302.mp3",
+    "air-release-woosh-psef.303.mp3",
+    "air-release-woosh-psef.304.mp3",
+    "air-release-woosh-psef.305.mp3",
+    "air-whoosh-low-high-comp-psef.074.mp3",
+    "ambi-underwater.mp3"
+  ],
+  "tags": [
+    {
+      "name": "underwater",
+      "title": {
+        "en": "Under Water",
+        "cs": "Pod Vodou"
+      }
+    },
+    {
+      "name": "bubbles",
+      "title": {
+        "en": "Bubbles",
+        "cs": "Bublinky"
+      }
+    },
+    {
+      "name": "emergence",
+      "title": {
+        "en": "Emergence",
+        "cs": "Vynoření"
+      }
+    },
+    {
+      "name": "stick",
+      "title": {
+        "en": "Stick",
+        "cs": "Klacek"
+      }
+    }
+  ],
+  "modules": []
+}

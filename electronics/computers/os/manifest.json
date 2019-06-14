@@ -1,0 +1,23 @@
+{
+  "name": "os",
+  "sounds": [
+    "windows-95-startup-microsoft-2077254053.mp3"
+  ],
+  "tags": [
+    {
+      "name": "pc",
+      "title": {
+        "en": "Personal Computer",
+        "cs": "Osobní Počítač"
+      }
+    },
+    {
+      "name": "windows95",
+      "title": {
+        "en": "Windows95",
+        "cs": "Windows95"
+      }
+    }
+  ],
+  "modules": []
+}

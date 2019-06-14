@@ -2,13 +2,18 @@
   "name": "communication",
   "baseTag": "communication",
   "sounds": [
+    "14-telephone-push-button-type-cons.mp3",
+    "15-telephone-push-button-type-ring.mp3",
+    "16-telephone-push-button-type-hand.mp3",
+    "17-telephone-push-button-type-hand.mp3",
+    "18-telephone-push-button-type-hand.mp3",
     "america-dial-tone.mp3",
     "applause-light.mp3",
     "electric-typewriter.mp3",
     "fast-drawing.mp3",
-    "machine_answer_seq_psef.198.mp3",
-    "pencil_scribble_psef.223.mp3",
-    "phone_cell_lg_vibrate_buzz_psef.225.mp3",
+    "machine-answer-seq-psef.198.mp3",
+    "pencil-scribble-psef.223.mp3",
+    "phone-cell-lg-vibrate-buzz-psef.225.mp3",
     "phone-ring-80s.mp3",
     "phone-ring-cartoon.mp3",
     "phone-ring-modern.mp3",
@@ -22,5 +27,6 @@
         "cs": "Komunikace"
       }
     }
-  ]
+  ],
+  "modules": []
 }

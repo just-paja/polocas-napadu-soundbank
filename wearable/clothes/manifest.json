@@ -1,0 +1,24 @@
+{
+  "name": "wearable-clothes",
+  "baseTag": "clothes",
+  "sounds": [
+    "zipper-close.mp3"
+  ],
+  "tags": [
+    {
+      "name": "clothes",
+      "title": {
+        "en": "Clothes",
+        "cs": "Oblečení"
+      }
+    },
+    {
+      "name": "zip",
+      "title": {
+        "en": "Zip",
+        "cs": "Zip"
+      }
+    }
+  ],
+  "modules": []
+}

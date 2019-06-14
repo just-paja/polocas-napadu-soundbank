@@ -1,0 +1,13 @@
+{
+  "name": "sea",
+  "modules": [],
+  "sounds": [
+    "01-seawash-calm.mp3",
+    "02-seawash-choppy.mp3",
+    "03-seawash-gentle-with-occasional-s.mp3",
+    "beach-waves.mp3",
+    "sea-waves.mp3",
+    "seawash-tide-psef.mp3",
+    "tidal-wave.mp3"
+  ]
+}

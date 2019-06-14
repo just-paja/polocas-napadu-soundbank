@@ -1,0 +1,13 @@
+{
+  "name": "restaurants",
+  "modules": [],
+  "sounds": [
+    "open-air-restaurant-bratislava.mp3",
+    "prague-pub-noisy.mp3",
+    "prague-restaurant-busy.mp3",
+    "presov-cafe-full.mp3",
+    "restaurant-pizza-parlor-walla-psef.mp3",
+    "self-service-cafe.mp3",
+    "stara-sladovna-pub-late-night.mp3"
+  ]
+}

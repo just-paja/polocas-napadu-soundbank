@@ -1,6 +1,7 @@
 {
   "name": "sport",
   "sounds": [
-    "hockey_goal_horn_psef.156.mp3"
-  ]
+    "hockey-goal-horn-psef.156.mp3"
+  ],
+  "modules": []
 }

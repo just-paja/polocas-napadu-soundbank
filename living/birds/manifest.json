@@ -1,0 +1,126 @@
+{
+  "name": "animals-birds",
+  "baseTag": "bird",
+  "sounds": [
+    "01-blackbird-with-quiet-town-garden.mp3",
+    "02-blackcap.mp3",
+    "03-chaffinch.mp3",
+    "04-chiffchaff-with-distant-bullfinc.mp3",
+    "05-common-gull-calls-of-ten-pairs-a.mp3",
+    "06-house-martin-fmle-calling-at-nes.mp3",
+    "07-lapwing-female-ground-anxiety-ca.mp3",
+    "08-linnet.mp3",
+    "09-nightingale.mp3",
+    "10-tawny-owl-hunting-calls-with-cho.mp3",
+    "11-oystercatcher-calls-with-skylark.mp3",
+    "12-reed-warbler-song-of-unmated-mal.mp3",
+    "13-ring-ouzel-sog-with-song-of-sec.mp3",
+    "14-robin-with-distant-sheep.mp3",
+    "15-rookery-nests-of-rookery-with-n.mp3",
+    "16-hen-house.mp3",
+    "16-sedge-warbler.mp3",
+    "17-single-hen.mp3",
+    "17-skylark-song-flight-with-occasi.mp3",
+    "18-cock-crows-3-times.mp3",
+    "18-stonechat-song-with-chaffinch-an.mp3",
+    "19-chickens-in-yard.mp3",
+    "19-coal-tits-two-pairs-displaying-t.mp3",
+    "20-wheatear-song-with-sheep-cucko.mp3",
+    "21-willow-warbler-song-with-distan.mp3",
+    "22-whitethroat-song-with-willow-wa.mp3",
+    "23-lesser-whitethroat.mp3",
+    "24-wren.mp3",
+    "25-cockerel-two-cocks-crowing-alter.mp3",
+    "31-robin's-song.mp3",
+    "32-moorhen.mp3",
+    "33-coot-with-geese.mp3",
+    "34-winter-migrant-waterfowl.mp3",
+    "35-swan-geese.mp3",
+    "37-ruddey-shelduck.mp3",
+    "38-ne-ne-goose.mp3",
+    "39-flamingoes.mp3",
+    "40-roseate-cockatoos.mp3",
+    "43-african-scops-owl.mp3",
+    "bird-rooster-morning.mp3",
+    "bird-seagulls-beach.mp3",
+    "bird-singing.mp3",
+    "bird-tern.mp3",
+    "fulmar-bird-call.mp3",
+    "osprey-call.mp3",
+    "pigeons-flyaway.mp3",
+    "seagull.mp3"
+  ],
+  "tags": [
+    {
+      "name": "bird",
+      "title": {
+        "en": "Bird",
+        "cs": "Pták"
+      }
+    },
+    {
+      "name": "beach",
+      "title": {
+        "en": "Beach",
+        "cs": "Pláž"
+      }
+    },
+    {
+      "name": "pigeon",
+      "title": {
+        "en": "Pigeon",
+        "cs": "Holub"
+      }
+    },
+    {
+      "name": "singing",
+      "title": {
+        "en": "Singing",
+        "cs": "Zpěv"
+      }
+    },
+    {
+      "name": "rooster",
+      "title": {
+        "en": "Rooster",
+        "cs": "Kohout"
+      }
+    },
+    {
+      "name": "dawn",
+      "title": {
+        "en": "Dawn",
+        "cs": "Svítání"
+      }
+    },
+    {
+      "name": "seagull",
+      "title": {
+        "en": "Seagull",
+        "cs": "Racek"
+      }
+    },
+    {
+      "name": "tern",
+      "title": {
+        "en": "Tern",
+        "cs": "Rybák"
+      }
+    },
+    {
+      "name": "call",
+      "title": {
+        "en": "Call",
+        "cs": "Volání"
+      }
+    },
+    {
+      "name": "flyaway",
+      "title": {
+        "en": "Fly away",
+        "cs": "Odlet"
+      }
+    }
+  ],
+  "modules": []
+}

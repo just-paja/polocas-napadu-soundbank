@@ -1,0 +1,17 @@
+{
+  "name": "office",
+  "sounds": [
+    "filing-cabinet-pull-psef.125.mp3",
+    "office-typewriter-psef.mp3"
+  ],
+  "tags": [
+    {
+      "name": "metal",
+      "title": {
+        "en": "Metal",
+        "cs": "Kovový"
+      }
+    }
+  ],
+  "modules": []
+}

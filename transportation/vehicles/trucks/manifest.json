@@ -1,0 +1,9 @@
+{
+  "name": "vehicles/vehicles-trucks",
+  "modules": [],
+  "sounds": [
+    "truck-air-brakes-psef.322.mp3",
+    "truck-by-psef.323.mp3",
+    "truck-drive-psef.324.mp3"
+  ]
+}

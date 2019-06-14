@@ -3,12 +3,12 @@
   "baseTag": "drink",
   "sounds": [
     "beer-bottles-clank.mp3",
-    "drink_stir_psef.107.mp3",
-    "glass_shard_smash_psef.141.mp3",
+    "drink-stir-psef.107.mp3",
+    "glass-shard-smash-psef.141.mp3",
     "ice-cubes-glass.mp3",
-    "pop_cork_psef.234.mp3",
-    "pour_glugs_psef.235.mp3",
+    "pop-cork-psef.234.mp3",
     "pour-full-glass.mp3",
+    "pour-glugs-psef.235.mp3",
     "water-drop.mp3"
   ],
   "tags": [
@@ -19,5 +19,6 @@
         "cs": "Pití"
       }
     }
-  ]
+  ],
+  "modules": []
 }

@@ -1,7 +1,7 @@
 {
   "name": "services",
   "sounds": [
-    "front-desk-bells-daniel_simon.mp3"
+    "front-desk-bells-daniel-simon.mp3"
   ],
   "tags": [
     {
@@ -25,5 +25,6 @@
         "cs": "Recepce"
       }
     }
-  ]
+  ],
+  "modules": []
 }

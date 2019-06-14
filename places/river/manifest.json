@@ -1,0 +1,9 @@
+{
+  "name": "places/river",
+  "modules": [],
+  "sounds": [
+    "03-river-small.mp3",
+    "river-small-psef.mp3",
+    "waterfall-loop-psef.mp3"
+  ]
+}

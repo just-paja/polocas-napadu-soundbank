@@ -1,0 +1,8 @@
+{
+  "name": "vehicles/vehicles-funiculars",
+  "modules": [],
+  "sounds": [
+    "funicular-railway-prague-inside.mp3",
+    "funicular-railway-prague-outside.mp3"
+  ]
+}

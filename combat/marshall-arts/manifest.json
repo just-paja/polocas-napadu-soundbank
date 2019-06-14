@@ -1,0 +1,8 @@
+{
+  "name": "combat/marshall-arts",
+  "modules": [],
+  "sounds": [
+    "23-karate-shout-at-10m-in-large-hal.mp3",
+    "24-karate-class-approaching-with-sh.mp3"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vehicles/vehicles-scifi",
+  "modules": [],
+  "sounds": [
+    "scifi-hover-car-pass.mp3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "vehicles/vehicles-trains",
+  "modules": [],
+  "sounds": [
+    "steam-train-whistle.mp3",
+    "steam-whistle-psef.299.mp3",
+    "steamtrain-unknown-passing-psef.298.mp3",
+    "train-european-stop-amb-loop-psef.mp3",
+    "train-hits-guy-train-man-2122004195.mp3",
+    "train-horn-psef.mp3",
+    "train-pass-by-psef.mp3",
+    "tram-pass-by-prague.mp3",
+    "tram-prague-inside.mp3"
+  ]
+}

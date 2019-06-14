@@ -1,0 +1,8 @@
+{
+  "name": "places/cottage",
+  "modules": [],
+  "sounds": [
+    "04-wood-fire-inside-stove.mp3",
+    "fire-furnace-loop-psef.mp3"
+  ]
+}

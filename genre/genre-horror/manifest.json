@@ -2,18 +2,18 @@
   "name": "horror",
   "baseTag": "horror",
   "sounds": [
-    "breaths_psef.030.mp3",
-    "breaths_psef.031.mp3",
-    "breaths_psef.032.mp3",
-    "breaths_psef.033.mp3",
-    "curses_psef.034.mp3",
-    "drone_deep_psef.mp3",
-    "drone_wind_psef.mp3",
-    "riser_layers_psef.035.mp3",
-    "riser_layers_psef.036.mp3",
-    "riser_layers_psef.037.mp3",
-    "stingers_psef.038.mp3",
-    "stingers_psef.039.mp3"
+    "breaths-psef.030.mp3",
+    "breaths-psef.031.mp3",
+    "breaths-psef.032.mp3",
+    "breaths-psef.033.mp3",
+    "curses-psef.034.mp3",
+    "drone-deep-psef.mp3",
+    "drone-wind-psef.mp3",
+    "riser-layers-psef.035.mp3",
+    "riser-layers-psef.036.mp3",
+    "riser-layers-psef.037.mp3",
+    "stingers-psef.038.mp3",
+    "stingers-psef.039.mp3"
   ],
   "tags": [
     {
@@ -44,5 +44,6 @@
         "cs": "Vítr"
       }
     }
-  ]
+  ],
+  "modules": []
 }

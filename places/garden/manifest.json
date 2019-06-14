@@ -1,0 +1,8 @@
+{
+  "name": "places/garden",
+  "modules": [],
+  "sounds": [
+    "lawn-mower-pass-by-multiple-psef.mp3",
+    "water-spray-garden-hose-cone-psef.mp3"
+  ]
+}

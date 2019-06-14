@@ -1,0 +1,12 @@
+{
+  "name": "places/kitchen",
+  "modules": [],
+  "sounds": [
+    "23-dripping-tap.mp3",
+    "24-kettle-being-filled.mp3",
+    "26-gas-stove-one-ring-lit-burns-t.mp3",
+    "27-whistling-kettle-coming-to-the-b.mp3",
+    "28-teapot-being-filled-with-boiling.mp3",
+    "30-frying-an-egg.mp3"
+  ]
+}

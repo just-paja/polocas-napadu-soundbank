@@ -1,0 +1,52 @@
+{
+  "name": "teleport",
+  "baseTag": "teleport",
+  "sounds": [
+    "sub-sonic-bass-drops-psef.284.mp3",
+    "sub-sonic-bass-drops-psef.285.mp3",
+    "sub-sonic-bass-drops-psef.286.mp3",
+    "time-warp.mp3",
+    "transitions-creepy-psef.168.mp3",
+    "transitions-scifi-psef.169.mp3",
+    "transitions-scifi-psef.170.mp3",
+    "transitions-scifi-psef.171.mp3",
+    "transitions-scifi-psef.172.mp3",
+    "transitions-scifi-psef.173.mp3",
+    "transitions-scifi-psef.174.mp3",
+    "transitions-scifi-psef.175.mp3",
+    "transitions-scifi-psef.176.mp3",
+    "transitions-scifi-psef.177.mp3",
+    "transitions-scifi-psef.178.mp3"
+  ],
+  "tags": [
+    {
+      "name": "teleport",
+      "title": {
+        "en": "Teleport",
+        "cs": "Teleport"
+      }
+    },
+    {
+      "name": "beeping",
+      "title": {
+        "en": "Beeping",
+        "cs": "Pípání"
+      }
+    },
+    {
+      "name": "radio",
+      "title": {
+        "en": "Radio",
+        "cs": "Rádio"
+      }
+    },
+    {
+      "name": "alien",
+      "title": {
+        "en": "Alien",
+        "cs": "Mimozemšťan"
+      }
+    }
+  ],
+  "modules": []
+}

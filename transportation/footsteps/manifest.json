@@ -1,0 +1,22 @@
+{
+  "name": "footsteps",
+  "baseTag": "footsteps",
+  "sounds": [
+    "closing-footsteps.mp3",
+    "footsteps-thongs-flipflops-wooden-deck-psef.132.mp3",
+    "hard-shoes-1-daniel-simon.mp3",
+    "soldiers-marching.mp3",
+    "walking-in-snow.mp3",
+    "walking-on-gravel.mp3"
+  ],
+  "tags": [
+    {
+      "name": "footsteps",
+      "title": {
+        "en": "Footsteps",
+        "cs": "Kroky"
+      }
+    }
+  ],
+  "modules": []
+}

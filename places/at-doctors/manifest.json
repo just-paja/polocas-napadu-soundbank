@@ -1,0 +1,12 @@
+{
+  "name": "places/at-doctors",
+  "modules": [],
+  "sounds": [
+    "26-at-the-dentist-polishing.mp3",
+    "27-at-the-dentist-high-speed-drilli.mp3",
+    "28-at-the-dentist-low-speed-drillin.mp3",
+    "29-at-the-dentist-filling.mp3",
+    "30-at-the-dentist-dental-suction-tu.mp3",
+    "31-at-the-dentist-mouthwash.mp3"
+  ]
+}

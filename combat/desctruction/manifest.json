@@ -1,0 +1,16 @@
+{
+  "name": "combat/desctruction",
+  "modules": [],
+  "sounds": [
+    "25-tv-screen-smashed-by-cricket-bal.mp3",
+    "32-destruction-plate.mp3",
+    "33-destruction-mug.mp3",
+    "34-destruction-teapot.mp3",
+    "35-destruction-very-small-window.mp3",
+    "36-destruction-wooden-door.mp3",
+    "37-destruction-brick-wall.mp3",
+    "38-destruction-factory-chimney.mp3",
+    "39-destruction-power-station.mp3",
+    "40-destruction-television-pre-1976.mp3"
+  ]
+}

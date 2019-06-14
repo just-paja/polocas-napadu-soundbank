@@ -1,0 +1,8 @@
+{
+  "name": "places/cave",
+  "modules": [],
+  "sounds": [
+    "water-drops.mp3",
+    "wind-whistle-design-psef.mp3"
+  ]
+}

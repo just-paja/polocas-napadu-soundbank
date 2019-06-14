@@ -1,0 +1,8 @@
+{
+  "name": "places/shipyard",
+  "modules": [],
+  "sounds": [
+    "dock.mp3",
+    "marina-birds-distant-boats-psef.mp3"
+  ]
+}

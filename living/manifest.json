@@ -1,0 +1,12 @@
+{
+  "name": "living",
+  "modules": [
+    "birds",
+    "fish",
+    "humans",
+    "insects",
+    "mammal",
+    "monsters"
+  ],
+  "sounds": []
+}

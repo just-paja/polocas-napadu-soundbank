@@ -2,26 +2,26 @@
   "name": "materials",
   "baseTag": "material",
   "sounds": [
-    "chopping_wood_loop_psef.080.mp3",
-    "crash_glass_psef.087.mp3",
-    "crash_rock_psef.088.mp3",
-    "crash_wall_psef.089.mp3",
-    "crockery_crashes_psef.092.mp3",
-    "large_wood_cracking_psef.190.mp3",
-    "rock_salt_step_psef.248.mp3",
-    "rope_strain_psef.250.mp3",
-    "rubber_stretch_psef.251.mp3",
-    "sand_light_falling_on_stone_psef.253.mp3",
-    "sand_pour_psef.254.mp3",
+    "chopping-wood-loop-psef.080.mp3",
+    "crash-glass-psef.087.mp3",
+    "crash-rock-psef.088.mp3",
+    "crash-wall-psef.089.mp3",
+    "crockery-crashes-psef.092.mp3",
+    "large-wood-cracking-psef.190.mp3",
+    "rock-salt-step-psef.248.mp3",
+    "rope-strain-psef.250.mp3",
+    "rubber-stretch-psef.251.mp3",
+    "sand-light-falling-on-stone-psef.253.mp3",
+    "sand-pour-psef.254.mp3",
     "sawing-wood.mp3",
-    "scrapes_and_scratches_psef.256.mp3",
-    "spring_rusty_tension_psef.292.mp3",
-    "stab_punch_hack_psef.296.mp3",
-    "stone_sliding_door_psef.300.mp3",
-    "stone_thud_psef.301.mp3",
-    "wood_logs_movement_major_psef.345.mp3",
-    "wood_panel_thump_psef.346.mp3",
-    "wood_scrape_psef.347.mp3"
+    "scrapes-and-scratches-psef.256.mp3",
+    "spring-rusty-tension-psef.292.mp3",
+    "stab-punch-hack-psef.296.mp3",
+    "stone-sliding-door-psef.300.mp3",
+    "stone-thud-psef.301.mp3",
+    "wood-logs-movement-major-psef.345.mp3",
+    "wood-panel-thump-psef.346.mp3",
+    "wood-scrape-psef.347.mp3"
   ],
   "tags": [
     {
@@ -31,5 +31,9 @@
         "cs": "Materiál"
       }
     }
+  ],
+  "modules": [
+    "chemicals",
+    "liquids"
   ]
 }
