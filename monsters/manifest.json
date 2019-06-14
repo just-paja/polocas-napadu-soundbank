@@ -2,18 +2,9 @@
   "name": "monsters",
   "baseTag": "monster",
   "sounds": [
-    {
-      "file": "large_creature_growl_psef.189.mp3",
-      "tags": []
-    },
-    {
-      "file": "helloween-monster.mp3",
-      "tags": []
-    },
-    {
-      "file": "zombie-brain-eat.mp3",
-      "tags": []
-    }
+    "helloween-monster.mp3",
+    "large_creature_growl_psef.189.mp3",
+    "zombie-brain-eat.mp3"
   ],
   "tags": [
     {

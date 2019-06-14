@@ -2,30 +2,12 @@
   "name": "underwater",
   "baseTag": "underwater",
   "sounds": [
-    {
-      "file": "air_release_bubble_stream_psef.302.mp3",
-      "tags": ["bubbles"]
-    },
-    {
-      "file": "air_release_woosh_psef.303.mp3",
-      "tags": ["emergence"]
-    },
-    {
-      "file": "air_release_woosh_psef.304.mp3",
-      "tags": ["emergence"]
-    },
-    {
-      "file": "air_release_woosh_psef.305.mp3",
-      "tags": ["emergence"]
-    },
-    {
-      "file": "ambi-underwater.mp3",
-      "tags": []
-    },
-    {
-      "file": "air_whoosh_low_high_comp_psef.074.mp3",
-      "tags": ["swinging", "stick"]
-    }
+    "air_release_bubble_stream_psef.302.mp3",
+    "air_release_woosh_psef.303.mp3",
+    "air_release_woosh_psef.304.mp3",
+    "air_release_woosh_psef.305.mp3",
+    "air_whoosh_low_high_comp_psef.074.mp3",
+    "ambi-underwater.mp3"
   ],
   "tags": [
     {

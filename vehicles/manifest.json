@@ -2,194 +2,57 @@
   "name": "vehicles",
   "baseTag": "vehicle",
   "sounds": [
-    {
-      "file": "aircraft_ct4a_idle_taxi_psef.004.mp3",
-      "tags": ["airplane", "flying", "flyaway"]
-    },
-    {
-      "file": "airplane-fly-by.mp3",
-      "tags": ["airplane", "flyby", "flying"]
-    },
-    {
-      "file": "airplane-landing.mp3",
-      "tags": ["airplane", "landing"]
-    },
-    {
-      "file": "boat_paddle_steamer_1912_loop_psef.041.mp3",
-      "tags": ["loop", "boat", "steamer"]
-    },
-    {
-      "file": "boat_pass_by_psef.042.mp3",
-      "tags": ["boat", "fast", "passby"]
-    },
-    {
-      "file": "bus_by_psef.056.mp3",
-      "tags": ["bus", "passby"]
-    },
-    {
-      "file": "car-door-close.mp3",
-      "tags": ["car", "door", "close"]
-    },
-    {
-      "file": "car-driveaway-brash.mp3",
-      "tags": ["car", "away", "dirtroad", "outside"]
-    },
-    {
-      "file": "car-funky-dixie-horn.mp3",
-      "tags": ["car", "horn", "funny"]
-    },
-    {
-      "file": "cars_veteran_pass_psef.066.mp3",
-      "tags": ["car", "train", "passby", "old"]
-    },
-    {
-      "file": "dragsters_at_finish_line_psef.104.mp3",
-      "tags": ["car", "fast", "passby"]
-    },
-    {
-      "file": "elevator_operate_psef.117.mp3",
-      "tags": ["elevator", "beep", "door", "close"]
-    },
-    {
-      "file": "engine_villiers_412_973_operating_psef.118.mp3",
-      "tags": ["loop", "engine", "starting", "turnoff"]
-    },
-    {
-      "file": "fast_depart_tirescreech_psef.135.mp3",
-      "tags": ["car", "away", "fast"]
-    },
-    {
-      "file": "fire-truck-air-horn.mp3",
-      "tags": ["train", "truck", "horn"]
-    },
-    {
-      "file": "fork_lift_run_psef.133.mp3",
-      "tags": ["forklift", "uplift", "drop"]
-    },
-    {
-      "file": "formula-pass-by.mp3",
-      "tags": ["formula", "car", "passby"]
-    },
-    {
-      "file": "f18_hornet_distant_passby_psef.120.mp3",
-      "tags": ["jet", "distant", "passby"]
-    },
-    {
-      "file": "harley-davidson-daniel_simon.mp3",
-      "tags": ["motobike", "chopper", "starting", "away"]
-    },
-    {
-      "file": "helicopter_pass_by_psef.154.mp3",
-      "tags": ["helicopter", "passby"]
-    },
-    {
-      "file": "horn_1999_camry_psef.158.mp3",
-      "tags": ["car", "horn"]
-    },
-    {
-      "file": "motorcycles_psef.207.mp3",
-      "tags": ["motobike", "loop", "starting", "turnoff"]
-    },
-    {
-      "file": "motor_run_psef.208.mp3",
-      "tags": ["engine", "submarine", "loop"]
-    },
-    {
-      "file": "muscle-car.mp3",
-      "tags": ["car", "starting", "turnoff"]
-    },
-    {
-      "file": "old-car-engine.mp3",
-      "tags": ["car", "old", "starting", "failure"]
-    },
-    {
-      "file": "paddle_boat_paddle_psef.216.mp3",
-      "tags": ["boat", "steamer", "loop"]
-    },
-    {
-      "file": "plane_turbulance_hard_psef.229.mp3",
-      "tags": ["airplane", "train", "disturbances"]
-    },
-    {
-      "file": "police_siren_psef.233.mp3",
-      "tags": ["police", "siren", "loop"]
-    },
-    {
-      "file": "rain_int_car_pouring_roof_psef.236.mp3",
-      "tags": ["car", "rain", "loop"]
-    },
-    {
-      "file": "rapid_transit_bart_train_int_arrive_depart_psef.237.mp3",
-      "tags": ["train", "station", "arrival", "away"]
-    },
-    {
-      "file": "robot_army_march_psef.246.mp3",
-      "tags": ["army", "march", "robot", "loop"]
-    },
-    {
-      "file": "ships_ferries_psef.272.mp3",
-      "tags": ["hum", "loop"]
-    },
-    {
-      "file": "space_ship_pass_by_psef.291.mp3",
-      "tags": ["passby", "spaceship"]
-    },
-    {
-      "file": "steamtrain_unknown_passing_psef.298.mp3",
-      "tags": ["train", "old"]
-    },
-    {
-      "file": "steam-train-whistle.mp3",
-      "tags": ["train", "horn", "old"]
-    },
-    {
-      "file": "steam_whistle_psef.299.mp3",
-      "tags": ["train", "old", "whistle"]
-    },
-    {
-      "file": "boat-row-ambi.mp3",
-      "tags": []
-    },
-    {
-      "file": "helicopter-pass.mp3",
-      "tags": []
-    },
-    {
-      "file": "tank_pass_by__psef.306.mp3",
-      "tags": ["tank", "passby"]
-    },
-    {
-      "file": "tractor_furguson_1956_startup_psef.315.mp3",
-      "tags": ["tractor", "starting"]
-    },
-    {
-      "file": "Train_Hits_Guy-Train_Man-2122004195.mp3",
-      "tags": ["train", "scream", "death"]
-    },
-    {
-      "file": "train_horn_psef.mp3",
-      "tags": ["train", "horn"]
-    },
-    {
-      "file": "train_pass_by_psef.mp3",
-      "tags": ["train", "passby"]
-    },
-    {
-      "file": "truck_air_brakes_psef.322.mp3",
-      "tags": ["truck", "hydraulics"]
-    },
-    {
-      "file": "truck_by_psef.323.mp3",
-      "tags": ["truck", "bus", "passby"]
-    },
-    {
-      "file": "truck_drive_psef.324.mp3",
-      "tags": ["truck", "inside"]
-    },
-    {
-      "file": "submarine-diving-alarm.mp3",
-      "tags": ["alarm", "alert", "submarine"]
-    }
+    "aircraft_ct4a_idle_taxi_psef.004.mp3",
+    "airplane-fly-by.mp3",
+    "airplane-landing.mp3",
+    "boat_paddle_steamer_1912_loop_psef.041.mp3",
+    "boat_pass_by_psef.042.mp3",
+    "boat-row-ambi.mp3",
+    "bus_by_psef.056.mp3",
+    "car-door-close.mp3",
+    "car-driveaway-brash.mp3",
+    "car-funky-dixie-horn.mp3",
+    "cars_veteran_pass_psef.066.mp3",
+    "dragsters_at_finish_line_psef.104.mp3",
+    "elevator_operate_psef.117.mp3",
+    "engine_villiers_412_973_operating_psef.118.mp3",
+    "f18_hornet_distant_passby_psef.120.mp3",
+    "fast_depart_tirescreech_psef.135.mp3",
+    "fire-truck-air-horn.mp3",
+    "fork_lift_run_psef.133.mp3",
+    "formula-pass-by.mp3",
+    "funicular-railway-prague-inside.mp3",
+    "funicular-railway-prague-outside.mp3",
+    "harley-davidson-daniel_simon.mp3",
+    "helicopter_pass_by_psef.154.mp3",
+    "helicopter-pass.mp3",
+    "horn_1999_camry_psef.158.mp3",
+    "motor_run_psef.208.mp3",
+    "motorcycles_psef.207.mp3",
+    "muscle-car.mp3",
+    "old-car-engine.mp3",
+    "paddle_boat_paddle_psef.216.mp3",
+    "plane_turbulance_hard_psef.229.mp3",
+    "police_siren_psef.233.mp3",
+    "rain_int_car_pouring_roof_psef.236.mp3",
+    "rapid_transit_bart_train_int_arrive_depart_psef.237.mp3",
+    "robot_army_march_psef.246.mp3",
+    "ships_ferries_psef.272.mp3",
+    "space_ship_pass_by_psef.291.mp3",
+    "steam_whistle_psef.299.mp3",
+    "steam-train-whistle.mp3",
+    "steamtrain_unknown_passing_psef.298.mp3",
+    "submarine-diving-alarm.mp3",
+    "tank_pass_by__psef.306.mp3",
+    "tractor_furguson_1956_startup_psef.315.mp3",
+    "Train_Hits_Guy-Train_Man-2122004195.mp3",
+    "train_horn_psef.mp3",
+    "train_pass_by_psef.mp3",
+    "tram-pass-by-prague.mp3",
+    "tram-prague-inside.mp3",
+    "truck_air_brakes_psef.322.mp3",
+    "truck_by_psef.323.mp3",
+    "truck_drive_psef.324.mp3"
   ],
   "tags": [
     {

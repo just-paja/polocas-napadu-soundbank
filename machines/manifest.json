@@ -2,18 +2,9 @@
   "name": "machines",
   "baseTag": "machine",
   "sounds": [
-    {
-      "file": "servo_motor_psef.260.mp3",
-      "tags": ["servo"]
-    },
-    {
-      "file": "slot-machine.mp3",
-      "tags": []
-    },
-    {
-      "file": "steam_punk_device_psef.297.mp3",
-      "tags": []
-    }
+    "servo_motor_psef.260.mp3",
+    "slot-machine.mp3",
+    "steam_punk_device_psef.297.mp3"
   ],
   "tags": [
     {

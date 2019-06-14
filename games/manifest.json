@@ -2,14 +2,8 @@
   "name": "games",
   "baseTag": "game",
   "sounds": [
-    {
-      "file": "horn-blast.mp3",
-      "tags": []
-    },
-    {
-      "file": "poker-chips.mp3",
-      "tags": []
-    }
+    "horn-blast.mp3",
+    "poker-chips.mp3"
   ],
   "tags": [
     {

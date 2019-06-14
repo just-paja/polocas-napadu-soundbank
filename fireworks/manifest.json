@@ -2,10 +2,7 @@
   "name": "fireworks",
   "baseTag": "fireworks",
   "sounds": [
-    {
-      "file": "fireworks_display_psef.129.mp3",
-      "tags": []
-    }
+    "fireworks_display_psef.129.mp3"
   ],
   "tags": [
     {

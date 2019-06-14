@@ -2,10 +2,7 @@
   "name": "buttons",
   "baseTag": "button",
   "sounds": [
-    {
-      "file": "buttons_switches_psef.057.mp3",
-      "tags": []
-    }
+    "buttons_switches_psef.057.mp3"
   ],
   "tags": [
     {

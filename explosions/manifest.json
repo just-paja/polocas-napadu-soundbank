@@ -2,18 +2,9 @@
   "name": "explosions",
   "baseTag": "explosion",
   "sounds": [
-    {
-      "file": "c-4explosion_psef.059.mp3",
-      "tags": []
-    },
-    {
-      "file": "explosion_debris_psef.119.mp3",
-      "tags": []
-    },
-    {
-      "file": "explosion-ultra-bass.mp3",
-      "tags": []
-    }
+    "c-4explosion_psef.059.mp3",
+    "explosion_debris_psef.119.mp3",
+    "explosion-ultra-bass.mp3"
   ],
   "tags": [
     {

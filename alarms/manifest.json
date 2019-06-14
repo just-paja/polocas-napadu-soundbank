@@ -2,22 +2,10 @@
   "name": "alarms",
   "baseTag": "alarm",
   "sounds": [
-    {
-      "file": "analog-watch-alarm.mp3",
-      "tags": ["time"]
-    },
-    {
-      "file": "old-fashioned-school-bell.mp3",
-      "tags": ["ringing"]
-    },
-    {
-      "file": "computer-warning-loop.mp3",
-      "tags": ["computer", "warning", "loop"]
-    },
-    {
-      "file": "warning-siren.mp3",
-      "tags": ["warning", "siren"]
-    }
+    "analog-watch-alarm.mp3",
+    "computer-warning-loop.mp3",
+    "old-fashioned-school-bell.mp3",
+    "warning-siren.mp3"
   ],
   "tags": [
     {

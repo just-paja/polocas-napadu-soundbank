@@ -2,38 +2,14 @@
   "name": "media",
   "baseTag": "media",
   "sounds": [
-    {
-      "file": "epic_cinematic_hit_psef.082.mp3",
-      "tags": []
-    },
-    {
-      "file": "glitch_dist_psef.219.mp3",
-      "tags": []
-    },
-    {
-      "file": "news-intro.mp3",
-      "tags": []
-    },
-    {
-      "file": "scanner_police_psef.255.mp3",
-      "tags": []
-    },
-    {
-      "file": "sonar_ping_loop_psef.290.mp3",
-      "tags": []
-    },
-    {
-      "file": "telephones_america_dial_psef.309.mp3",
-      "tags": []
-    },
-    {
-      "file": "television_static_psef.310.mp3",
-      "tags": []
-    },
-    {
-      "file": "test_tone_sine.mp3",
-      "tags": []
-    }
+    "epic_cinematic_hit_psef.082.mp3",
+    "glitch_dist_psef.219.mp3",
+    "news-intro.mp3",
+    "scanner_police_psef.255.mp3",
+    "sonar_ping_loop_psef.290.mp3",
+    "telephones_america_dial_psef.309.mp3",
+    "television_static_psef.310.mp3",
+    "test_tone_sine.mp3"
   ],
   "tags": [
     {

@@ -2,18 +2,9 @@
   "name": "animal-mammal-cattle",
   "baseTag": "cattle",
   "sounds": [
-    {
-      "file": "cow-moos-3x.mp3",
-      "tags": ["cow", "moo"]
-    },
-    {
-      "file": "horse-snorting.mp3",
-      "tags": ["horse", "snort"]
-    },
-    {
-      "file": "pigs-screaming.mp3",
-      "tags": ["pig", "scream"]
-    }
+    "cow-moos-3x.mp3",
+    "horse-snorting.mp3",
+    "pigs-screaming.mp3"
   ],
   "tags": [
     {

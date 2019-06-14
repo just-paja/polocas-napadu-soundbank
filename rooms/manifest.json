@@ -1,18 +1,9 @@
 {
   "name": "rooms",
   "sounds": [
-    {
-      "file": "fan_household_on_oscillating_psef.121.mp3",
-      "tags": ["loop", "fan"]
-    },
-    {
-      "file": "rug_being_pull_out_psef.252.mp3",
-      "tags": ["open", "drawer"]
-    },
-    {
-      "file": "toilet-flush.mp3",
-      "tags": ["toilet", "flush", "shit"]
-    }
+    "fan_household_on_oscillating_psef.121.mp3",
+    "rug_being_pull_out_psef.252.mp3",
+    "toilet-flush.mp3"
   ],
   "tags": [
     {

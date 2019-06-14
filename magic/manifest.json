@@ -2,30 +2,12 @@
   "name": "magic",
   "baseTag": "magic",
   "sounds": [
-    {
-      "file": "fireball_by_psef.128.mp3",
-      "tags": ["fireball"]
-    },
-    {
-      "file": "magic_light_flash_vocal_psef.263.mp3",
-      "tags": ["flash"]
-    },
-    {
-      "file": "magic_light_flash_vocal_psef.264.mp3",
-      "tags": ["flash"]
-    },
-    {
-      "file": "fireball-small.mp3",
-      "tags": []
-    },
-    {
-      "file": "fireball-large.mp3",
-      "tags": []
-    },
-    {
-      "file": "magic_spell_evil_voice_psef.199.mp3",
-      "tags": ["evil"]
-    }
+    "fireball_by_psef.128.mp3",
+    "fireball-large.mp3",
+    "fireball-small.mp3",
+    "magic_light_flash_vocal_psef.263.mp3",
+    "magic_light_flash_vocal_psef.264.mp3",
+    "magic_spell_evil_voice_psef.199.mp3"
   ],
   "tags": [
     {

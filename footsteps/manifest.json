@@ -2,30 +2,12 @@
   "name": "footsteps",
   "baseTag": "footsteps",
   "sounds": [
-    {
-      "file": "closing-footsteps.mp3",
-      "tags": []
-    },
-    {
-      "file": "footsteps_thongs_flipflops_wooden_deck_psef.132.mp3",
-      "tags": []
-    },
-    {
-      "file": "hard_shoes_1-daniel_simon.mp3",
-      "tags": []
-    },
-    {
-      "file": "soldiers-marching.mp3",
-      "tags": []
-    },
-    {
-      "file": "walking-in-snow.mp3",
-      "tags": []
-    },
-    {
-      "file": "walking-on-gravel.mp3",
-      "tags": []
-    }
+    "closing-footsteps.mp3",
+    "footsteps_thongs_flipflops_wooden_deck_psef.132.mp3",
+    "hard_shoes_1-daniel_simon.mp3",
+    "soldiers-marching.mp3",
+    "walking-in-snow.mp3",
+    "walking-on-gravel.mp3"
   ],
   "tags": [
     {

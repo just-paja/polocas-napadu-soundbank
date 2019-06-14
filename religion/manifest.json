@@ -1,22 +1,10 @@
 {
   "name": "religion",
   "sounds": [
-    {
-      "file": "bells-tibetan.mp3",
-      "tags": ["bells", "calm"]
-    },
-    {
-      "file": "church_bells_france_psef.081.mp3",
-      "tags": ["church", "bell", "loop", "countdown"]
-    },
-    {
-      "file": "church-chime.mp3",
-      "tags": ["church", "bells", "wedding", "coronation", "celebration", "loop"]
-    },
-    {
-      "file": "tolling-bell.mp3",
-      "tags": ["bell", "countdown", "evil"]
-    }
+    "bells-tibetan.mp3",
+    "church_bells_france_psef.081.mp3",
+    "church-chime.mp3",
+    "tolling-bell.mp3"
   ],
   "tags": [
     {

@@ -2,10 +2,7 @@
   "name": "genre-western",
   "baseTag": "western",
   "sounds": [
-    {
-      "file": "cowboy-theme.mp3",
-      "tags": ["western"]
-    }
+    "cowboy-theme.mp3"
   ],
   "tags": [
     {

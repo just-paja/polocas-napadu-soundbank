@@ -1,10 +1,7 @@
 {
   "name": "electronics",
   "sounds": [
-    {
-      "file": "frying-circuits.mp3",
-      "tags": ["electronics"]
-    }
+    "frying-circuits.mp3"
   ],
   "tags": [
     {

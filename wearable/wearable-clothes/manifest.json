@@ -2,10 +2,7 @@
   "name": "wearable-clothes",
   "baseTag": "clothes",
   "sounds": [
-    {
-      "file": "zipper-close.mp3",
-      "tags": ["zip"]
-    }
+    "zipper-close.mp3"
   ],
   "tags": [
     {

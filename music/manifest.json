@@ -2,18 +2,9 @@
   "name": "music",
   "baseTag": "music",
   "sounds": [
-    {
-      "file": "Accordion-SoundBible.com-74362576.mp3",
-      "tags": ["loop", "accordion", "harmonica", "funny"]
-    },
-    {
-      "file": "male_singing_bad_psef.201.mp3",
-      "tags": ["singing", "false"]
-    },
-    {
-      "file": "shofar_trumpet_randy_psef.273.mp3",
-      "tags": ["trumpet", "false", "loop"]
-    }
+    "Accordion-SoundBible.com-74362576.mp3",
+    "male_singing_bad_psef.201.mp3",
+    "shofar_trumpet_randy_psef.273.mp3"
   ],
   "tags": [
     {

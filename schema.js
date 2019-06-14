@@ -10,26 +10,6 @@ const ObjectTitle = {
   }
 }
 
-const Sound = {
-  'id': '/Sound',
-  'type': 'object',
-  'properties': {
-    'file': {
-      'type': 'string'
-    },
-    'title': {
-      '$ref': '/ObjectTitle'
-    },
-    'tags': {
-      'type': 'array',
-      'items': {
-        'type': 'string'
-      }
-    }
-  },
-  'required': ['file']
-}
-
 const SoundTag = {
   'id': '/SoundTag',
   'type': 'object',
@@ -65,7 +45,7 @@ const SoundModule = {
     'sounds': {
       'type': 'array',
       'items': {
-        '$ref': '/Sound'
+        'type': 'string'
       }
     },
     'tags': {
@@ -79,17 +59,15 @@ const SoundModule = {
 }
 
 const validateModule = (module) => {
-  const validator = new Validator();
-  validator.addSchema(ObjectTitle, '/ObjectTitle');
-  validator.addSchema(Sound, '/Sound');
-  validator.addSchema(SoundTag, '/SoundTag');
-  validator.addSchema(SoundModule, '/SoundModule');
-  return validator.validate(module, SoundModule);
-};
+  const validator = new Validator()
+  validator.addSchema(ObjectTitle, '/ObjectTitle')
+  validator.addSchema(SoundTag, '/SoundTag')
+  validator.addSchema(SoundModule, '/SoundModule')
+  return validator.validate(module, SoundModule)
+}
 
 module.exports = {
   ObjectTitle,
-  Sound,
   SoundTag,
   SoundModule,
   validateModule

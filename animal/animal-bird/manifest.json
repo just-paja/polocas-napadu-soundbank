@@ -2,42 +2,14 @@
   "name": "animals-birds",
   "baseTag": "bird",
   "sounds": [
-    {
-      "file": "bird-rooster-morning.mp3",
-      "tags": ["rooster", "dawn", "scream"]
-    },
-    {
-      "file": "bird-seagulls-beach.mp3",
-      "tags": ["seagull", "beach", "scream"]
-    },
-    {
-      "file": "bird-tern.mp3",
-      "tags": ["tern", "scream"]
-    },
-    {
-      "file": "fulmar-bird-call.mp3",
-      "tags": ["scream"]
-    },
-    {
-      "file": "seagull.mp3",
-      "tags": ["seagull", "call"]
-    },
-    {
-      "file": "osprey-call.mp3",
-      "tags": ["scream"]
-    },
-    {
-      "file": "bird-singing.mp3",
-      "tags": ["singing", "loop", "outside"]
-    },
-    {
-      "file": "bird-seagulls-beach.mp3",
-      "tags": ["scream", "beach", "outside"]
-    },
-    {
-      "file": "pigeons-flyaway.mp3",
-      "tags": ["pigeon", "flyaway", "outside"]
-    }
+    "bird-rooster-morning.mp3",
+    "bird-seagulls-beach.mp3",
+    "bird-singing.mp3",
+    "bird-tern.mp3",
+    "fulmar-bird-call.mp3",
+    "osprey-call.mp3",
+    "pigeons-flyaway.mp3",
+    "seagull.mp3"
   ],
   "tags": [
     {

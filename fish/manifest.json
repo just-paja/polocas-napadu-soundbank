@@ -2,14 +2,8 @@
   "name": "fish",
   "baseTag": "fish",
   "sounds": [
-    {
-      "file": "fish_small_jump_psef.130.mp3",
-      "tags": []
-    },
-    {
-      "file": "gold_fish_squealin_psef.144.mp3",
-      "tags": []
-    }
+    "fish_small_jump_psef.130.mp3",
+    "gold_fish_squealin_psef.144.mp3"
   ],
   "tags": [
     {

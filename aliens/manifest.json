@@ -1,10 +1,7 @@
 {
   "name": "aliens",
   "sounds": [
-    {
-      "file": "alien-spaceship.mp3",
-      "tags": ["alien", "ambient", "inside", "loop", "on-board", "spaceship"]
-    }
+    "alien-spaceship.mp3"
   ],
   "tags": [
     {

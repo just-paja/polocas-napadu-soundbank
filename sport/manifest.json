@@ -1,9 +1,6 @@
 {
   "name": "sport",
   "sounds": [
-    {
-      "file": "hockey_goal_horn_psef.156.mp3",
-      "tags": ["truck", "boat", "train", "horn"]
-    }
+    "hockey_goal_horn_psef.156.mp3"
   ]
 }

@@ -1,10 +1,7 @@
 {
   "name": "os",
   "sounds": [
-    {
-      "file": "Windows_95_Startup-Microsoft-2077254053.mp3",
-      "tags": ["starting", "pc", "old", "windows95"]
-    }
+    "Windows_95_Startup-Microsoft-2077254053.mp3"
   ],
   "tags": [
     {

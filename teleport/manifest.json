@@ -2,66 +2,21 @@
   "name": "teleport",
   "baseTag": "teleport",
   "sounds": [
-    {
-      "file": "sub_sonic_bass_drops_psef.284.mp3",
-      "tags": ["landing"]
-    },
-    {
-      "file": "sub_sonic_bass_drops_psef.285.mp3",
-      "tags": ["fast"]
-    },
-    {
-      "file": "sub_sonic_bass_drops_psef.286.mp3",
-      "tags": ["fast"]
-    },
-    {
-      "file": "transitions_creepy_psef.168.mp3",
-      "tags": ["mysterious", "transition"]
-    },
-    {
-      "file": "transitions_scifi_psef.169.mp3",
-      "tags": ["transition"]
-    },
-    {
-      "file": "transitions_scifi_psef.170.mp3",
-      "tags": ["spaceship", "passby"]
-    },
-    {
-      "file": "transitions_scifi_psef.171.mp3",
-      "tags": ["alien", "radio", "beeping"]
-    },
-    {
-      "file": "transitions_scifi_psef.172.mp3",
-      "tags": ["transition"]
-    },
-    {
-      "file": "transitions_scifi_psef.173.mp3",
-      "tags": ["alien", "beeping"]
-    },
-    {
-      "file": "transitions_scifi_psef.174.mp3",
-      "tags": ["transition"]
-    },
-    {
-      "file": "transitions_scifi_psef.175.mp3",
-      "tags": ["transition"]
-    },
-    {
-      "file": "transitions_scifi_psef.176.mp3",
-      "tags": ["transition"]
-    },
-    {
-      "file": "transitions_scifi_psef.177.mp3",
-      "tags": ["spaceship", "passby"]
-    },
-    {
-      "file": "time-warp.mp3",
-      "tags": []
-    },
-    {
-      "file": "transitions_scifi_psef.178.mp3",
-      "tags": ["laser"]
-    }
+    "sub_sonic_bass_drops_psef.284.mp3",
+    "sub_sonic_bass_drops_psef.285.mp3",
+    "sub_sonic_bass_drops_psef.286.mp3",
+    "time-warp.mp3",
+    "transitions_creepy_psef.168.mp3",
+    "transitions_scifi_psef.169.mp3",
+    "transitions_scifi_psef.170.mp3",
+    "transitions_scifi_psef.171.mp3",
+    "transitions_scifi_psef.172.mp3",
+    "transitions_scifi_psef.173.mp3",
+    "transitions_scifi_psef.174.mp3",
+    "transitions_scifi_psef.175.mp3",
+    "transitions_scifi_psef.176.mp3",
+    "transitions_scifi_psef.177.mp3",
+    "transitions_scifi_psef.178.mp3"
   ],
   "tags": [
     {

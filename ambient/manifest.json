@@ -2,150 +2,42 @@
   "name": "ambient",
   "baseTag": "ambient",
   "sounds": [
-    {
-      "file": "ambi-nature-park.mp3",
-      "tags": ["park", "ambient", "loop"]
-    },
-    {
-      "file": "ambi-nature-tropical-sandpiper.mp3",
-      "tags": ["tropical", "ambient", "loop"]
-    },
-    {
-      "file": "sea-waves.mp3",
-      "tags": ["sea", "waves", "ambient", "loop"]
-    },
-    {
-      "file": "birds_park_ambience_loop_psef.mp3",
-      "tags": ["park", "ambient", "loop"]
-    },
-    {
-      "file": "casino_slot_machines_psef.mp3",
-      "tags": ["casino", "cash", "slotMachine", "ambient", "loop"]
-    },
-    {
-      "file": "city_traffic_psef.mp3",
-      "tags": ["city", "traffic", "road", "ambient", "loop"]
-    },
-    {
-      "file": "crickets_night_psef.mp3",
-      "tags": ["nature", "night", "outside", "awkward", "ambient", "loop"]
-    },
-    {
-      "file": "computer_room_psef.mp3",
-      "tags": ["inside", "room", "computer", "cooling", "machine", "ambient", "loop"]
-    },
-    {
-      "file": "earthquake_rumble_psef.mp3",
-      "tags": ["earthquake", "scary", "ambient", "loop"]
-    },
-    {
-      "file": "elevated_train_interior_psef.mp3",
-      "tags": ["inside", "train", "departure", "publicTransport", "metro", "ride", "ambient", "loop"]
-    },
-    {
-      "file": "factory_heavy_activity_psef.mp3",
-      "tags": ["inside", "factory", "work", "machinery", "engine", "ambient", "loop"]
-    },
-    {
-      "file": "ferry_sea_wash_psef.mp3",
-      "tags": ["outside", "ship", "sea", "ocean", "water", "ambient", "loop"]
-    },
-    {
-      "file": "fire_furnace_loop_psef.mp3",
-      "tags": ["fire", "humm", "ambient", "loop"]
-    },
-    {
-      "file": "children_schoolyard_psef.mp3",
-      "tags": ["outside", "children", "schoolyard", "shouting", "screaming", "playing", "ambient"]
-    },
-    {
-      "file": "lawn_mower_pass_by_multiple_psef.mp3",
-      "tags": ["outside", "grass", "lawn", "lawnMover", "passBy", "ambient", "loop"]
-    },
-    {
-      "file": "mangrove_atmosphere_psef.mp3",
-      "tags": ["outside", "mangrove", "evening", "bird", "ambient", "loop"]
-    },
-    {
-      "file": "marina_birds_distant_boats_psef.mp3",
-      "tags": ["outside", "marina", "sea", "ocean", "bird", "ambient", "loop"]
-    },
-    {
-      "file": "museum_crowd_walla_france_psef.mp3",
-      "tags": ["inside", "museum", "crowd", "indistinct", "ambient", "loop"]
-    },
-    {
-      "file": "office_typewriter_psef.mp3",
-      "tags": ["inside", "typewriter", "writer", "book", "author", "ambient", "loop"]
-    },
-    {
-      "file": "restaurant_pizza_parlor_walla_psef.mp3",
-      "tags": ["inside", "restaurant", "pizzeria", "busy", "ambient", "loop"]
-    },
-    {
-      "file": "river_small_psef.mp3",
-      "tags": ["outside", "river", "stream", "water", "ambient", "loop"]
-    },
-    {
-      "file": "seawash_tide_psef.mp3",
-      "tags": ["outside", "sea", "ocean", "water", "ambient", "loop"]
-    },
-    {
-      "file": "thunder_rain_psef.mp3",
-      "tags": ["outside", "thunder", "storm", "rain", "lightning", "ambient", "loop"]
-    },
-    {
-      "file": "traffic_suburb_bys_psef.mp3",
-      "tags": ["outside", "traffic", "idle", "passBy", "ambient", "loop"]
-    },
-    {
-      "file": "train_european_stop_amb_loop_psef.mp3",
-      "tags": ["inside", "traffic", "train", "tram", "travel", "ambient"]
-    },
-    {
-      "file": "tropical_bird_ambience_loop_psef.mp3",
-      "tags": ["outside", "bird", "tropical", "jungle", "animal", "ambient", "loop"]
-    },
-    {
-      "file": "tropical_bird_psef.mp3",
-      "tags": ["outside", "bird", "tropical", "jungle", "ambient", "loop"]
-    },
-    {
-      "file": "two_frogs_close_up_psef.mp3",
-      "tags": ["outside", "night", "frog", "bird", "byLake", "ambient", "loop"]
-    },
-    {
-      "file": "waterfall_loop_psef.mp3",
-      "tags": ["outside", "waterfall", "water", "byRiver", "ambient", "loop"]
-    },
-    {
-      "file": "water_spray_garden_hose_cone_psef.mp3",
-      "tags": ["outside", "hose", "garden", "water", "byRiver", "ambient", "loop"]
-    },
-    {
-      "file": "tidal-wave.mp3",
-      "tags": []
-    },
-    {
-      "file": "fireplace.mp3",
-      "tags": []
-    },
-    {
-      "file": "dock.mp3",
-      "tags": []
-    },
-    {
-      "file": "monsoon.mp3",
-      "tags": []
-    },
-    {
-      "file": "water-drops.mp3",
-      "tags": ["inside", "cave", "water", "drops", "ambient", "loop"]
-    },
-    {
-      "file": "wind_whistle_design_psef.mp3",
-      "tags": ["outside", "wind", "whistle", "air", "wailing", "scary", "ambient", "loop"]
-    }
+    "ambi-nature-park.mp3",
+    "ambi-nature-tropical-sandpiper.mp3",
+    "birds_park_ambience_loop_psef.mp3",
+    "casino_slot_machines_psef.mp3",
+    "children_schoolyard_psef.mp3",
+    "city_traffic_psef.mp3",
+    "computer_room_psef.mp3",
+    "crickets_night_psef.mp3",
+    "dock.mp3",
+    "earthquake_rumble_psef.mp3",
+    "elevated_train_interior_psef.mp3",
+    "factory_heavy_activity_psef.mp3",
+    "ferry_sea_wash_psef.mp3",
+    "fire_furnace_loop_psef.mp3",
+    "fireplace.mp3",
+    "lawn_mower_pass_by_multiple_psef.mp3",
+    "mangrove_atmosphere_psef.mp3",
+    "marina_birds_distant_boats_psef.mp3",
+    "monsoon.mp3",
+    "museum_crowd_walla_france_psef.mp3",
+    "office_typewriter_psef.mp3",
+    "restaurant_pizza_parlor_walla_psef.mp3",
+    "river_small_psef.mp3",
+    "sea-waves.mp3",
+    "seawash_tide_psef.mp3",
+    "thunder_rain_psef.mp3",
+    "tidal-wave.mp3",
+    "traffic_suburb_bys_psef.mp3",
+    "train_european_stop_amb_loop_psef.mp3",
+    "tropical_bird_ambience_loop_psef.mp3",
+    "tropical_bird_psef.mp3",
+    "two_frogs_close_up_psef.mp3",
+    "water_spray_garden_hose_cone_psef.mp3",
+    "water-drops.mp3",
+    "waterfall_loop_psef.mp3",
+    "wind_whistle_design_psef.mp3"
   ],
   "tags": [
     {

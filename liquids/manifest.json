@@ -2,10 +2,7 @@
   "name": "liquids",
   "baseTag": "liquid",
   "sounds": [
-    {
-      "file": "drip_spill_splash_psef.108.mp3",
-      "tags": []
-    }
+    "drip_spill_splash_psef.108.mp3"
   ],
   "tags": [
     {

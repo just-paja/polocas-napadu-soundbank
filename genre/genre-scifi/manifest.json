@@ -2,14 +2,8 @@
   "name": "genre-scifi",
   "baseTag": "scifi",
   "sounds": [
-    {
-      "file": "drone_energy_psef.mp3",
-      "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "ambient", "loop"]
-    },
-    {
-      "file": "drone_feedback_psef.mp3",
-      "tags": ["humm", "factory", "reactor", "bzzz", "energy", "engine", "scary", "halfLife", "ambient", "loop"]
-    }
+    "drone_energy_psef.mp3",
+    "drone_feedback_psef.mp3"
   ],
   "tags": [
     {

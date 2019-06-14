@@ -2,62 +2,20 @@
   "name": "animal-mammal-wild",
   "baseTag": "animal-wild",
   "sounds": [
-    {
-      "file": "alpaca-male-mating-call.mp3",
-      "tags": ["alpaca", "mating", "animal-call", "medium-size"]
-    },
-    {
-      "file": "gibbon-monkeys.mp3",
-      "tags": ["monkey", "gibbon", "cheering", "small-size"]
-    },
-    {
-      "file": "lion-roars.mp3",
-      "tags": ["lion", "roar", "big-size"]
-    },
-    {
-      "file": "seal-call.mp3",
-      "tags": ["seal", "animal-call", "big-size"]
-    },
-    {
-      "file": "ape.mp3",
-      "tags": ["ape", "monkey", "big-size"]
-    },
-    {
-      "file": "fisher-cat.mp3",
-      "tags": ["cat", "medium-size"]
-    },
-    {
-      "file": "gorilla.mp3",
-      "tags": ["gorilla", "ape", "monkey", "big-size"]
-    },
-    {
-      "file": "chimpanzee.mp3",
-      "tags": ["chimp", "monkey", "medium-size"]
-    },
-    {
-      "file": "monkey-howls.mp3",
-      "tags": ["monkey", "medium-size"]
-    },
-    {
-      "file": "monkeys-monkeying.mp3",
-      "tags": ["monkey", "medium-size"]
-    },
-    {
-      "file": "pig-snort-heavy.mp3",
-      "tags": ["pig", "snort", "heavy", "big-size"]
-    },
-    {
-      "file": "pig-snorting-long.mp3",
-      "tags": ["pig", "snort", "big-size"]
-    },
-    {
-      "file": "pig-snort-once.mp3",
-      "tags": ["pig", "snort",  "big-size"]
-    },
-    {
-      "file": "tasmanian-devil.mp3",
-      "tags": ["tasmanian-devil", "animal-call", "small-size"]
-    }
+    "alpaca-male-mating-call.mp3",
+    "ape.mp3",
+    "chimpanzee.mp3",
+    "fisher-cat.mp3",
+    "gibbon-monkeys.mp3",
+    "gorilla.mp3",
+    "lion-roars.mp3",
+    "monkey-howls.mp3",
+    "monkeys-monkeying.mp3",
+    "pig-snort-heavy.mp3",
+    "pig-snort-once.mp3",
+    "pig-snorting-long.mp3",
+    "seal-call.mp3",
+    "tasmanian-devil.mp3"
   ],
   "tags": [
     {

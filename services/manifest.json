@@ -1,10 +1,7 @@
 {
   "name": "services",
   "sounds": [
-    {
-      "file": "front-desk-bells-daniel_simon.mp3",
-      "tags": ["hotel", "bell", "reception"]
-    }
+    "front-desk-bells-daniel_simon.mp3"
   ],
   "tags": [
     {

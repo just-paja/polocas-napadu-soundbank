@@ -2,22 +2,10 @@
   "name": "furniture",
   "baseTag": "furniture",
   "sounds": [
-    {
-      "file": "antique_drawer_close_psef.018.mp3",
-      "tags": []
-    },
-    {
-      "file": "drawer_utility_large_full_close_psef.105.mp3",
-      "tags": []
-    },
-    {
-      "file": "chair_movement_metal_psef.077.mp3",
-      "tags": []
-    },
-    {
-      "file": "chair_push_back_psef.078.mp3",
-      "tags": []
-    }
+    "antique_drawer_close_psef.018.mp3",
+    "chair_movement_metal_psef.077.mp3",
+    "chair_push_back_psef.078.mp3",
+    "drawer_utility_large_full_close_psef.105.mp3"
   ],
   "tags": [
     {

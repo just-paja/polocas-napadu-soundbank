@@ -2,10 +2,7 @@
   "name": "luggage",
   "baseTag": "luggage",
   "sounds": [
-    {
-      "file": "shoulder_bag_drop_psef.277.mp3",
-      "tags": []
-    }
+    "shoulder_bag_drop_psef.277.mp3"
   ],
   "tags": [
     {

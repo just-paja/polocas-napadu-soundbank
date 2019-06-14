@@ -2,10 +2,7 @@
   "name": "chemicals",
   "baseTag": "chemical",
   "sounds": [
-    {
-      "file": "household_acid_fizz_psef.001.mp3",
-      "tags": []
-    }
+    "household_acid_fizz_psef.001.mp3"
   ],
   "tags": [
     {

@@ -2,10 +2,7 @@
   "name": "clock",
   "baseTag": "clock",
   "sounds": [
-    {
-      "file": "grandpa_antique_tick_far_psef.145.mp3",
-      "tags": []
-    }
+    "grandpa_antique_tick_far_psef.145.mp3"
   ],
   "tags": [
     {

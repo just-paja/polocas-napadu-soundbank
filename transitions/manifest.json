@@ -2,38 +2,14 @@
   "name": "transitions",
   "baseTag": "transition",
   "sounds": [
-    {
-      "file": "cinematic_mega_horns_psef.279.mp3",
-      "tags": ["fantasy", "horn", "fart"]
-    },
-    {
-      "file": "cinematic_mega_horns_psef.280.mp3",
-      "tags": ["sci-fi", "vibrations"]
-    },
-    {
-      "file": "cinematic_mega_horns_psef.281.mp3",
-      "tags": ["sci-fi", "laser"]
-    },
-    {
-      "file": "cinematic_risers_psef.282.mp3",
-      "tags": ["sci-fi"]
-    },
-    {
-      "file": "cinematic_risers_psef.283.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "dark_cinematic_transition_psef.083.mp3",
-      "tags": ["mysterious"]
-    },
-    {
-      "file": "distorter_low_repeat_psef.278.mp3",
-      "tags": ["vibrations"]
-    },
-    {
-      "file": "swell_dark_shimmer_bell_like_psef.mp3",
-      "tags": ["mysterious", "horror"]
-    }
+    "cinematic_mega_horns_psef.279.mp3",
+    "cinematic_mega_horns_psef.280.mp3",
+    "cinematic_mega_horns_psef.281.mp3",
+    "cinematic_risers_psef.282.mp3",
+    "cinematic_risers_psef.283.mp3",
+    "dark_cinematic_transition_psef.083.mp3",
+    "distorter_low_repeat_psef.278.mp3",
+    "swell_dark_shimmer_bell_like_psef.mp3"
   ],
   "tags": [
     {

@@ -2,50 +2,17 @@
   "name": "communication",
   "baseTag": "communication",
   "sounds": [
-    {
-      "file": "america-dial-tone.mp3",
-      "tags": []
-    },
-    {
-      "file": "applause-light.mp3",
-      "tags": []
-    },
-    {
-      "file": "electric-typewriter.mp3",
-      "tags": []
-    },
-    {
-      "file": "fast-drawing.mp3",
-      "tags": []
-    },
-    {
-      "file": "machine_answer_seq_psef.198.mp3",
-      "tags": []
-    },
-    {
-      "file": "pencil_scribble_psef.223.mp3",
-      "tags": []
-    },
-    {
-      "file": "phone_cell_lg_vibrate_buzz_psef.225.mp3",
-      "tags": []
-    },
-    {
-      "file": "phone-ring-cartoon.mp3",
-      "tags": []
-    },
-    {
-      "file": "phone-ringing-earphone.mp3",
-      "tags": []
-    },
-    {
-      "file": "phone-ring-80s.mp3",
-      "tags": []
-    },
-    {
-      "file": "phone-ring-modern.mp3",
-      "tags": []
-    }
+    "america-dial-tone.mp3",
+    "applause-light.mp3",
+    "electric-typewriter.mp3",
+    "fast-drawing.mp3",
+    "machine_answer_seq_psef.198.mp3",
+    "pencil_scribble_psef.223.mp3",
+    "phone_cell_lg_vibrate_buzz_psef.225.mp3",
+    "phone-ring-80s.mp3",
+    "phone-ring-cartoon.mp3",
+    "phone-ring-modern.mp3",
+    "phone-ringing-earphone.mp3"
   ],
   "tags": [
     {

@@ -2,54 +2,18 @@
   "name": "horror",
   "baseTag": "horror",
   "sounds": [
-    {
-      "file": "breaths_psef.030.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "breaths_psef.031.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "breaths_psef.032.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "breaths_psef.033.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "curses_psef.034.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "riser_layers_psef.035.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "riser_layers_psef.036.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "riser_layers_psef.037.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "stingers_psef.038.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "stingers_psef.039.mp3",
-      "tags": ["horror"]
-    },
-    {
-      "file": "drone_deep_psef.mp3",
-      "tags": ["ambient", "scary", "loop", "humm"]
-    },
-    {
-      "file": "drone_wind_psef.mp3",
-      "tags": ["ambient", "scary", "loop", "hallway", "cave", "wind"]
-    }
+    "breaths_psef.030.mp3",
+    "breaths_psef.031.mp3",
+    "breaths_psef.032.mp3",
+    "breaths_psef.033.mp3",
+    "curses_psef.034.mp3",
+    "drone_deep_psef.mp3",
+    "drone_wind_psef.mp3",
+    "riser_layers_psef.035.mp3",
+    "riser_layers_psef.036.mp3",
+    "riser_layers_psef.037.mp3",
+    "stingers_psef.038.mp3",
+    "stingers_psef.039.mp3"
   ],
   "tags": [
     {

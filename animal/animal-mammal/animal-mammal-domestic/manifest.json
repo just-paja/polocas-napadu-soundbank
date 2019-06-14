@@ -2,42 +2,15 @@
   "name": "animal-mammal-domestic",
   "baseTag": "animal-domestic",
   "sounds": [
-    {
-      "file": "cat-meow-food-twice.mp3",
-      "tags": ["cat", "small-size"]
-    },
-    {
-      "file": "cat-meow-what-once.mp3",
-      "tags": ["cat", "small-size"]
-    },
-    {
-      "file": "dog-bark-doberman-pincher.mp3",
-      "tags": ["dog", "bark", "big-size"]
-    },
-    {
-      "file": "dog-bark-chihuahua.mp3",
-      "tags": ["dog", "bark", "small-size"]
-    },
-    {
-      "file": "dog-bark-ratter-continuous.mp3",
-      "tags": ["dog", "bark", "small-size"]
-    },
-    {
-      "file": "dog-panting-breathing-fast.mp3",
-      "tags": ["dog", "breath"]
-    },
-    {
-      "file": "dog-bark-labrador.mp3",
-      "tags": ["dog", "bark", "big-size"]
-    },
-    {
-      "file": "guinea-pig-squeak.mp3",
-      "tags": ["guinea-pig", "squeak"]
-    },
-    {
-      "file": "dog-howling-yapping.mp3",
-      "tags": ["dog", "howl"]
-    }
+    "cat-meow-food-twice.mp3",
+    "cat-meow-what-once.mp3",
+    "dog-bark-chihuahua.mp3",
+    "dog-bark-doberman-pincher.mp3",
+    "dog-bark-labrador.mp3",
+    "dog-bark-ratter-continuous.mp3",
+    "dog-howling-yapping.mp3",
+    "dog-panting-breathing-fast.mp3",
+    "guinea-pig-squeak.mp3"
   ],
   "tags": [
     {

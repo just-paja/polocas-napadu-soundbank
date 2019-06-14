@@ -2,34 +2,13 @@
   "name": "fight",
   "baseTag": "fight",
   "sounds": [
-    {
-      "file": "body_fall_floor_psef.043.mp3",
-      "tags": []
-    },
-    {
-      "file": "combat_whoosh_psef.084.mp3",
-      "tags": []
-    },
-    {
-      "file": "left-hook.mp3",
-      "tags": []
-    },
-    {
-      "file": "punch.mp3",
-      "tags": []
-    },
-    {
-      "file": "punch2.mp3",
-      "tags": []
-    },
-    {
-      "file": "right-hook.mp3",
-      "tags": []
-    },
-    {
-      "file": "slap.mp3",
-      "tags": []
-    }
+    "body_fall_floor_psef.043.mp3",
+    "combat_whoosh_psef.084.mp3",
+    "left-hook.mp3",
+    "punch.mp3",
+    "punch2.mp3",
+    "right-hook.mp3",
+    "slap.mp3"
   ],
   "tags": [
     {

@@ -2,14 +2,8 @@
   "name": "weather",
   "baseTag": "weather",
   "sounds": [
-    {
-      "file": "thunder_sound_FX-Grant_Evans-1523270250.mp3",
-      "tags": ["thunder", "lightning", "storm", "ambient", "outside", "loop"]
-    },
-    {
-      "file": "Wind-Mark_DiAngelo-1940285615.mp3",
-      "tags": ["wind", "howling", "mountains", "wasteland","cold"]
-    }
+    "thunder_sound_FX-Grant_Evans-1523270250.mp3",
+    "Wind-Mark_DiAngelo-1940285615.mp3"
   ],
   "tags": [
     {

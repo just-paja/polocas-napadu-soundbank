@@ -1,10 +1,7 @@
 {
   "name": "wearable-armor",
   "sounds": [
-    {
-      "file": "gas-mask-breathe.mp3",
-      "tags": ["armor", "breath", "gas", "protection", "war"]
-    }
+    "gas-mask-breathe.mp3"
   ],
   "tags": [
     {
