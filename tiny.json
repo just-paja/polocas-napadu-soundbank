@@ -1,18 +1,14 @@
 {
   "name": "studio-polocas",
   "modules": [
-    "alarms",
-    "aliens",
-    "animal",
-    "genre",
-    "wearable"
+    "weather"
   ],
   "tags": [
     {
       "name": "ambient",
       "title": {
         "en": "Ambient",
-        "cs": "Porstředí"
+        "cs": "Prostředí"
       }
     },
     {
